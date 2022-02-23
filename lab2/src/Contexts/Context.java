@@ -1,5 +1,9 @@
 package Contexts;
 
+import Constants.Constants;
+import Exceptions.EmptyVarException;
+import Exceptions.MapException;
+
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Stack;
@@ -25,9 +29,23 @@ public class Context {
         return _stack.pop();
     }
 
+    public void push(Double value) {
+        _stack.push(value);
+    };
+
+    public Boolean isHasValue(String key){
+        return _vars.containsKey(key);
+    }
+
+    public Double searchValue(String key) throws MapException {
+        if(_vars.containsKey(key)){
+            return _vars.get(key);
+        }
+        throw new MapException(Constants.EMPTY_STR);
+    }
+
     public void addValue(String define, Double val) {
         _vars.put(define, val);
-        _stack.push(Double.parseDouble(define));
     }
 
     public void addValue(Double val){

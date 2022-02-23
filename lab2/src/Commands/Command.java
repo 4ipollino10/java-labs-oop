@@ -18,6 +18,6 @@ public abstract class Command {
         return _args;
     }
 
-    public abstract String execute(Context context) throws EmptyStackSectionException, DivisionByZeroException, MathException, EmptyVarException;
+    public abstract String execute(Context context) throws EmptyStackSectionException, DivisionByZeroException, MathException, EmptyVarException, MapException;
 
 }
