@@ -33,9 +33,7 @@ class MulCommandTest {
     void executeExceptionTest1() {
         Context context = new Context();
 
-        Exception exception = assertThrows(EmptyStackSectionException.class, () -> {
-            mulCommand.execute(context);
-        });
+        Exception exception = assertThrows(EmptyStackSectionException.class, () -> mulCommand.execute(context));
 
         String expectedMessage = Constants.EMPTY_STACK_EXCEPTION_ERROR_TEXT;
         String actualMessage = exception.getMessage();
@@ -49,9 +47,7 @@ class MulCommandTest {
 
         context.push(1.0);
 
-        Exception exception = assertThrows(EmptyStackSectionException.class, () -> {
-            mulCommand.execute(context);
-        });
+        Exception exception = assertThrows(EmptyStackSectionException.class, () -> mulCommand.execute(context));
 
         String expectedMessage = Constants.EMPTY_STACK_EXCEPTION_ERROR_TEXT;
         String actualMessage = exception.getMessage();

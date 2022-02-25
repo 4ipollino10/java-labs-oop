@@ -49,9 +49,7 @@ class AddCommandTest {
 
         context.push(1.0);
 
-        Exception exception = assertThrows(EmptyStackSectionException.class, () -> {
-            addCommand.execute(context);
-        });
+        Exception exception = assertThrows(EmptyStackSectionException.class, () -> addCommand.execute(context));
 
         String expectedMessage = Constants.EMPTY_STACK_EXCEPTION_ERROR_TEXT;
         String actualMessage = exception.getMessage();
