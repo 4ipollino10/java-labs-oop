@@ -7,6 +7,8 @@ import Exceptions.MapException;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Stack;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 public class Context {
     private final Stack<Double> _stack;
@@ -17,8 +19,8 @@ public class Context {
         _vars = new HashMap<>();
     }
 
-    public String getStackPeek(){
-        return _stack.peek().toString();
+    public Double getStackPeek(){
+        return _stack.peek();
     }
 
     public Map<String, Double> getVars(){
@@ -35,6 +37,13 @@ public class Context {
 
     public Boolean isHasValue(String key){
         return _vars.containsKey(key);
+    }
+
+    public boolean isNormalName(String name) {
+        String regex = Constants.VAR_NAME_FILTER;
+        Pattern p = Pattern.compile(regex, Pattern.CASE_INSENSITIVE);
+        Matcher m = p.matcher(name);
+        return m.matches();
     }
 
     public Double searchValue(String key) throws MapException {

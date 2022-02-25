@@ -3,7 +3,6 @@ package Executors;
 import Commands.Command;
 import Constants.Constants;
 import Contexts.Context;
-import Exceptions.BadNumOfArgsException;
 import Exceptions.CommandNotFoundException;
 import Factorys.CommandFactory;
 

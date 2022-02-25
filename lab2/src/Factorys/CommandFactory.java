@@ -2,7 +2,6 @@ package Factorys;
 
 import Commands.Command;
 import Constants.Constants;
-import Exceptions.BadNumOfArgsException;
 import Exceptions.CommandNotFoundException;
 
 import java.io.IOException;
@@ -16,7 +15,10 @@ public class CommandFactory {
 
     public CommandFactory()throws IOException{
         _commandProperties = new Properties();
-        _commandProperties.load(CommandFactory.class.getClassLoader().getResourceAsStream(Constants.COMMANDS_PATH));
+        _commandProperties.load(CommandFactory
+                .class
+                .getClassLoader()
+                .getResourceAsStream(Constants.COMMANDS_PATH));
     }
 
     public static CommandFactory getInstance()throws IOException{
@@ -26,8 +28,14 @@ public class CommandFactory {
         return _commandFactory;
     }
 
-    public Command getCommand(String command, List<String> args) throws IOException, CommandNotFoundException, ClassNotFoundException,
-            NoSuchMethodException,IllegalAccessException, InstantiationException, InvocationTargetException, BadNumOfArgsException {
+    public Command getCommand(String command, List<String> args) throws
+            IOException,
+            CommandNotFoundException,
+            ClassNotFoundException,
+            NoSuchMethodException,
+            IllegalAccessException,
+            InstantiationException,
+            InvocationTargetException {
 
         Properties config = new Properties();
         config.load(CommandFactory.class.getClassLoader().getResourceAsStream(Constants.CONFIG_PATH));
@@ -35,8 +43,10 @@ public class CommandFactory {
         if(!_commandProperties.containsKey(command)){
             throw new CommandNotFoundException(Constants.COMMAND_NOT_FOUND_EXCEPTION_ERROR_TEXT + command);
         }
-        //System.out.println(Class.forName(config.getProperty(Constants.COMMAND_CLASS_PATH) + _commandProperties.get(command)));
-        return (Command)Class.forName(config.getProperty(Constants.COMMAND_CLASS_PATH) +
-                _commandProperties.get(command)).getConstructor(new Class[]{List.class}).newInstance(args);
+        return (Command)Class.
+                forName(config.getProperty(Constants.COMMAND_CLASS_PATH) +
+                _commandProperties.get(command))
+                .getConstructor(new Class[]{List.class})
+                .newInstance(args);
     }
 }

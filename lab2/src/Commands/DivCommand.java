@@ -7,9 +7,9 @@ import Exceptions.EmptyStackSectionException;
 
 import java.util.EmptyStackException;
 import java.util.List;
-import java.util.Map;
-import java.util.Stack;
 import Contexts.Context;
+
+
 public class DivCommand extends Command {
     public DivCommand(List<String> args) throws BadNumOfArgsException {
         super(args);
@@ -19,7 +19,10 @@ public class DivCommand extends Command {
     }
 
     @Override
-    public String execute(Context context) throws EmptyStackSectionException, DivisionByZeroException {
+    public String execute(Context context) throws
+            EmptyStackSectionException,
+            DivisionByZeroException {
+
         double firstVal, secondVal;
         try {
             firstVal = context.pop();

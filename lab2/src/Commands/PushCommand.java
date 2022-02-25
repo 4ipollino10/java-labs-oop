@@ -3,14 +3,11 @@ package Commands;
 import Contexts.Context;
 import Constants.Constants;
 import Exceptions.BadNumOfArgsException;
-import Exceptions.EmptyStackSectionException;
 import Exceptions.EmptyVarException;
 import Exceptions.MapException;
 
 import java.util.List;
-import java.util.Map;
 import java.util.Scanner;
-import java.util.Stack;
 
 public class PushCommand extends Command{
     public PushCommand(List<String> args) throws BadNumOfArgsException {
@@ -21,17 +18,21 @@ public class PushCommand extends Command{
     }
 
     @Override
-    public String execute(Context context) throws EmptyVarException, MapException {
+    public String execute(Context context) throws
+            EmptyVarException,
+            MapException {
+
         double val;
         if(new Scanner(getArgs().get(Constants.PUSH_VALUE_ARG)).hasNextDouble()){
             val = Double.parseDouble(getArgs().get(Constants.PUSH_VALUE_ARG));
             context.addValue(val);
+
         }else if(context.isHasValue(getArgs().get(Constants.PUSH_VALUE_ARG))){
-            System.out.println("11111");
             val = context.searchValue(getArgs().get(Constants.PUSH_VALUE_ARG));
             context.addValue(val);
+
         }else{
-            throw new EmptyVarException(Constants.EMPTY_VAR_EXCEPTION_ERROR_TEXT);
+            throw new EmptyVarException(Constants.EMPTY_VAR_EXCEPTION_ERROR_TEXT1);
         }
         return null;
     }

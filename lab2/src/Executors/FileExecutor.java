@@ -4,7 +4,6 @@ import Commands.Command;
 import Constants.Constants;
 import Contexts.Context;
 import Exceptions.BadInputFileException;
-import Exceptions.BadNumOfArgsException;
 import Exceptions.CommandNotFoundException;
 import Exceptions.ParseException;
 import Factorys.CommandFactory;

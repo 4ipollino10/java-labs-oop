@@ -6,8 +6,6 @@ import Exceptions.EmptyStackSectionException;
 
 import java.util.EmptyStackException;
 import java.util.List;
-import java.util.Map;
-import java.util.Stack;
 import Contexts.Context;
 
 public class MulCommand extends Command{

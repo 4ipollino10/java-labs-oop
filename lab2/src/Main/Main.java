@@ -6,7 +6,6 @@ import Executors.Executor;
 import Executors.FileExecutor;
 import Executors.SISExecutor;
 
-import java.io.IOException;
 
 public class Main {
 

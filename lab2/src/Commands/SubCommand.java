@@ -19,17 +19,20 @@ public class SubCommand extends Command{
     @Override
     public String execute(Context context) throws EmptyStackSectionException{
         double firstVal, secondVal;
+
         try {
             firstVal = context.pop();
         }catch (EmptyStackException e){
             throw new EmptyStackSectionException(Constants.EMPTY_STACK_EXCEPTION_ERROR_TEXT);
         }
+
         try {
             secondVal = context.pop();
         }catch (EmptyStackException e){
             context.push(firstVal);
             throw new EmptyStackSectionException(Constants.EMPTY_STACK_EXCEPTION_ERROR_TEXT);
         }
+
         context.addValue(firstVal - secondVal);
         return null;
     }

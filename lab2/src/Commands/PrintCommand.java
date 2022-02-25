@@ -2,14 +2,12 @@ package Commands;
 
 import Contexts.Context;
 import Constants.Constants;
-import Contexts.Context;
 import Exceptions.BadNumOfArgsException;
 import Exceptions.EmptyStackSectionException;
 
 import java.util.EmptyStackException;
 import java.util.List;
-import java.util.Map;
-import java.util.Stack;
+
 
 public class PrintCommand extends Command {
     public PrintCommand(List<String> args) throws BadNumOfArgsException {
@@ -22,7 +20,7 @@ public class PrintCommand extends Command {
     @Override
     public String execute(Context context) throws EmptyStackSectionException {
         try{
-            return context.getStackPeek();
+            return context.getStackPeek().toString();
         }catch (EmptyStackException e){
             throw new EmptyStackSectionException(Constants.EMPTY_STACK_EXCEPTION_ERROR_TEXT);
         }

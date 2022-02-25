@@ -8,8 +8,7 @@ import Exceptions.MathException;
 
 import java.util.EmptyStackException;
 import java.util.List;
-import java.util.Map;
-import java.util.Stack;
+
 
 import static java.lang.Math.sqrt;
 
@@ -22,7 +21,10 @@ public class SQRTCommand extends Command{
     }
 
     @Override
-    public String execute(Context context) throws EmptyStackSectionException, MathException {
+    public String execute(Context context) throws
+            EmptyStackSectionException,
+            MathException {
+
         double firstVal;
         try {
             firstVal = context.pop();

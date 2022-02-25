@@ -17,14 +17,24 @@ public class DefineCommand extends Command{
     }
 
     @Override
-    public String execute(Context context) throws EmptyStackSectionException, DivisionByZeroException, MathException, EmptyVarException {
+    public String execute(Context context) throws
+            EmptyVarException,
+            BadVarNameException {
+
         double value;
         try{
+            if(!context.isNormalName(getArgs().get(Constants.DEFINE_ARG))){
+                throw new BadVarNameException(Constants.BAD_VAR_NAME_ERROR_TEXT);
+            }
+
             value = Double.parseDouble(getArgs().get(Constants.VALUE_ARG));
+
             context.addValue(getArgs().get(Constants.DEFINE_ARG), value);
         }catch (NumberFormatException e){
             try {
+
                 value = context.searchValue(getArgs().get(Constants.VALUE_ARG));
+
                 context.addValue(getArgs().get(Constants.DEFINE_ARG), value);
             }catch (MapException ex){
                 throw new EmptyVarException(Constants.EMPTY_VAR_EXCEPTION_ERROR_TEXT);
