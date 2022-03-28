@@ -1,7 +1,7 @@
 package game.minesweeper.lab3.GUI.utils;
 
 
-import game.MinesSweeper.utils.Constants;
+import game.minesweeper.lab3.utils.Constants;
 import javafx.event.EventHandler;
 import javafx.scene.control.Button;
 import javafx.scene.input.MouseButton;

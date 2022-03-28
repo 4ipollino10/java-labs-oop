@@ -1,10 +1,9 @@
-package game.minesweeper.lab3.Controllers;
+package game.minesweeper.lab3.controllers;
 
-package game.MinesSweeper.controllers;
 
-import game.MinesSweeper.models.GameModel;
-import game.MinesSweeper.utils.Cell;
-import game.MinesSweeper.utils.Constants;
+import game.minesweeper.lab3.models.GameModel;
+import game.minesweeper.lab3.utils.Cell;
+import game.minesweeper.lab3.utils.Constants;
 
 import java.util.ArrayList;
 import java.util.Objects;

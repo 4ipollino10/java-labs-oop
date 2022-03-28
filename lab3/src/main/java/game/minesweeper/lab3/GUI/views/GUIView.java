@@ -1,6 +1,6 @@
 package game.minesweeper.lab3.GUI.views;
 
-package game.MinesSweeper.GUI.views;
+
 
 import javafx.scene.Scene;
 import javafx.scene.layout.AnchorPane;

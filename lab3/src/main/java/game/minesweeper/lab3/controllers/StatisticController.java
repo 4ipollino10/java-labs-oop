@@ -1,8 +1,6 @@
-package game.minesweeper.lab3.Controllers;
+package game.minesweeper.lab3.controllers;
 
-
-import game.minesSweeper.models.StatisticModel;
-import game.minesSweeper.utils.Constants;
+import game.minesweeper.lab3.utils.Constants;
 import javafx.util.Pair;
 
 import java.io.BufferedReader;
@@ -33,7 +31,7 @@ public class StatisticController {
     }
 
     public void writeStat(String playerName) {
-        String line = "";
+        String line;
         ArrayList<Pair<String ,Integer>> inData = new ArrayList<>();
         boolean flag = false;
         try (BufferedReader br = new BufferedReader(new FileReader(STAT_PATH))) {
@@ -57,7 +55,7 @@ public class StatisticController {
         Collections.reverse(inData);
 
 
-        try (FileWriter fileWriter = new FileWriter(STAT_PATH);) {
+        try (FileWriter fileWriter = new FileWriter(STAT_PATH)) {
             for (Pair<String ,Integer> p: inData ) {
 
                 String result_CSV_line = p.getKey() + CSV_SEPARATOR + p.getValue();

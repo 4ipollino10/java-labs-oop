@@ -1,11 +1,11 @@
 package game.minesweeper.lab3.GUI.views;
 
-package game.MinesSweeper.GUI.views;
 
-import game.MinesSweeper.GUI.utils.MyButton;
-import game.MinesSweeper.controllers.StatisticController;
-import game.MinesSweeper.models.StatisticModel;
-import game.MinesSweeper.utils.Constants;
+
+import game.minesweeper.lab3.GUI.utils.MyButton;
+import game.minesweeper.lab3.controllers.StatisticController;
+import game.minesweeper.lab3.models.StatisticModel;
+import game.minesweeper.lab3.utils.Constants;
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
 import javafx.scene.control.Label;
