@@ -1,11 +1,12 @@
 package game.minesweeper.lab3.models;
 
+import game.minesweeper.lab3.utils.Constants;
+
 import java.io.*;
 import java.util.ArrayList;
 import java.util.List;
 
 public class StatisticModel {
-    private static final String STAT_PATH = "src/main/resources/data.csv";
     private static final String CSV_SEPARATOR = ",";
 
 
@@ -18,7 +19,7 @@ public class StatisticModel {
         String line = "";
         List<String[]> outputData = new ArrayList<>();
 
-        try (BufferedReader br = new BufferedReader(new FileReader(STAT_PATH));) {
+        try (BufferedReader br = new BufferedReader(new FileReader(Constants.STAT_PATH));) {
             while ((line = br.readLine()) != null) {
 
                 String[] data = line.split(CSV_SEPARATOR);

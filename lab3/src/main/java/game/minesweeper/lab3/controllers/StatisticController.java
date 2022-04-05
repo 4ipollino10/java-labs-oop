@@ -14,7 +14,7 @@ import java.util.regex.Pattern;
 import static java.util.Comparator.comparing;
 
 public class StatisticController {
-    private static final String STAT_PATH = "src/main/resources/data.csv";
+
     private static final String CSV_SEPARATOR = ",";
 
     public StatisticController(){}
@@ -34,7 +34,7 @@ public class StatisticController {
         String line;
         ArrayList<Pair<String ,Integer>> inData = new ArrayList<>();
         boolean flag = false;
-        try (BufferedReader br = new BufferedReader(new FileReader(STAT_PATH))) {
+        try (BufferedReader br = new BufferedReader(new FileReader(Constants.STAT_PATH))) {
             while ((line = br.readLine()) != null) {
 
                 String[] data = line.split(CSV_SEPARATOR);
@@ -55,7 +55,7 @@ public class StatisticController {
         Collections.reverse(inData);
 
 
-        try (FileWriter fileWriter = new FileWriter(STAT_PATH)) {
+        try (FileWriter fileWriter = new FileWriter(Constants.STAT_PATH)) {
             for (Pair<String ,Integer> p: inData ) {
 
                 String result_CSV_line = p.getKey() + CSV_SEPARATOR + p.getValue();

@@ -96,6 +96,7 @@ public class Constants {
             |prod.GT                  v1.0 |
             --------------------------------
             """;
+    public static final String STAT_PATH = "src/main/resources/data.csv";
     public static final int NAME = 0;
     public static final int COUNT = 1;
     public static final String STAT_LABEL = "TOP 10 PLAYERS: ";
