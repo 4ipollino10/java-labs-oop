@@ -34,47 +34,36 @@ public class GUIModeMenuView extends GUIView{
         MyButton trdModeButton = new MyButton(Constants.TRD_MODE_BUTTON_NAME);
         MyButton backButton = new MyButton(Constants.BACK_BUTTON_NAME);
 
-        fstModeButton.setOnAction(new EventHandler<ActionEvent>() {
+        setNextView(fstModeButton, Constants.FST_MODE_MATRIX_SIZE);
+        setNextView(sndModeButton, Constants.SND_MODE_MATRIX_SIZE);
+        setNextView(trdModeButton, Constants.TRD_MODE_MATRIX_SIZE);
+        addButtons(backButton);
+    }
 
-            @Override
-            public void handle(ActionEvent actionEvent) {
-                _anchorPane.getChildren().clear();
-                new GUIGameMenuView(getStage(),Constants.FST_MODE_MATRIX_SIZE);
-            }
-        });
-
-        sndModeButton.setOnAction(new EventHandler<ActionEvent>() {
-
-            @Override
-            public void handle(ActionEvent actionEvent) {
-                _anchorPane.getChildren().clear();
-                new GUIGameMenuView(getStage(), Constants.SND_MODE_MATRIX_SIZE);
-            }
-        });
-
-        trdModeButton.setOnAction(new EventHandler<ActionEvent>() {
-
-            @Override
-            public void handle(ActionEvent actionEvent) {
-                _anchorPane.getChildren().clear();
-                new GUIGameMenuView(getStage(),Constants.TRD_MODE_MATRIX_SIZE);
-            }
-        });
-
-        backButton.setOnAction(new EventHandler<ActionEvent>() {
+    private void addButtons(MyButton button){
+        button.setOnAction(new EventHandler<ActionEvent>() {
 
             @Override
             public void handle(ActionEvent actionEvent) {
                 new GUIMainMenuView(getStage());
             }
         });
-        addButtons(fstModeButton);
-        addButtons(sndModeButton);
-        addButtons(trdModeButton);
-        addButtons(backButton);
+
+
+        button.setLayoutX(Constants.MENU_BUTTON_START_X);
+        button.setLayoutY(Constants.MENU_BUTTON_START_Y + _buttons.size() * Constants.SHIFT);
+        _buttons.add(button);
+        _anchorPane.getChildren().add(button);
     }
 
-    private void addButtons(MyButton button){
+    private void setNextView(MyButton button, int mode){
+        button.setOnAction(new EventHandler<ActionEvent>() {
+            @Override
+            public void handle(ActionEvent actionEvent) {
+                _anchorPane.getChildren().clear();
+                new GUIGameMenuView(getStage(), mode);
+            }
+        });
         button.setLayoutX(Constants.MENU_BUTTON_START_X);
         button.setLayoutY(Constants.MENU_BUTTON_START_Y + _buttons.size() * Constants.SHIFT);
         _buttons.add(button);

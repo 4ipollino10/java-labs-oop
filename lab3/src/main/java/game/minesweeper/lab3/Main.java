@@ -30,11 +30,10 @@ public class Main extends Application {
         if(Objects.equals(view, Constants.SIS_GAME_VIEW)){
             SISView currentView = new SISMainMenuView();
             while(true){
-                if(currentView == null){
+                if(currentView == null) {
                     System.out.println(Constants.EXIT_MESSAGE);
                     System.exit(0);
                 }
-                Runtime.getRuntime().exec("cls");
                 currentView = currentView.show();
             }
 
