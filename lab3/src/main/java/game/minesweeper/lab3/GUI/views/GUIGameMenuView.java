@@ -93,7 +93,7 @@ public class GUIGameMenuView extends GUIView{
 
                         if(Objects.equals(turnResult, Constants.GAME_OVER_LOOSE_MESSAGE)){
                             _anchorPane.getChildren().clear();
-                            new GUIMainMenuView(getStage());
+                            new GUIEndGameMenuView(getStage(), Constants.GAME_OVER_LOOSE_MESSAGE);
 
                         }else if(Objects.equals(turnResult, Constants.GAME_OVER_WIN_MESSAGE)){
                             _anchorPane.getChildren().clear();
