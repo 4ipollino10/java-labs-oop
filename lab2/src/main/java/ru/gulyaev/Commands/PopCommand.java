@@ -1,21 +1,20 @@
 package ru.gulyaev.Commands;
 
-import Contexts.Context;
-import Constants.Constants;
-import Exceptions.BadNumOfArgsException;
-import Exceptions.EmptyStackSectionException;
+import ru.gulyaev.Constants.Constants;
+import ru.gulyaev.Contexts.Context;
+import ru.gulyaev.Exceptions.BadNumOfArgsException;
+import ru.gulyaev.Exceptions.EmptyStackSectionException;
 
 import java.util.EmptyStackException;
 import java.util.List;
-import java.util.Map;
-import java.util.Stack;
+
 
 
 public class PopCommand extends Command{
     public PopCommand(List<String> args) throws BadNumOfArgsException {
         super(args);
         if(args.size() != Constants.MAX_DEFAULT_COMMAND_ARGS_AMOUNT){
-            throw new BadNumOfArgsException(Constants.BAD_AMOUNT_OF_COMMAND_ARGS_ERROR_TEXT);
+            throw new BadNumOfArgsException(Constants.BAD_AMOUNT_OF_COMMAND_ARGS_EXCEPTION_ERROR_TEXT);
         }
     }
 

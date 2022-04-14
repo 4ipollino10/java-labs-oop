@@ -1,15 +1,11 @@
 package ru.gulyaev.Commands;
-
-
-import Contexts.Context;
-import Exceptions.*;
+import ru.gulyaev.Contexts.Context;
+import ru.gulyaev.Exceptions.*;
 
 import java.util.List;
-import java.util.Map;
-import java.util.Stack;
 
 public abstract class Command {
-    private List<String> _args;
+    private final List<String> _args;
 
     public Command(List<String> args) throws BadNumOfArgsException{
         _args = args;
@@ -19,6 +15,12 @@ public abstract class Command {
         return _args;
     }
 
-    public abstract String execute(Context context) throws EmptyStackSectionException, DivisionByZeroException, MathException, EmptyVarException;
+    public abstract String execute(Context context) throws
+            EmptyStackSectionException,
+            DivisionByZeroException,
+            MathException,
+            EmptyVarException,
+            MapException,
+            BadVarNameException;
 
 }
