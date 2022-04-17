@@ -1,0 +1,40 @@
+2022-04-17 19:24:47 INFO  Main:15 - So, it begins...
+2022-04-17 19:24:47 INFO  SISExecutor:19 - SIS executor has started his work
+2022-04-17 19:24:58 INFO  SISExecutor:40 - Reading command started
+2022-04-17 19:24:58 ERROR SISExecutor:54 - Execution ended with execution exception
+2022-04-17 19:24:58 INFO  Main:35 - We did it!
+2022-04-17 19:37:34 INFO  Main:15 - So, it begins...
+2022-04-17 19:37:34 INFO  SISExecutor:19 - SIS executor has started his work
+2022-04-17 19:37:43 INFO  SISExecutor:40 - Reading command started
+2022-04-17 19:37:43 ERROR SISExecutor:54 - Execution ended with execution exception
+2022-04-17 19:37:43 INFO  Main:35 - We did it!
+2022-04-17 19:44:53 INFO  Main:15 - So, it begins...
+2022-04-17 19:44:53 INFO  SISExecutor:19 - SIS executor has started his work
+2022-04-17 19:44:57 INFO  SISExecutor:40 - Reading command started
+2022-04-17 19:44:57 ERROR SISExecutor:54 - Execution ended with execution exception
+2022-04-17 19:44:57 INFO  Main:35 - We did it!
+2022-04-17 19:47:16 INFO  Main:15 - So, it begins...
+2022-04-17 19:47:16 INFO  SISExecutor:19 - SIS executor has started his work
+2022-04-17 19:47:21 INFO  SISExecutor:40 - Reading command started
+2022-04-17 19:47:21 ERROR SISExecutor:54 - Execution ended with execution exception
+2022-04-17 19:47:21 INFO  Main:35 - We did it!
+2022-04-17 19:48:29 INFO  Main:15 - So, it begins...
+2022-04-17 19:48:29 INFO  SISExecutor:19 - SIS executor has started his work
+2022-04-17 19:48:34 INFO  SISExecutor:40 - Reading command started
+2022-04-17 19:48:34 ERROR SISExecutor:54 - Execution ended with execution exception
+2022-04-17 19:48:34 INFO  Main:35 - We did it!
+2022-04-17 19:49:05 INFO  Main:15 - So, it begins...
+2022-04-17 19:49:05 INFO  SISExecutor:19 - SIS executor has started his work
+2022-04-17 19:49:10 INFO  SISExecutor:40 - Reading command started
+2022-04-17 19:49:10 ERROR SISExecutor:46 - No such command
+2022-04-17 19:49:14 INFO  SISExecutor:40 - Reading command started
+2022-04-17 19:49:59 INFO  Main:15 - So, it begins...
+2022-04-17 19:49:59 INFO  SISExecutor:19 - SIS executor has started his work
+2022-04-17 19:50:04 INFO  SISExecutor:40 - Reading command started
+2022-04-17 19:50:04 ERROR SISExecutor:50 - Bad amount of command args
+2022-04-17 19:50:11 INFO  SISExecutor:40 - Reading command started
+2022-04-17 19:50:14 INFO  SISExecutor:40 - Reading command started
+2022-04-17 19:50:20 INFO  SISExecutor:40 - Reading command started
+2022-04-17 19:50:21 INFO  SISExecutor:40 - Reading command started
+2022-04-17 19:50:23 INFO  SISExecutor:40 - Reading command started
+2022-04-17 19:50:27 INFO  Main:35 - We did it!

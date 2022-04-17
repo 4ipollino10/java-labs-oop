@@ -1,11 +1,10 @@
 package ru.gulyaev.commands;
 
 import org.junit.jupiter.api.Test;
-import ru.gulyaev.Commands.PrintCommand;
-import ru.gulyaev.Constants.Constants;
-import ru.gulyaev.Contexts.Context;
-import ru.gulyaev.Exceptions.BadNumOfArgsException;
-import ru.gulyaev.Exceptions.EmptyStackSectionException;
+import ru.gulyaev.util.Constants;
+import ru.gulyaev.util.contexts.Context;
+import ru.gulyaev.exceptions.BadNumOfArgsException;
+import ru.gulyaev.exceptions.EmptyStackSectionException;
 
 import java.util.ArrayList;
 import java.util.Arrays;

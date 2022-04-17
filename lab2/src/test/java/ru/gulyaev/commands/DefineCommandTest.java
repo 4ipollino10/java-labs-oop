@@ -3,13 +3,12 @@ package ru.gulyaev.commands;
 import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
-import ru.gulyaev.Commands.DefineCommand;
-import ru.gulyaev.Constants.Constants;
-import ru.gulyaev.Contexts.Context;
-import ru.gulyaev.Exceptions.BadNumOfArgsException;
-import ru.gulyaev.Exceptions.BadVarNameException;
-import ru.gulyaev.Exceptions.EmptyVarException;
-import ru.gulyaev.Exceptions.MapException;
+import ru.gulyaev.util.Constants;
+import ru.gulyaev.util.contexts.Context;
+import ru.gulyaev.exceptions.BadNumOfArgsException;
+import ru.gulyaev.exceptions.BadVarNameException;
+import ru.gulyaev.exceptions.EmptyVarException;
+import ru.gulyaev.exceptions.MapException;
 
 import java.util.ArrayList;
 import java.util.Arrays;

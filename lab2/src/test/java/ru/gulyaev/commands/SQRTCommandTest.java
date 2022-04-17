@@ -1,12 +1,11 @@
 package ru.gulyaev.commands;
 
 import org.junit.jupiter.api.Test;
-import ru.gulyaev.Commands.SQRTCommand;
-import ru.gulyaev.Constants.Constants;
-import ru.gulyaev.Contexts.Context;
-import ru.gulyaev.Exceptions.BadNumOfArgsException;
-import ru.gulyaev.Exceptions.EmptyStackSectionException;
-import ru.gulyaev.Exceptions.MathException;
+import ru.gulyaev.util.Constants;
+import ru.gulyaev.util.contexts.Context;
+import ru.gulyaev.exceptions.BadNumOfArgsException;
+import ru.gulyaev.exceptions.EmptyStackSectionException;
+import ru.gulyaev.exceptions.MathException;
 
 import java.util.ArrayList;
 import java.util.Arrays;

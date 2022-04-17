@@ -1,19 +1,20 @@
 package ru.gulyaev;
 
-import ru.gulyaev.Constants.Constants;
-import ru.gulyaev.Exceptions.BadInputFileException;
-import ru.gulyaev.Executors.Executor;
-import ru.gulyaev.Executors.FileExecutor;
-import ru.gulyaev.Executors.SISExecutor;
-
-import java.io.IOException;
+import org.apache.log4j.Logger;
+import ru.gulyaev.util.Constants;
+import ru.gulyaev.exceptions.BadInputFileException;
+import ru.gulyaev.executors.Executor;
+import ru.gulyaev.executors.FileExecutor;
+import ru.gulyaev.executors.SISExecutor;
 
 public class Main {
-    private static final String className = Main.class.getSimpleName();
+    private static final Logger log = Logger.getLogger(Main.class);
 
     public static void main(String[] args) {
-        Executor executor = null;
+        Executor executor;
+        log.info(Constants.START_MESSAGE);
         if (args.length > Constants.MAX_INPUT_ARGS_AMOUNT) {
+            log.error(Constants.ARGS_AMOUNT_EXCEPTION);
             return;
         }
         else if (args.length == Constants.MAX_INPUT_ARGS_AMOUNT) {
@@ -21,6 +22,7 @@ public class Main {
                 executor = new FileExecutor(args[Constants.FILE_NAME_ARG]);
 
             } catch (BadInputFileException e) {
+                log.error(Constants.INPUT_FILE_EXCEPTION);
                 System.out.println(e.getMessage());
                 return;
             }
@@ -30,6 +32,7 @@ public class Main {
         }
 
         executor.execute();
+        log.info(Constants.END_MESSAGE);
     }
 }
 

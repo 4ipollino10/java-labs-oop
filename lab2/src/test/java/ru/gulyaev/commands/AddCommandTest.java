@@ -3,16 +3,13 @@ package ru.gulyaev.commands;
 import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
-import ru.gulyaev.Commands.AddCommand;
-import ru.gulyaev.Constants.Constants;
-import ru.gulyaev.Contexts.Context;
-import ru.gulyaev.Exceptions.BadNumOfArgsException;
-import ru.gulyaev.Exceptions.EmptyStackSectionException;
+import ru.gulyaev.util.Constants;
+import ru.gulyaev.util.contexts.Context;
+import ru.gulyaev.exceptions.BadNumOfArgsException;
+import ru.gulyaev.exceptions.EmptyStackSectionException;
 
 import java.util.ArrayList;
 import java.util.Arrays;
-
-import static org.junit.jupiter.api.Assertions.*;
 
 class AddCommandTest {
     private final AddCommand addCommand = new AddCommand(new ArrayList<>(Arrays.asList("+".split(""))));
