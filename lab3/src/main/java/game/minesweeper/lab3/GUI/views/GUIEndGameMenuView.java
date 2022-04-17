@@ -27,9 +27,9 @@ public class GUIEndGameMenuView extends GUIView{
     public GUIEndGameMenuView(Stage stage, String gameResult){
         super(stage);
         _controller = new StatisticController();
+        _label = new Label();
         _anchorPane = new AnchorPane();
         _buttons = new ArrayList<>();
-        _label = new Label();
         createTextField();
         createBg(gameResult);
         setNewScene(_anchorPane);
