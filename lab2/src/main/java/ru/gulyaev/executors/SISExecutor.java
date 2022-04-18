@@ -62,6 +62,7 @@ public class SISExecutor implements Executor{
                     System.out.println(result);
                 }
             }catch (Exception e){
+                e.printStackTrace();
                 log.error(Constants.EXECUTION_ERROR);
                 System.out.println(e.getMessage());
 

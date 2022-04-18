@@ -15,6 +15,7 @@ public class Main {
         log.info(Constants.START_MESSAGE);
         if (args.length > Constants.MAX_INPUT_ARGS_AMOUNT) {
             log.error(Constants.ARGS_AMOUNT_EXCEPTION);
+            System.out.println(Constants.BAD_AMOUNT_OF_APPLICATION_ARGS_ERROR_TEXT);
             return;
         }
         else if (args.length == Constants.MAX_INPUT_ARGS_AMOUNT) {

@@ -23,9 +23,10 @@ public class PushCommand extends Command{
             EmptyVarException,
             MapException {
 
-        double val;
-        if(new Scanner(getArgs().get(Constants.PUSH_VALUE_ARG)).hasNextDouble()){
-            val = Double.parseDouble(getArgs().get(Constants.PUSH_VALUE_ARG));
+
+        Double val = new Scanner(this.getArgs().get(Constants.PUSH_VALUE_ARG)).nextDouble();
+        if(val != null){
+
             context.addValue(val);
 
         }else if(context.isHasValue(getArgs().get(Constants.PUSH_VALUE_ARG))){

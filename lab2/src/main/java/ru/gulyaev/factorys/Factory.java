@@ -40,8 +40,7 @@ public class Factory {
         if(!_commandProperties.containsKey(command)){
             throw new CommandNotFoundException(Constants.COMMAND_NOT_FOUND_EXCEPTION_ERROR_TEXT + command);
         }
-        return (Command)Class.
-                forName(config.getProperty(Constants.COMMAND_CLASS_PATH) + _commandProperties.get(command)).getConstructor(new Class[]{List.class}).newInstance(args);
+        return (Command)Class.forName(config.getProperty(Constants.COMMAND_CLASS_PATH) + _commandProperties.get(command)).getConstructor(new Class[]{List.class}).newInstance(args);
     }
 
 

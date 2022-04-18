@@ -1,8 +1,136 @@
-2022-04-17 19:58:45 INFO  Main:15 - So, it begins...
-2022-04-17 19:58:45 INFO  SISExecutor:19 - SIS executor has started his work
-2022-04-17 19:59:21 INFO  SISExecutor:40 - Reading command started
-2022-04-17 19:59:26 INFO  SISExecutor:40 - Reading command started
-2022-04-17 19:59:32 INFO  SISExecutor:40 - Reading command started
-2022-04-17 19:59:34 INFO  SISExecutor:40 - Reading command started
-2022-04-17 19:59:36 INFO  SISExecutor:40 - Reading command started
-2022-04-17 19:59:38 INFO  Main:35 - We did it!
+2022-04-18 16:45:34 INFO  Main:15 - So, it begins...
+2022-04-18 16:45:34 INFO  FileExecutor:29 - File executor has started his work
+2022-04-18 16:45:34 INFO  FileExecutor:34 - Reading file started
+2022-04-18 16:45:34 INFO  FileExecutor:66 - Reading command started
+2022-04-18 16:45:34 ERROR FileExecutor:71 - Failed reading properties file
+2022-04-18 16:45:34 INFO  Main:35 - We did it!
+2022-04-18 16:46:58 INFO  Main:15 - So, it begins...
+2022-04-18 16:46:58 INFO  FileExecutor:29 - File executor has started his work
+2022-04-18 16:46:58 INFO  FileExecutor:34 - Reading file started
+2022-04-18 16:46:58 INFO  FileExecutor:67 - Reading command started
+2022-04-18 16:46:58 ERROR FileExecutor:72 - Failed reading properties file
+2022-04-18 16:46:58 INFO  Main:35 - We did it!
+2022-04-18 16:47:42 INFO  Main:15 - So, it begins...
+2022-04-18 16:47:42 INFO  FileExecutor:30 - File executor has started his work
+2022-04-18 16:47:42 INFO  FileExecutor:36 - Reading file started
+2022-04-18 16:47:42 INFO  FileExecutor:69 - Reading command started
+2022-04-18 16:47:42 INFO  FileExecutor:69 - Reading command started
+2022-04-18 16:47:42 INFO  FileExecutor:69 - Reading command started
+2022-04-18 16:47:42 INFO  FileExecutor:69 - Reading command started
+2022-04-18 16:47:42 INFO  FileExecutor:43 - Execution started
+2022-04-18 16:47:42 INFO  FileExecutor:48 - Execution ended well
+2022-04-18 16:47:42 INFO  Main:35 - We did it!
+2022-04-18 16:47:57 INFO  Main:15 - So, it begins...
+2022-04-18 16:47:57 ERROR Main:17 - Bad Amount Of Args Exception
+2022-04-18 16:56:34 INFO  Main:15 - So, it begins...
+2022-04-18 16:56:34 ERROR Main:17 - Bad Amount Of Args Exception
+2022-04-18 17:16:16 INFO  Main:15 - So, it begins...
+2022-04-18 17:16:16 ERROR Main:17 - Bad Amount Of Args Exception
+2022-04-18 17:16:19 INFO  Main:15 - So, it begins...
+2022-04-18 17:16:19 ERROR Main:17 - Bad Amount Of Args Exception
+2022-04-18 17:16:27 INFO  Main:15 - So, it begins...
+2022-04-18 17:16:27 INFO  SISExecutor:19 - SIS executor has started his work
+2022-04-18 17:16:31 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:16:33 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:16:35 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:16:36 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:16:39 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:16:43 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:16:44 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:16:49 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:16:52 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:16:56 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:16:56 ERROR SISExecutor:46 - No such command
+2022-04-18 17:17:01 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:17:01 ERROR SISExecutor:46 - No such command
+2022-04-18 17:17:04 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:17:07 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:17:12 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:17:12 ERROR SISExecutor:65 - Execution ended with execution exception
+2022-04-18 17:17:30 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:17:30 ERROR SISExecutor:50 - Bad amount of command args
+2022-04-18 17:17:37 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:17:38 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:17:44 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:17:48 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:17:48 ERROR SISExecutor:65 - Execution ended with execution exception
+2022-04-18 17:17:53 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:17:55 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:17:58 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:17:59 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:18:01 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:18:02 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:18:04 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:18:06 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:18:09 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:18:16 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:18:17 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:18:20 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:18:21 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:18:22 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:18:24 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:18:25 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:18:27 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:18:28 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:18:30 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:18:31 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:18:33 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:19:06 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:19:11 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:19:11 ERROR SISExecutor:65 - Execution ended with execution exception
+2022-04-18 17:19:18 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:19:18 ERROR SISExecutor:65 - Execution ended with execution exception
+2022-04-18 17:19:37 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:19:38 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:19:41 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:19:44 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:19:59 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:19:59 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:20:02 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:20:02 ERROR SISExecutor:46 - No such command
+2022-04-18 17:20:05 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:20:10 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:20:12 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:20:13 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:20:13 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:20:13 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:20:14 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:20:14 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:20:14 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:20:14 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:20:14 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:20:15 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:20:15 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:20:15 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:20:15 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:20:17 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:22:44 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:22:45 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:22:45 ERROR SISExecutor:65 - Execution ended with execution exception
+2022-04-18 17:23:01 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:23:01 ERROR SISExecutor:65 - Execution ended with execution exception
+2022-04-18 17:23:09 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:23:21 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:23:23 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:23:30 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:23:33 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:23:37 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:23:38 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:23:43 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:23:44 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:23:46 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:23:48 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:23:49 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:23:53 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:23:55 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:24:00 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:24:12 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:24:14 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:24:16 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:24:27 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:24:31 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:24:33 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:24:38 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:24:38 ERROR SISExecutor:65 - Execution ended with execution exception
+2022-04-18 17:24:45 INFO  SISExecutor:40 - Reading command started
+2022-04-18 17:24:45 ERROR SISExecutor:65 - Execution ended with execution exception

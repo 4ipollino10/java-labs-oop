@@ -9,6 +9,7 @@ import ru.gulyaev.exceptions.*;
 
 import java.io.*;
 
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
@@ -18,7 +19,7 @@ public class FileExecutor implements Executor{
 
     private final BufferedReader _reader;
 
-    private List<Command> _commands;
+    private final List<Command> _commands;
 
     public FileExecutor(String fileName) throws BadInputFileException {
         try {
@@ -27,6 +28,7 @@ public class FileExecutor implements Executor{
             throw new BadInputFileException(Constants.BAD_INPUT_FILE_EXCEPTION_ERROR_TEXT);
         }
         log.info(Constants.FILE_EXECUTOR_START_MESSAGE);
+        _commands = new ArrayList<>();
     }
 
     public void execute(){
@@ -69,6 +71,7 @@ public class FileExecutor implements Executor{
             close();
         } catch(Exception e){
             log.error(Constants.PROPERTIES_ERROR);
+            e.printStackTrace();
             System.out.println(e.getMessage());
             throw new ParseException(Constants.PARSE_EXCEPTION_ERROR_TEXT);
         }
