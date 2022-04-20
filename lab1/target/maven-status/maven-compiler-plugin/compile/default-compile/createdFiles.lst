@@ -1,0 +1,8 @@
+ru\gulyaev\FileReader.class
+ru\gulyaev\Main.class
+ru\gulyaev\BadInputFileException.class
+ru\gulyaev\Constants.class
+ru\gulyaev\CSVMaker.class
+ru\gulyaev\StringParser.class
+ru\gulyaev\Context.class
+ru\gulyaev\BadOutputFileException.class
