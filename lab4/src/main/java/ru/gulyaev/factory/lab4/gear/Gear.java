@@ -1,4 +1,5 @@
 package ru.gulyaev.factory.lab4.gear;
 
-public class Gear {
+public interface Gear {
+    void setCar(Car car);
 }
