@@ -4,7 +4,7 @@ import ru.gulyaev.factory.lab4.gear.Accessory;
 import ru.gulyaev.factory.lab4.gear.Body;
 import ru.gulyaev.factory.lab4.gear.Engine;
 import ru.gulyaev.factory.lab4.task.SellCarTask;
-import ru.gulyaev.factory.lab4.thredpool.ThreadPool;
+import ru.gulyaev.factory.lab4.threadpool.ThreadPool;
 
 import java.io.IOException;
 import java.util.Properties;

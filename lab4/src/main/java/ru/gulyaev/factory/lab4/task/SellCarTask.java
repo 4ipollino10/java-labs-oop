@@ -1,12 +1,12 @@
 package ru.gulyaev.factory.lab4.task;
 
-import lombok.extern.slf4j.Slf4j;
 import ru.gulyaev.factory.lab4.CarsStorage;
 import ru.gulyaev.factory.lab4.FactoryController;
 import ru.gulyaev.factory.lab4.gear.Car;
-import ru.gulyaev.factory.lab4.thredpool.Constants;
+import ru.gulyaev.factory.lab4.threadpool.Constants;
 
-@Slf4j
+import static ru.gulyaev.factory.lab4.Main.log;
+
 public class SellCarTask implements Task {
 
     private static final String CAR = "Car ";
@@ -24,7 +24,7 @@ public class SellCarTask implements Task {
     }
 
     @Override
-    public void doWork(String threadName, int delay) throws InterruptedException {
+    public void doWork(String threadName, int delay) {
         try {
             Thread.sleep(delay);
             Car carForSale = storage.get();

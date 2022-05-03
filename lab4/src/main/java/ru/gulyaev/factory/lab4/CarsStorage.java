@@ -1,15 +1,17 @@
 package ru.gulyaev.factory.lab4;
 
-import lombok.extern.slf4j.Slf4j;
+
 import ru.gulyaev.factory.lab4.gear.Accessory;
 import ru.gulyaev.factory.lab4.gear.Body;
 import ru.gulyaev.factory.lab4.gear.Car;
 import ru.gulyaev.factory.lab4.gear.Engine;
 import ru.gulyaev.factory.lab4.task.ProduceCarTask;
-import ru.gulyaev.factory.lab4.thredpool.ThreadPool;
+import ru.gulyaev.factory.lab4.threadpool.ThreadPool;
 
 import java.util.ArrayDeque;
-@Slf4j
+
+import static ru.gulyaev.factory.lab4.Main.log;
+
 public class CarsStorage {
     public static final String STORAGE_WAS_INTERRUPTED = "Storage was interrupted!";
 

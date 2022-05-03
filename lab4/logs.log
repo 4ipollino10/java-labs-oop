@@ -1,0 +1,1236 @@
+2022-05-03 15:08:03 INFO  Main:16 - Let's sell some cars!
+2022-05-03 15:08:03 INFO  Main:35 - Started 6 threads in Accessories Suppliers
+2022-05-03 15:08:03 INFO  Main:35 - Started 1 threads in Engine Suppliers
+2022-05-03 15:08:03 INFO  Main:35 - Started 1 threads in Car Body Suppliers
+2022-05-03 15:08:03 INFO  Main:35 - Started 2 threads in Workers
+2022-05-03 15:08:03 INFO  Main:35 - Started 2 threads in Dealers
+2022-05-03 15:08:06 INFO  Main:29 - Engine Supplier 0 supplied Engine0
+2022-05-03 15:08:06 INFO  Main:29 - Accessories Supplier 5 supplied Accessory0
+2022-05-03 15:08:06 INFO  Main:29 - Accessories Supplier 4 supplied Accessory0
+2022-05-03 15:08:06 INFO  Main:29 - Accessories Supplier 3 supplied Accessory0
+2022-05-03 15:08:06 INFO  Main:29 - Car Body Supplier 0 supplied Body0
+2022-05-03 15:08:06 INFO  Main:29 - Accessories Supplier 1 supplied Accessory0
+2022-05-03 15:08:06 INFO  Main:29 - Accessories Supplier 2 supplied Accessory0
+2022-05-03 15:08:06 INFO  Main:29 - Accessories Supplier 0 supplied Accessory0
+2022-05-03 15:08:06 INFO  Main:41 - Worker 1 produced car: Body0Engine0Accessory00
+2022-05-03 15:08:09 INFO  Main:29 - Engine Supplier 0 supplied Engine0
+2022-05-03 15:08:09 INFO  Main:29 - Accessories Supplier 5 supplied Accessory0
+2022-05-03 15:08:09 INFO  Main:29 - Accessories Supplier 3 supplied Accessory0
+2022-05-03 15:08:09 INFO  Main:29 - Accessories Supplier 0 supplied Accessory0
+2022-05-03 15:08:09 INFO  Main:41 - Worker 0 produced car: Body0Engine0Accessory00
+2022-05-03 15:08:09 INFO  Main:29 - Accessories Supplier 4 supplied Accessory0
+2022-05-03 15:08:09 INFO  Main:29 - Car Body Supplier 0 supplied Body0
+2022-05-03 15:08:09 INFO  Main:29 - Accessories Supplier 1 supplied Accessory0
+2022-05-03 15:08:09 INFO  Main:29 - Accessories Supplier 2 supplied Accessory0
+2022-05-03 15:08:12 INFO  Main:29 - Accessories Supplier 5 supplied Accessory0
+2022-05-03 15:08:12 INFO  Main:29 - Engine Supplier 0 supplied Engine0
+2022-05-03 15:08:12 INFO  Main:29 - Accessories Supplier 3 supplied Accessory0
+2022-05-03 15:08:12 INFO  Main:29 - Car Body Supplier 0 supplied Body0
+2022-05-03 15:08:12 INFO  Main:41 - Worker 1 produced car: Body0Engine0Accessory00
+2022-05-03 15:08:12 INFO  Main:29 - Accessories Supplier 0 supplied Accessory0
+2022-05-03 15:08:12 INFO  Main:29 - Accessories Supplier 1 supplied Accessory0
+2022-05-03 15:08:12 INFO  Main:29 - Accessories Supplier 4 supplied Accessory0
+2022-05-03 15:08:12 INFO  Main:29 - Accessories Supplier 2 supplied Accessory0
+2022-05-03 15:08:15 INFO  Main:29 - Accessories Supplier 5 supplied Accessory0
+2022-05-03 15:08:15 INFO  Main:29 - Engine Supplier 0 supplied Engine0
+2022-05-03 15:08:15 INFO  Main:29 - Accessories Supplier 3 supplied Accessory0
+2022-05-03 15:08:15 INFO  Main:41 - Worker 0 produced car: Body0Engine0Accessory00
+2022-05-03 15:08:15 INFO  Main:29 - Car Body Supplier 0 supplied Body0
+2022-05-03 15:08:15 INFO  Main:29 - Accessories Supplier 0 supplied Accessory0
+2022-05-03 15:08:15 INFO  Main:29 - Accessories Supplier 4 supplied Accessory0
+2022-05-03 15:08:15 INFO  Main:29 - Accessories Supplier 1 supplied Accessory0
+2022-05-03 15:08:15 INFO  Main:29 - Accessories Supplier 2 supplied Accessory0
+2022-05-03 15:08:18 INFO  Main:29 - Accessories Supplier 5 supplied Accessory0
+2022-05-03 15:08:18 INFO  Main:29 - Car Body Supplier 0 supplied Body0
+2022-05-03 15:08:18 INFO  Main:41 - Worker 1 produced car: Body0Engine0Accessory00
+2022-05-03 15:08:18 INFO  Main:29 - Engine Supplier 0 supplied Engine0
+2022-05-03 15:08:18 INFO  Main:29 - Accessories Supplier 1 supplied Accessory0
+2022-05-03 15:08:18 INFO  Main:29 - Accessories Supplier 3 supplied Accessory0
+2022-05-03 15:08:18 INFO  Main:29 - Accessories Supplier 2 supplied Accessory0
+2022-05-03 15:08:18 INFO  Main:29 - Accessories Supplier 4 supplied Accessory0
+2022-05-03 15:08:18 INFO  Main:29 - Accessories Supplier 0 supplied Accessory0
+2022-05-03 15:08:21 INFO  Main:29 - Accessories Supplier 5 supplied Accessory0
+2022-05-03 15:08:21 INFO  Main:29 - Car Body Supplier 0 supplied Body0
+2022-05-03 15:08:21 INFO  Main:41 - Worker 0 produced car: Body0Engine0Accessory00
+2022-05-03 15:08:21 INFO  Main:29 - Engine Supplier 0 supplied Engine0
+2022-05-03 15:08:21 INFO  Main:29 - Accessories Supplier 3 supplied Accessory0
+2022-05-03 15:08:21 INFO  Main:29 - Accessories Supplier 1 supplied Accessory0
+2022-05-03 15:08:21 INFO  Main:29 - Accessories Supplier 2 supplied Accessory0
+2022-05-03 15:08:21 INFO  Main:29 - Accessories Supplier 4 supplied Accessory0
+2022-05-03 15:08:21 INFO  Main:29 - Accessories Supplier 0 supplied Accessory0
+2022-05-03 15:08:24 INFO  Main:29 - Accessories Supplier 5 supplied Accessory0
+2022-05-03 15:08:24 INFO  Main:29 - Car Body Supplier 0 supplied Body0
+2022-05-03 15:08:24 INFO  Main:29 - Accessories Supplier 4 supplied Accessory0
+2022-05-03 15:08:24 INFO  Main:29 - Accessories Supplier 3 supplied Accessory0
+2022-05-03 15:08:24 INFO  Main:29 - Accessories Supplier 1 supplied Accessory0
+2022-05-03 15:08:24 INFO  Main:41 - Worker 1 produced car: Body0Engine0Accessory00
+2022-05-03 15:08:24 INFO  Main:29 - Accessories Supplier 2 supplied Accessory0
+2022-05-03 15:08:24 INFO  Main:29 - Engine Supplier 0 supplied Engine0
+2022-05-03 15:08:24 INFO  Main:29 - Accessories Supplier 0 supplied Accessory0
+2022-05-03 15:08:27 INFO  Main:29 - Accessories Supplier 5 supplied Accessory0
+2022-05-03 15:08:27 INFO  Main:29 - Car Body Supplier 0 supplied Body0
+2022-05-03 15:08:27 INFO  Main:29 - Accessories Supplier 4 supplied Accessory0
+2022-05-03 15:08:27 INFO  Main:29 - Accessories Supplier 3 supplied Accessory0
+2022-05-03 15:08:27 INFO  Main:29 - Accessories Supplier 1 supplied Accessory0
+2022-05-03 15:08:27 INFO  Main:29 - Accessories Supplier 2 supplied Accessory0
+2022-05-03 15:08:27 INFO  Main:29 - Engine Supplier 0 supplied Engine0
+2022-05-03 15:08:27 INFO  Main:41 - Worker 0 produced car: Body0Engine0Accessory00
+2022-05-03 15:08:27 INFO  Main:29 - Accessories Supplier 0 supplied Accessory0
+2022-05-03 15:08:30 INFO  Main:29 - Accessories Supplier 5 supplied Accessory0
+2022-05-03 15:08:30 INFO  Main:29 - Car Body Supplier 0 supplied Body0
+2022-05-03 15:08:30 INFO  Main:29 - Accessories Supplier 4 supplied Accessory0
+2022-05-03 15:08:30 INFO  Main:29 - Accessories Supplier 1 supplied Accessory0
+2022-05-03 15:08:30 INFO  Main:29 - Accessories Supplier 0 supplied Accessory0
+2022-05-03 15:08:30 INFO  Main:41 - Worker 1 produced car: Body0Engine0Accessory00
+2022-05-03 15:08:30 INFO  Main:29 - Engine Supplier 0 supplied Engine0
+2022-05-03 15:08:30 INFO  Main:29 - Accessories Supplier 2 supplied Accessory0
+2022-05-03 15:08:30 INFO  Main:29 - Accessories Supplier 3 supplied Accessory0
+2022-05-03 15:08:33 INFO  Main:29 - Car Body Supplier 0 supplied Body0
+2022-05-03 15:08:33 INFO  Main:29 - Accessories Supplier 5 supplied Accessory0
+2022-05-03 15:08:33 INFO  Main:29 - Accessories Supplier 1 supplied Accessory0
+2022-05-03 15:08:33 INFO  Main:29 - Accessories Supplier 4 supplied Accessory0
+2022-05-03 15:08:33 INFO  Main:29 - Accessories Supplier 2 supplied Accessory0
+2022-05-03 15:08:33 INFO  Main:29 - Accessories Supplier 3 supplied Accessory0
+2022-05-03 15:08:33 INFO  Main:29 - Accessories Supplier 0 supplied Accessory0
+2022-05-03 15:08:33 INFO  Main:41 - Worker 0 produced car: Body0Engine0Accessory00
+2022-05-03 15:08:33 INFO  Main:29 - Engine Supplier 0 supplied Engine0
+2022-05-03 15:08:36 INFO  Main:29 - Accessories Supplier 5 supplied Accessory0
+2022-05-03 15:08:36 INFO  Main:29 - Car Body Supplier 0 supplied Body0
+2022-05-03 15:08:36 INFO  Main:29 - Accessories Supplier 1 supplied Accessory0
+2022-05-03 15:08:36 INFO  Main:29 - Accessories Supplier 4 supplied Accessory0
+2022-05-03 15:08:36 INFO  Main:29 - Accessories Supplier 2 supplied Accessory0
+2022-05-03 15:08:36 INFO  Main:41 - Worker 1 produced car: Body0Engine0Accessory00
+2022-05-03 15:08:36 INFO  Main:29 - Accessories Supplier 0 supplied Accessory0
+2022-05-03 15:08:36 INFO  Main:29 - Accessories Supplier 3 supplied Accessory0
+2022-05-03 15:08:36 INFO  Main:29 - Engine Supplier 0 supplied Engine0
+2022-05-03 15:08:39 INFO  Main:29 - Accessories Supplier 5 supplied Accessory0
+2022-05-03 15:08:39 INFO  Main:29 - Accessories Supplier 4 supplied Accessory0
+2022-05-03 15:08:39 INFO  Main:29 - Car Body Supplier 0 supplied Body0
+2022-05-03 15:08:39 INFO  Main:29 - Accessories Supplier 1 supplied Accessory0
+2022-05-03 15:08:39 INFO  Main:29 - Accessories Supplier 2 supplied Accessory0
+2022-05-03 15:08:39 INFO  Main:29 - Accessories Supplier 0 supplied Accessory0
+2022-05-03 15:08:39 INFO  Main:29 - Accessories Supplier 3 supplied Accessory0
+2022-05-03 15:08:39 INFO  Main:41 - Worker 0 produced car: Body0Engine0Accessory00
+2022-05-03 15:08:39 INFO  Main:29 - Engine Supplier 0 supplied Engine0
+2022-05-03 15:08:42 INFO  Main:29 - Accessories Supplier 5 supplied Accessory0
+2022-05-03 15:08:42 INFO  Main:29 - Accessories Supplier 4 supplied Accessory0
+2022-05-03 15:08:42 INFO  Main:29 - Car Body Supplier 0 supplied Body0
+2022-05-03 15:08:42 INFO  Main:29 - Accessories Supplier 1 supplied Accessory0
+2022-05-03 15:08:42 INFO  Main:29 - Accessories Supplier 2 supplied Accessory0
+2022-05-03 15:08:42 INFO  Main:29 - Accessories Supplier 0 supplied Accessory0
+2022-05-03 15:08:42 INFO  Main:41 - Worker 1 produced car: Body0Engine0Accessory00
+2022-05-03 15:08:42 INFO  Main:29 - Engine Supplier 0 supplied Engine0
+2022-05-03 15:08:42 INFO  Main:29 - Accessories Supplier 3 supplied Accessory0
+2022-05-03 15:08:45 INFO  Main:29 - Accessories Supplier 5 supplied Accessory0
+2022-05-03 15:08:45 INFO  Main:29 - Accessories Supplier 1 supplied Accessory0
+2022-05-03 15:08:45 INFO  Main:29 - Car Body Supplier 0 supplied Body0
+2022-05-03 15:08:45 INFO  Main:29 - Accessories Supplier 4 supplied Accessory0
+2022-05-03 15:08:45 INFO  Main:29 - Accessories Supplier 2 supplied Accessory0
+2022-05-03 15:08:45 INFO  Main:29 - Accessories Supplier 0 supplied Accessory0
+2022-05-03 15:08:45 INFO  Main:29 - Engine Supplier 0 supplied Engine0
+2022-05-03 15:08:45 INFO  Main:41 - Worker 0 produced car: Body0Engine0Accessory00
+2022-05-03 15:08:48 INFO  Main:29 - Car Body Supplier 0 supplied Body0
+2022-05-03 15:08:48 INFO  Main:29 - Accessories Supplier 3 supplied Accessory0
+2022-05-03 15:08:48 INFO  Main:29 - Engine Supplier 0 supplied Engine0
+2022-05-03 15:08:48 INFO  Main:41 - Worker 1 produced car: Body0Engine0Accessory00
+2022-05-03 15:08:51 INFO  Main:29 - Car Body Supplier 0 supplied Body0
+2022-05-03 15:08:51 INFO  Main:29 - Engine Supplier 0 supplied Engine0
+2022-05-03 15:08:51 INFO  Main:41 - Worker 0 produced car: Body0Engine0Accessory00
+2022-05-03 15:08:51 INFO  Main:29 - Accessories Supplier 1 supplied Accessory0
+2022-05-03 15:08:54 INFO  Main:29 - Car Body Supplier 0 supplied Body0
+2022-05-03 15:08:54 INFO  Main:29 - Accessories Supplier 2 supplied Accessory0
+2022-05-03 15:08:54 INFO  Main:29 - Engine Supplier 0 supplied Engine0
+2022-05-03 15:08:54 INFO  Main:41 - Worker 1 produced car: Body0Engine0Accessory00
+2022-05-03 15:08:57 INFO  Main:29 - Car Body Supplier 0 supplied Body0
+2022-05-03 15:08:57 INFO  Main:29 - Accessories Supplier 0 supplied Accessory0
+2022-05-03 15:08:57 INFO  Main:29 - Engine Supplier 0 supplied Engine0
+2022-05-03 15:08:57 INFO  Main:41 - Worker 0 produced car: Body0Engine0Accessory00
+2022-05-03 15:09:00 INFO  Main:29 - Car Body Supplier 0 supplied Body0
+2022-05-03 15:09:00 INFO  Main:29 - Accessories Supplier 4 supplied Accessory0
+2022-05-03 15:09:00 INFO  Main:29 - Engine Supplier 0 supplied Engine0
+2022-05-03 15:09:00 INFO  Main:41 - Worker 1 produced car: Body0Engine0Accessory00
+2022-05-03 15:09:03 INFO  Main:29 - Car Body Supplier 0 supplied Body0
+2022-05-03 15:09:03 INFO  Main:41 - Worker 0 produced car: Body0Engine0Accessory00
+2022-05-03 15:09:03 INFO  Main:29 - Accessories Supplier 1 supplied Accessory0
+2022-05-03 15:09:03 INFO  Main:29 - Engine Supplier 0 supplied Engine0
+2022-05-03 15:09:06 INFO  Main:29 - Car Body Supplier 0 supplied Body0
+2022-05-03 15:09:06 INFO  Main:29 - Accessories Supplier 3 supplied Accessory0
+2022-05-03 15:09:06 INFO  Main:41 - Worker 1 produced car: Body0Engine0Accessory00
+2022-05-03 15:09:06 INFO  Main:29 - Engine Supplier 0 supplied Engine0
+2022-05-03 15:09:09 INFO  Main:29 - Car Body Supplier 0 supplied Body0
+2022-05-03 15:09:09 INFO  Main:29 - Accessories Supplier 5 supplied Accessory0
+2022-05-03 15:09:09 INFO  Main:41 - Worker 0 produced car: Body0Engine0Accessory00
+2022-05-03 15:09:09 INFO  Main:29 - Engine Supplier 0 supplied Engine0
+2022-05-03 15:09:12 INFO  Main:29 - Car Body Supplier 0 supplied Body0
+2022-05-03 15:09:12 INFO  Main:29 - Engine Supplier 0 supplied Engine0
+2022-05-03 15:09:12 INFO  Main:29 - Accessories Supplier 4 supplied Accessory0
+2022-05-03 15:09:12 INFO  Main:41 - Worker 1 produced car: Body0Engine0Accessory00
+2022-05-03 15:09:15 INFO  Main:29 - Car Body Supplier 0 supplied Body0
+2022-05-03 15:09:15 INFO  Main:29 - Accessories Supplier 1 supplied Accessory0
+2022-05-03 15:09:15 INFO  Main:29 - Engine Supplier 0 supplied Engine0
+2022-05-03 15:09:15 INFO  Main:41 - Worker 0 produced car: Body0Engine0Accessory00
+2022-05-03 15:09:18 INFO  Main:29 - Car Body Supplier 0 supplied Body0
+2022-05-03 15:09:18 INFO  Main:29 - Engine Supplier 0 supplied Engine0
+2022-05-03 15:09:18 INFO  Main:29 - Accessories Supplier 2 supplied Accessory0
+2022-05-03 15:09:18 INFO  Main:41 - Worker 1 produced car: Body0Engine0Accessory00
+2022-05-03 15:09:21 INFO  Main:29 - Car Body Supplier 0 supplied Body0
+2022-05-03 15:09:21 INFO  Main:29 - Accessories Supplier 5 supplied Accessory0
+2022-05-03 15:09:21 INFO  Main:41 - Worker 0 produced car: Body0Engine0Accessory00
+2022-05-03 15:09:21 INFO  Main:29 - Engine Supplier 0 supplied Engine0
+2022-05-03 15:09:24 INFO  Main:29 - Car Body Supplier 0 supplied Body0
+2022-05-03 15:09:24 INFO  Main:29 - Accessories Supplier 4 supplied Accessory0
+2022-05-03 15:09:24 INFO  Main:29 - Engine Supplier 0 supplied Engine0
+2022-05-03 15:09:24 INFO  Main:41 - Worker 1 produced car: Body0Engine0Accessory00
+2022-05-03 15:09:27 INFO  Main:29 - Car Body Supplier 0 supplied Body0
+2022-05-03 15:09:27 INFO  Main:29 - Accessories Supplier 0 supplied Accessory0
+2022-05-03 15:09:27 INFO  Main:41 - Worker 0 produced car: Body0Engine0Accessory00
+2022-05-03 15:09:27 INFO  Main:29 - Engine Supplier 0 supplied Engine0
+2022-05-03 15:09:30 INFO  Main:29 - Car Body Supplier 0 supplied Body0
+2022-05-03 15:09:30 INFO  Main:29 - Accessories Supplier 2 supplied Accessory0
+2022-05-03 15:09:30 INFO  Main:29 - Engine Supplier 0 supplied Engine0
+2022-05-03 15:09:30 INFO  Main:41 - Worker 1 produced car: Body0Engine0Accessory00
+2022-05-03 15:09:32 INFO  Main:32 - Car Body0Engine0Accessory0 SOLD! Congratulations to the Dealer 0 GOOD JOB!
+2022-05-03 15:09:32 INFO  Main:32 - Car Body0Engine0Accessory0 SOLD! Congratulations to the Dealer 1 GOOD JOB!
+2022-05-03 15:09:33 INFO  Main:29 - Car Body Supplier 0 supplied Body0
+2022-05-03 15:09:33 INFO  Main:29 - Engine Supplier 0 supplied Engine0
+2022-05-03 15:09:33 INFO  Main:41 - Worker 0 produced car: Body0Engine0Accessory00
+2022-05-03 15:09:33 INFO  Main:29 - Accessories Supplier 5 supplied Accessory0
+2022-05-03 15:09:33 INFO  Main:32 - Car Body0Engine0Accessory0 SOLD! Congratulations to the Dealer 0 GOOD JOB!
+2022-05-03 15:09:33 INFO  Main:32 - Car Body0Engine0Accessory0 SOLD! Congratulations to the Dealer 1 GOOD JOB!
+2022-05-03 15:09:33 INFO  Main:32 - Car Body0Engine0Accessory0 SOLD! Congratulations to the Dealer 0 GOOD JOB!
+2022-05-03 15:09:34 INFO  Main:32 - Car Body0Engine0Accessory0 SOLD! Congratulations to the Dealer 1 GOOD JOB!
+2022-05-03 15:09:34 INFO  Main:32 - Car Body0Engine0Accessory0 SOLD! Congratulations to the Dealer 0 GOOD JOB!
+2022-05-03 15:09:36 INFO  Main:29 - Car Body Supplier 0 supplied Body0
+2022-05-03 15:09:36 INFO  Main:29 - Accessories Supplier 3 supplied Accessory0
+2022-05-03 15:09:36 INFO  Main:29 - Engine Supplier 0 supplied Engine0
+2022-05-03 15:09:36 INFO  Main:41 - Worker 1 produced car: Body0Engine0Accessory00
+2022-05-03 15:09:36 INFO  Main:32 - Car Body0Engine0Accessory0 SOLD! Congratulations to the Dealer 1 GOOD JOB!
+2022-05-03 15:09:36 INFO  Main:32 - Car Body0Engine0Accessory0 SOLD! Congratulations to the Dealer 0 GOOD JOB!
+2022-05-03 15:09:36 INFO  Main:32 - Car Body0Engine0Accessory0 SOLD! Congratulations to the Dealer 1 GOOD JOB!
+2022-05-03 15:09:37 INFO  Main:32 - Car Body0Engine0Accessory0 SOLD! Congratulations to the Dealer 0 GOOD JOB!
+2022-05-03 15:09:37 INFO  Main:32 - Car Body0Engine0Accessory0 SOLD! Congratulations to the Dealer 1 GOOD JOB!
+2022-05-03 15:09:37 INFO  Main:32 - Car Body0Engine0Accessory0 SOLD! Congratulations to the Dealer 0 GOOD JOB!
+2022-05-03 15:09:37 INFO  Main:32 - Car Body0Engine0Accessory0 SOLD! Congratulations to the Dealer 1 GOOD JOB!
+2022-05-03 15:09:38 INFO  Main:32 - Car Body0Engine0Accessory0 SOLD! Congratulations to the Dealer 0 GOOD JOB!
+2022-05-03 15:09:38 INFO  Main:32 - Car Body0Engine0Accessory0 SOLD! Congratulations to the Dealer 1 GOOD JOB!
+2022-05-03 15:09:38 INFO  Main:32 - Car Body0Engine0Accessory0 SOLD! Congratulations to the Dealer 0 GOOD JOB!
+2022-05-03 15:09:38 INFO  Main:32 - Car Body0Engine0Accessory0 SOLD! Congratulations to the Dealer 1 GOOD JOB!
+2022-05-03 15:09:38 INFO  Main:32 - Car Body0Engine0Accessory0 SOLD! Congratulations to the Dealer 0 GOOD JOB!
+2022-05-03 15:09:38 INFO  Main:32 - Car Body0Engine0Accessory0 SOLD! Congratulations to the Dealer 1 GOOD JOB!
+2022-05-03 15:09:39 INFO  Main:32 - Car Body0Engine0Accessory0 SOLD! Congratulations to the Dealer 0 GOOD JOB!
+2022-05-03 15:09:39 INFO  Main:32 - Car Body0Engine0Accessory0 SOLD! Congratulations to the Dealer 1 GOOD JOB!
+2022-05-03 15:09:39 INFO  Main:29 - Car Body Supplier 0 supplied Body0
+2022-05-03 15:09:39 INFO  Main:29 - Accessories Supplier 0 supplied Accessory0
+2022-05-03 15:09:39 INFO  Main:41 - Worker 0 produced car: Body0Engine0Accessory00
+2022-05-03 15:09:39 INFO  Main:29 - Engine Supplier 0 supplied Engine0
+2022-05-03 15:09:39 INFO  Main:32 - Car Body0Engine0Accessory0 SOLD! Congratulations to the Dealer 0 GOOD JOB!
+2022-05-03 15:09:39 INFO  Main:32 - Car Body0Engine0Accessory0 SOLD! Congratulations to the Dealer 1 GOOD JOB!
+2022-05-03 15:09:39 INFO  Main:32 - Car Body0Engine0Accessory0 SOLD! Congratulations to the Dealer 0 GOOD JOB!
+2022-05-03 15:09:39 INFO  Main:32 - Car Body0Engine0Accessory0 SOLD! Congratulations to the Dealer 1 GOOD JOB!
+2022-05-03 15:09:40 INFO  Main:32 - Car Body0Engine0Accessory0 SOLD! Congratulations to the Dealer 0 GOOD JOB!
+2022-05-03 15:09:40 INFO  Main:32 - Car Body0Engine0Accessory0 SOLD! Congratulations to the Dealer 1 GOOD JOB!
+2022-05-03 15:09:41 INFO  Main:32 - Car Body0Engine0Accessory0 SOLD! Congratulations to the Dealer 0 GOOD JOB!
+2022-05-03 15:09:41 INFO  Main:32 - Car Body0Engine0Accessory0 SOLD! Congratulations to the Dealer 1 GOOD JOB!
+2022-05-03 15:09:41 INFO  Main:32 - Car Body0Engine0Accessory0 SOLD! Congratulations to the Dealer 0 GOOD JOB!
+2022-05-03 15:09:41 INFO  Main:32 - Car Body0Engine0Accessory0 SOLD! Congratulations to the Dealer 1 GOOD JOB!
+2022-05-03 15:09:42 INFO  Main:29 - Car Body Supplier 0 supplied Body0
+2022-05-03 15:09:42 INFO  Main:29 - Accessories Supplier 4 supplied Accessory0
+2022-05-03 15:09:42 INFO  Main:29 - Engine Supplier 0 supplied Engine0
+2022-05-03 15:09:42 INFO  Main:41 - Worker 1 produced car: Body0Engine0Accessory00
+2022-05-03 15:09:45 INFO  Main:29 - Car Body Supplier 0 supplied Body0
+2022-05-03 15:09:45 INFO  Main:29 - Engine Supplier 0 supplied Engine0
+2022-05-03 15:09:45 INFO  Main:41 - Worker 0 produced car: Body0Engine0Accessory00
+2022-05-03 15:09:45 INFO  Main:29 - Accessories Supplier 5 supplied Accessory0
+2022-05-03 15:09:48 INFO  Main:29 - Car Body Supplier 0 supplied Body0
+2022-05-03 15:09:48 INFO  Main:41 - Worker 1 produced car: Body0Engine0Accessory00
+2022-05-03 15:09:48 INFO  Main:29 - Accessories Supplier 2 supplied Accessory0
+2022-05-03 15:09:48 INFO  Main:29 - Engine Supplier 0 supplied Engine0
+2022-05-03 15:09:51 INFO  Main:29 - Car Body Supplier 0 supplied Body0
+2022-05-03 15:09:51 INFO  Main:29 - Accessories Supplier 0 supplied Accessory0
+2022-05-03 15:09:51 INFO  Main:29 - Engine Supplier 0 supplied Engine0
+2022-05-03 15:09:51 INFO  Main:41 - Worker 0 produced car: Body0Engine0Accessory00
+2022-05-03 15:09:54 INFO  Main:29 - Car Body Supplier 0 supplied Body0
+2022-05-03 15:09:54 INFO  Main:29 - Accessories Supplier 3 supplied Accessory0
+2022-05-03 15:09:54 INFO  Main:41 - Worker 1 produced car: Body0Engine0Accessory00
+2022-05-03 15:09:54 INFO  Main:29 - Engine Supplier 0 supplied Engine0
+2022-05-03 15:09:57 INFO  Main:29 - Car Body Supplier 0 supplied Body0
+2022-05-03 15:09:57 INFO  Main:29 - Accessories Supplier 5 supplied Accessory0
+2022-05-03 15:09:57 INFO  Main:41 - Worker 0 produced car: Body0Engine0Accessory00
+2022-05-03 15:09:57 INFO  Main:29 - Engine Supplier 0 supplied Engine0
+2022-05-03 15:10:00 INFO  Main:29 - Car Body Supplier 0 supplied Body0
+2022-05-03 15:10:00 INFO  Main:29 - Accessories Supplier 2 supplied Accessory0
+2022-05-03 15:10:00 INFO  Main:41 - Worker 1 produced car: Body0Engine0Accessory00
+2022-05-03 15:10:00 INFO  Main:29 - Engine Supplier 0 supplied Engine0
+2022-05-03 15:10:03 INFO  Main:29 - Car Body Supplier 0 supplied Body0
+2022-05-03 15:10:03 INFO  Main:41 - Worker 0 produced car: Body0Engine0Accessory00
+2022-05-03 15:10:03 INFO  Main:29 - Accessories Supplier 1 supplied Accessory0
+2022-05-03 15:10:03 INFO  Main:29 - Engine Supplier 0 supplied Engine0
+2022-05-03 15:10:06 INFO  Main:29 - Car Body Supplier 0 supplied Body0
+2022-05-03 15:10:06 INFO  Main:29 - Accessories Supplier 3 supplied Accessory0
+2022-05-03 15:10:06 INFO  Main:29 - Engine Supplier 0 supplied Engine0
+2022-05-03 15:10:06 INFO  Main:41 - Worker 1 produced car: Body0Engine0Accessory00
+2022-05-03 15:10:09 INFO  Main:29 - Car Body Supplier 0 supplied Body0
+2022-05-03 15:10:09 INFO  Main:29 - Engine Supplier 0 supplied Engine0
+2022-05-03 15:10:09 INFO  Main:29 - Accessories Supplier 0 supplied Accessory0
+2022-05-03 15:10:09 INFO  Main:41 - Worker 0 produced car: Body0Engine0Accessory00
+2022-05-03 15:34:16 INFO  Main:16 - Let's sell some cars!
+2022-05-03 15:34:16 INFO  Main:35 - Started 6 threads in Accessories Suppliers
+2022-05-03 15:34:16 INFO  Main:35 - Started 1 threads in Engine Suppliers
+2022-05-03 15:34:16 INFO  Main:35 - Started 1 threads in Car Body Suppliers
+2022-05-03 15:34:16 INFO  Main:35 - Started 2 threads in Workers
+2022-05-03 15:34:16 INFO  Main:35 - Started 2 threads in Dealers
+2022-05-03 15:34:19 INFO  Main:29 - Engine Supplier 0 supplied Engine2
+2022-05-03 15:34:19 INFO  Main:29 - Car Body Supplier 0 supplied Body2
+2022-05-03 15:34:19 INFO  Main:29 - Accessories Supplier 5 supplied Accessory3
+2022-05-03 15:34:19 INFO  Main:29 - Accessories Supplier 1 supplied Accessory6
+2022-05-03 15:34:19 INFO  Main:29 - Accessories Supplier 2 supplied Accessory5
+2022-05-03 15:34:19 INFO  Main:29 - Accessories Supplier 3 supplied Accessory4
+2022-05-03 15:34:19 INFO  Main:29 - Accessories Supplier 4 supplied Accessory2
+2022-05-03 15:34:19 INFO  Main:29 - Accessories Supplier 0 supplied Accessory2
+2022-05-03 15:34:19 INFO  Main:41 - Worker 1 produced car: Body2Engine2Accessory6
+2022-05-03 15:34:22 INFO  Main:29 - Accessories Supplier 5 supplied Accessory7
+2022-05-03 15:34:22 INFO  Main:29 - Accessories Supplier 0 supplied Accessory10
+2022-05-03 15:34:22 INFO  Main:29 - Accessories Supplier 4 supplied Accessory9
+2022-05-03 15:34:22 INFO  Main:29 - Accessories Supplier 2 supplied Accessory8
+2022-05-03 15:34:22 INFO  Main:29 - Accessories Supplier 3 supplied Accessory8
+2022-05-03 15:34:22 INFO  Main:29 - Car Body Supplier 0 supplied Body3
+2022-05-03 15:34:22 INFO  Main:29 - Engine Supplier 0 supplied Engine3
+2022-05-03 15:34:22 INFO  Main:29 - Accessories Supplier 1 supplied Accessory7
+2022-05-03 15:34:22 INFO  Main:41 - Worker 0 produced car: Body3Engine3Accessory7
+2022-05-03 15:34:25 INFO  Main:29 - Accessories Supplier 0 supplied Accessory12
+2022-05-03 15:34:25 INFO  Main:29 - Accessories Supplier 5 supplied Accessory11
+2022-05-03 15:34:25 INFO  Main:29 - Accessories Supplier 3 supplied Accessory14
+2022-05-03 15:34:25 INFO  Main:29 - Accessories Supplier 4 supplied Accessory12
+2022-05-03 15:34:25 INFO  Main:29 - Accessories Supplier 2 supplied Accessory13
+2022-05-03 15:34:25 INFO  Main:29 - Car Body Supplier 0 supplied Body4
+2022-05-03 15:34:25 INFO  Main:29 - Accessories Supplier 1 supplied Accessory15
+2022-05-03 15:34:25 INFO  Main:41 - Worker 1 produced car: Body4Engine4Accessory15
+2022-05-03 15:34:25 INFO  Main:29 - Engine Supplier 0 supplied Engine4
+2022-05-03 15:34:28 INFO  Main:29 - Accessories Supplier 0 supplied Accessory16
+2022-05-03 15:34:28 INFO  Main:29 - Accessories Supplier 4 supplied Accessory17
+2022-05-03 15:34:28 INFO  Main:29 - Accessories Supplier 3 supplied Accessory17
+2022-05-03 15:34:28 INFO  Main:29 - Accessories Supplier 2 supplied Accessory17
+2022-05-03 15:34:28 INFO  Main:29 - Accessories Supplier 5 supplied Accessory17
+2022-05-03 15:34:28 INFO  Main:29 - Accessories Supplier 1 supplied Accessory18
+2022-05-03 15:34:28 INFO  Main:29 - Car Body Supplier 0 supplied Body5
+2022-05-03 15:34:28 INFO  Main:29 - Engine Supplier 0 supplied Engine5
+2022-05-03 15:34:28 INFO  Main:41 - Worker 0 produced car: Body5Engine5Accessory18
+2022-05-03 15:34:31 INFO  Main:29 - Accessories Supplier 0 supplied Accessory20
+2022-05-03 15:34:31 INFO  Main:29 - Accessories Supplier 4 supplied Accessory19
+2022-05-03 15:34:31 INFO  Main:29 - Accessories Supplier 3 supplied Accessory22
+2022-05-03 15:34:31 INFO  Main:29 - Accessories Supplier 2 supplied Accessory23
+2022-05-03 15:34:31 INFO  Main:29 - Accessories Supplier 5 supplied Accessory21
+2022-05-03 15:34:31 INFO  Main:29 - Accessories Supplier 1 supplied Accessory24
+2022-05-03 15:34:31 INFO  Main:29 - Car Body Supplier 0 supplied Body6
+2022-05-03 15:34:31 INFO  Main:41 - Worker 1 produced car: Body6Engine6Accessory24
+2022-05-03 15:34:31 INFO  Main:29 - Engine Supplier 0 supplied Engine6
+2022-05-03 15:34:34 INFO  Main:29 - Accessories Supplier 0 supplied Accessory25
+2022-05-03 15:34:34 INFO  Main:29 - Accessories Supplier 4 supplied Accessory25
+2022-05-03 15:34:34 INFO  Main:29 - Accessories Supplier 3 supplied Accessory27
+2022-05-03 15:34:34 INFO  Main:29 - Accessories Supplier 2 supplied Accessory27
+2022-05-03 15:34:34 INFO  Main:29 - Accessories Supplier 5 supplied Accessory28
+2022-05-03 15:34:34 INFO  Main:29 - Car Body Supplier 0 supplied Body7
+2022-05-03 15:34:34 INFO  Main:29 - Accessories Supplier 1 supplied Accessory29
+2022-05-03 15:34:34 INFO  Main:41 - Worker 0 produced car: Body7Engine7Accessory29
+2022-05-03 15:34:34 INFO  Main:29 - Engine Supplier 0 supplied Engine7
+2022-05-03 15:34:37 INFO  Main:29 - Accessories Supplier 0 supplied Accessory30
+2022-05-03 15:34:37 INFO  Main:29 - Accessories Supplier 2 supplied Accessory31
+2022-05-03 15:34:37 INFO  Main:29 - Accessories Supplier 3 supplied Accessory31
+2022-05-03 15:34:37 INFO  Main:29 - Accessories Supplier 4 supplied Accessory31
+2022-05-03 15:34:37 INFO  Main:29 - Accessories Supplier 5 supplied Accessory32
+2022-05-03 15:34:37 INFO  Main:29 - Accessories Supplier 1 supplied Accessory33
+2022-05-03 15:34:37 INFO  Main:29 - Car Body Supplier 0 supplied Body8
+2022-05-03 15:34:37 INFO  Main:29 - Engine Supplier 0 supplied Engine8
+2022-05-03 15:34:37 INFO  Main:41 - Worker 1 produced car: Body8Engine8Accessory33
+2022-05-03 15:34:40 INFO  Main:29 - Accessories Supplier 0 supplied Accessory35
+2022-05-03 15:34:40 INFO  Main:29 - Accessories Supplier 3 supplied Accessory35
+2022-05-03 15:34:40 INFO  Main:29 - Accessories Supplier 2 supplied Accessory35
+2022-05-03 15:34:40 INFO  Main:29 - Accessories Supplier 4 supplied Accessory36
+2022-05-03 15:34:40 INFO  Main:29 - Accessories Supplier 5 supplied Accessory37
+2022-05-03 15:34:40 INFO  Main:29 - Car Body Supplier 0 supplied Body9
+2022-05-03 15:34:40 INFO  Main:29 - Accessories Supplier 1 supplied Accessory38
+2022-05-03 15:34:40 INFO  Main:29 - Engine Supplier 0 supplied Engine9
+2022-05-03 15:34:40 INFO  Main:41 - Worker 0 produced car: Body9Engine9Accessory38
+2022-05-03 15:34:43 INFO  Main:29 - Accessories Supplier 2 supplied Accessory39
+2022-05-03 15:34:43 INFO  Main:29 - Accessories Supplier 0 supplied Accessory39
+2022-05-03 15:34:43 INFO  Main:29 - Accessories Supplier 3 supplied Accessory39
+2022-05-03 15:34:43 INFO  Main:29 - Accessories Supplier 4 supplied Accessory40
+2022-05-03 15:34:43 INFO  Main:29 - Accessories Supplier 5 supplied Accessory41
+2022-05-03 15:34:43 INFO  Main:29 - Car Body Supplier 0 supplied Body10
+2022-05-03 15:34:43 INFO  Main:29 - Accessories Supplier 1 supplied Accessory42
+2022-05-03 15:34:43 INFO  Main:41 - Worker 1 produced car: Body10Engine10Accessory42
+2022-05-03 15:34:43 INFO  Main:29 - Engine Supplier 0 supplied Engine10
+2022-05-03 15:34:46 INFO  Main:29 - Accessories Supplier 0 supplied Accessory44
+2022-05-03 15:34:46 INFO  Main:29 - Accessories Supplier 2 supplied Accessory43
+2022-05-03 15:34:46 INFO  Main:29 - Accessories Supplier 3 supplied Accessory45
+2022-05-03 15:34:46 INFO  Main:29 - Accessories Supplier 4 supplied Accessory45
+2022-05-03 15:34:46 INFO  Main:29 - Accessories Supplier 5 supplied Accessory46
+2022-05-03 15:34:46 INFO  Main:29 - Accessories Supplier 1 supplied Accessory47
+2022-05-03 15:34:46 INFO  Main:29 - Car Body Supplier 0 supplied Body11
+2022-05-03 15:34:46 INFO  Main:29 - Engine Supplier 0 supplied Engine11
+2022-05-03 15:34:46 INFO  Main:41 - Worker 0 produced car: Body11Engine11Accessory47
+2022-05-03 15:34:49 INFO  Main:29 - Accessories Supplier 2 supplied Accessory48
+2022-05-03 15:34:49 INFO  Main:29 - Accessories Supplier 0 supplied Accessory49
+2022-05-03 15:34:49 INFO  Main:29 - Accessories Supplier 4 supplied Accessory49
+2022-05-03 15:34:49 INFO  Main:29 - Accessories Supplier 3 supplied Accessory49
+2022-05-03 15:34:49 INFO  Main:29 - Accessories Supplier 5 supplied Accessory50
+2022-05-03 15:34:49 INFO  Main:29 - Accessories Supplier 1 supplied Accessory51
+2022-05-03 15:34:49 INFO  Main:29 - Car Body Supplier 0 supplied Body12
+2022-05-03 15:34:49 INFO  Main:29 - Engine Supplier 0 supplied Engine12
+2022-05-03 15:34:49 INFO  Main:41 - Worker 1 produced car: Body12Engine12Accessory51
+2022-05-03 15:34:52 INFO  Main:29 - Accessories Supplier 2 supplied Accessory52
+2022-05-03 15:34:52 INFO  Main:29 - Accessories Supplier 0 supplied Accessory53
+2022-05-03 15:34:52 INFO  Main:29 - Accessories Supplier 4 supplied Accessory53
+2022-05-03 15:34:52 INFO  Main:29 - Accessories Supplier 3 supplied Accessory53
+2022-05-03 15:34:52 INFO  Main:29 - Accessories Supplier 5 supplied Accessory55
+2022-05-03 15:34:52 INFO  Main:29 - Accessories Supplier 1 supplied Accessory54
+2022-05-03 15:34:52 INFO  Main:29 - Car Body Supplier 0 supplied Body13
+2022-05-03 15:34:52 INFO  Main:29 - Engine Supplier 0 supplied Engine13
+2022-05-03 15:34:52 INFO  Main:41 - Worker 0 produced car: Body13Engine13Accessory55
+2022-05-03 15:34:53 INFO  Main:32 - Car Body13Engine13Accessory55 SOLD! Congratulations to the Dealer 1 GOOD JOB!
+2022-05-03 15:34:53 INFO  Main:32 - Car Body12Engine12Accessory51 SOLD! Congratulations to the Dealer 0 GOOD JOB!
+2022-05-03 15:34:55 INFO  Main:29 - Accessories Supplier 2 supplied Accessory56
+2022-05-03 15:34:55 INFO  Main:29 - Accessories Supplier 0 supplied Accessory57
+2022-05-03 15:34:55 INFO  Main:29 - Accessories Supplier 4 supplied Accessory57
+2022-05-03 15:34:55 INFO  Main:29 - Accessories Supplier 3 supplied Accessory57
+2022-05-03 15:34:55 INFO  Main:29 - Accessories Supplier 5 supplied Accessory58
+2022-05-03 15:34:55 INFO  Main:29 - Accessories Supplier 1 supplied Accessory59
+2022-05-03 15:34:55 INFO  Main:29 - Car Body Supplier 0 supplied Body14
+2022-05-03 15:34:55 INFO  Main:29 - Engine Supplier 0 supplied Engine14
+2022-05-03 15:34:55 INFO  Main:41 - Worker 1 produced car: Body14Engine14Accessory59
+2022-05-03 15:34:56 INFO  Main:32 - Car Body14Engine14Accessory59 SOLD! Congratulations to the Dealer 0 GOOD JOB!
+2022-05-03 15:34:56 INFO  Main:32 - Car Body11Engine11Accessory47 SOLD! Congratulations to the Dealer 1 GOOD JOB!
+2022-05-03 15:34:56 INFO  Main:32 - Car Body10Engine10Accessory42 SOLD! Congratulations to the Dealer 1 GOOD JOB!
+2022-05-03 15:34:56 INFO  Main:32 - Car Body9Engine9Accessory38 SOLD! Congratulations to the Dealer 1 GOOD JOB!
+2022-05-03 15:34:56 INFO  Main:32 - Car Body8Engine8Accessory33 SOLD! Congratulations to the Dealer 1 GOOD JOB!
+2022-05-03 15:34:56 INFO  Main:32 - Car Body7Engine7Accessory29 SOLD! Congratulations to the Dealer 1 GOOD JOB!
+2022-05-03 15:34:56 INFO  Main:32 - Car Body6Engine6Accessory24 SOLD! Congratulations to the Dealer 1 GOOD JOB!
+2022-05-03 15:34:56 INFO  Main:32 - Car Body5Engine5Accessory18 SOLD! Congratulations to the Dealer 1 GOOD JOB!
+2022-05-03 15:34:56 INFO  Main:32 - Car Body4Engine4Accessory15 SOLD! Congratulations to the Dealer 1 GOOD JOB!
+2022-05-03 15:34:56 INFO  Main:32 - Car Body3Engine3Accessory7 SOLD! Congratulations to the Dealer 1 GOOD JOB!
+2022-05-03 15:34:56 INFO  Main:32 - Car Body2Engine2Accessory6 SOLD! Congratulations to the Dealer 0 GOOD JOB!
+2022-05-03 15:34:58 INFO  Main:29 - Accessories Supplier 2 supplied Accessory60
+2022-05-03 15:34:58 INFO  Main:29 - Accessories Supplier 3 supplied Accessory61
+2022-05-03 15:34:58 INFO  Main:29 - Accessories Supplier 0 supplied Accessory61
+2022-05-03 15:34:58 INFO  Main:29 - Accessories Supplier 4 supplied Accessory61
+2022-05-03 15:34:58 INFO  Main:29 - Car Body Supplier 0 supplied Body15
+2022-05-03 15:34:58 INFO  Main:29 - Accessories Supplier 5 supplied Accessory62
+2022-05-03 15:34:58 INFO  Main:29 - Engine Supplier 0 supplied Engine15
+2022-05-03 15:34:58 INFO  Main:32 - Car Body15Engine15Accessory62 SOLD! Congratulations to the Dealer 1 GOOD JOB!
+2022-05-03 15:34:58 INFO  Main:41 - Worker 0 produced car: Body15Engine15Accessory62
+2022-05-03 15:35:01 INFO  Main:29 - Car Body Supplier 0 supplied Body16
+2022-05-03 15:35:01 INFO  Main:29 - Accessories Supplier 1 supplied Accessory63
+2022-05-03 15:35:01 INFO  Main:29 - Engine Supplier 0 supplied Engine16
+2022-05-03 15:35:01 INFO  Main:32 - Car Body16Engine16Accessory63 SOLD! Congratulations to the Dealer 0 GOOD JOB!
+2022-05-03 15:35:01 INFO  Main:41 - Worker 1 produced car: Body16Engine16Accessory63
+2022-05-03 15:35:04 INFO  Main:29 - Car Body Supplier 0 supplied Body17
+2022-05-03 15:35:04 INFO  Main:29 - Car Body Supplier 0 supplied Body18
+2022-05-03 15:35:04 INFO  Main:29 - Car Body Supplier 0 supplied Body19
+2022-05-03 15:35:04 INFO  Main:29 - Car Body Supplier 0 supplied Body20
+2022-05-03 15:35:04 INFO  Main:29 - Car Body Supplier 0 supplied Body21
+2022-05-03 15:35:04 INFO  Main:29 - Car Body Supplier 0 supplied Body22
+2022-05-03 15:35:04 INFO  Main:29 - Car Body Supplier 0 supplied Body23
+2022-05-03 15:35:04 INFO  Main:29 - Car Body Supplier 0 supplied Body24
+2022-05-03 15:35:04 INFO  Main:29 - Car Body Supplier 0 supplied Body25
+2022-05-03 15:35:04 INFO  Main:29 - Car Body Supplier 0 supplied Body26
+2022-05-03 15:35:04 INFO  Main:29 - Car Body Supplier 0 supplied Body27
+2022-05-03 15:35:04 INFO  Main:29 - Car Body Supplier 0 supplied Body28
+2022-05-03 15:35:04 INFO  Main:32 - Car Body28Engine17Accessory64 SOLD! Congratulations to the Dealer 1 GOOD JOB!
+2022-05-03 15:35:04 INFO  Main:41 - Worker 0 produced car: Body28Engine17Accessory64
+2022-05-03 15:35:04 INFO  Main:29 - Engine Supplier 0 supplied Engine17
+2022-05-03 15:35:04 INFO  Main:29 - Engine Supplier 0 supplied Engine18
+2022-05-03 15:35:04 INFO  Main:29 - Engine Supplier 0 supplied Engine19
+2022-05-03 15:35:04 INFO  Main:29 - Engine Supplier 0 supplied Engine20
+2022-05-03 15:35:04 INFO  Main:29 - Engine Supplier 0 supplied Engine21
+2022-05-03 15:35:04 INFO  Main:29 - Engine Supplier 0 supplied Engine22
+2022-05-03 15:35:04 INFO  Main:29 - Engine Supplier 0 supplied Engine23
+2022-05-03 15:35:04 INFO  Main:29 - Accessories Supplier 3 supplied Accessory64
+2022-05-03 15:35:04 INFO  Main:29 - Engine Supplier 0 supplied Engine24
+2022-05-03 15:35:04 INFO  Main:32 - Car Body28Engine18Accessory64 SOLD! Congratulations to the Dealer 0 GOOD JOB!
+2022-05-03 15:35:04 INFO  Main:41 - Worker 1 produced car: Body28Engine18Accessory64
+2022-05-03 15:35:04 INFO  Main:29 - Engine Supplier 0 supplied Engine25
+2022-05-03 15:35:04 INFO  Main:29 - Engine Supplier 0 supplied Engine26
+2022-05-03 15:35:04 INFO  Main:29 - Engine Supplier 0 supplied Engine27
+2022-05-03 15:35:04 INFO  Main:29 - Engine Supplier 0 supplied Engine28
+2022-05-03 15:35:04 INFO  Main:29 - Engine Supplier 0 supplied Engine29
+2022-05-03 15:35:04 INFO  Main:29 - Engine Supplier 0 supplied Engine30
+2022-05-03 15:35:04 INFO  Main:29 - Engine Supplier 0 supplied Engine31
+2022-05-03 15:35:04 INFO  Main:29 - Engine Supplier 0 supplied Engine32
+2022-05-03 15:35:04 INFO  Main:29 - Engine Supplier 0 supplied Engine33
+2022-05-03 15:35:04 INFO  Main:29 - Engine Supplier 0 supplied Engine34
+2022-05-03 15:35:04 INFO  Main:29 - Engine Supplier 0 supplied Engine35
+2022-05-03 15:35:04 INFO  Main:29 - Engine Supplier 0 supplied Engine36
+2022-05-03 15:35:04 INFO  Main:29 - Engine Supplier 0 supplied Engine37
+2022-05-03 15:35:04 INFO  Main:29 - Engine Supplier 0 supplied Engine38
+2022-05-03 15:35:04 INFO  Main:29 - Engine Supplier 0 supplied Engine39
+2022-05-03 15:35:04 INFO  Main:29 - Engine Supplier 0 supplied Engine40
+2022-05-03 15:35:04 INFO  Main:29 - Engine Supplier 0 supplied Engine41
+2022-05-03 15:35:04 INFO  Main:29 - Engine Supplier 0 supplied Engine42
+2022-05-03 15:35:04 INFO  Main:29 - Engine Supplier 0 supplied Engine43
+2022-05-03 15:35:04 INFO  Main:29 - Engine Supplier 0 supplied Engine44
+2022-05-03 15:35:04 INFO  Main:29 - Engine Supplier 0 supplied Engine45
+2022-05-03 15:35:04 INFO  Main:29 - Engine Supplier 0 supplied Engine46
+2022-05-03 15:35:04 INFO  Main:29 - Engine Supplier 0 supplied Engine47
+2022-05-03 15:35:04 INFO  Main:29 - Engine Supplier 0 supplied Engine48
+2022-05-03 15:35:04 INFO  Main:29 - Engine Supplier 0 supplied Engine49
+2022-05-03 15:35:04 INFO  Main:29 - Engine Supplier 0 supplied Engine50
+2022-05-03 15:35:04 INFO  Main:29 - Engine Supplier 0 supplied Engine51
+2022-05-03 15:35:04 INFO  Main:29 - Engine Supplier 0 supplied Engine52
+2022-05-03 15:35:04 INFO  Main:29 - Engine Supplier 0 supplied Engine53
+2022-05-03 15:35:04 INFO  Main:29 - Engine Supplier 0 supplied Engine54
+2022-05-03 15:35:04 INFO  Main:29 - Engine Supplier 0 supplied Engine55
+2022-05-03 15:35:04 INFO  Main:29 - Engine Supplier 0 supplied Engine56
+2022-05-03 15:35:04 INFO  Main:29 - Engine Supplier 0 supplied Engine57
+2022-05-03 15:35:04 INFO  Main:29 - Engine Supplier 0 supplied Engine58
+2022-05-03 15:35:04 INFO  Main:29 - Engine Supplier 0 supplied Engine59
+2022-05-03 15:35:04 INFO  Main:29 - Engine Supplier 0 supplied Engine60
+2022-05-03 15:35:04 INFO  Main:29 - Engine Supplier 0 supplied Engine61
+2022-05-03 15:35:04 INFO  Main:29 - Engine Supplier 0 supplied Engine62
+2022-05-03 15:35:04 INFO  Main:29 - Engine Supplier 0 supplied Engine63
+2022-05-03 15:35:04 INFO  Main:29 - Engine Supplier 0 supplied Engine64
+2022-05-03 15:35:04 INFO  Main:29 - Engine Supplier 0 supplied Engine65
+2022-05-03 15:35:04 INFO  Main:29 - Engine Supplier 0 supplied Engine66
+2022-05-03 15:35:04 INFO  Main:29 - Engine Supplier 0 supplied Engine67
+2022-05-03 15:35:04 INFO  Main:29 - Engine Supplier 0 supplied Engine68
+2022-05-03 15:35:07 INFO  Main:41 - Worker 0 produced car: Body28Engine68Accessory64
+2022-05-03 15:35:07 INFO  Main:29 - Engine Supplier 0 supplied Engine69
+2022-05-03 15:35:07 INFO  Main:29 - Car Body Supplier 0 supplied Body29
+2022-05-03 15:35:07 INFO  Main:32 - Car Body28Engine68Accessory64 SOLD! Congratulations to the Dealer 1 GOOD JOB!
+2022-05-03 15:35:07 INFO  Main:29 - Accessories Supplier 4 supplied Accessory65
+2022-05-03 15:35:07 INFO  Main:29 - Car Body Supplier 0 supplied Body30
+2022-05-03 15:35:07 INFO  Main:29 - Engine Supplier 0 supplied Engine70
+2022-05-03 15:35:07 INFO  Main:32 - Car Body29Engine69Accessory65 SOLD! Congratulations to the Dealer 0 GOOD JOB!
+2022-05-03 15:35:07 INFO  Main:41 - Worker 0 produced car: Body29Engine69Accessory65
+2022-05-03 15:35:07 INFO  Main:29 - Engine Supplier 0 supplied Engine71
+2022-05-03 15:35:07 INFO  Main:29 - Car Body Supplier 0 supplied Body31
+2022-05-03 15:35:07 INFO  Main:32 - Car Body30Engine70Accessory65 SOLD! Congratulations to the Dealer 1 GOOD JOB!
+2022-05-03 15:35:07 INFO  Main:29 - Accessories Supplier 2 supplied Accessory66
+2022-05-03 15:35:07 INFO  Main:41 - Worker 1 produced car: Body30Engine70Accessory65
+2022-05-03 15:35:07 INFO  Main:29 - Car Body Supplier 0 supplied Body32
+2022-05-03 15:35:07 INFO  Main:29 - Car Body Supplier 0 supplied Body33
+2022-05-03 15:35:07 INFO  Main:29 - Engine Supplier 0 supplied Engine72
+2022-05-03 15:35:07 INFO  Main:32 - Car Body31Engine71Accessory66 SOLD! Congratulations to the Dealer 0 GOOD JOB!
+2022-05-03 15:35:07 INFO  Main:41 - Worker 0 produced car: Body31Engine71Accessory66
+2022-05-03 15:35:07 INFO  Main:29 - Engine Supplier 0 supplied Engine73
+2022-05-03 15:35:07 INFO  Main:32 - Car Body32Engine72Accessory66 SOLD! Congratulations to the Dealer 1 GOOD JOB!
+2022-05-03 15:35:07 INFO  Main:41 - Worker 1 produced car: Body32Engine72Accessory66
+2022-05-03 15:35:07 INFO  Main:29 - Engine Supplier 0 supplied Engine74
+2022-05-03 15:35:07 INFO  Main:29 - Engine Supplier 0 supplied Engine75
+2022-05-03 15:35:07 INFO  Main:32 - Car Body33Engine73Accessory66 SOLD! Congratulations to the Dealer 0 GOOD JOB!
+2022-05-03 15:35:07 INFO  Main:29 - Car Body Supplier 0 supplied Body34
+2022-05-03 15:35:07 INFO  Main:41 - Worker 0 produced car: Body33Engine73Accessory66
+2022-05-03 15:35:07 INFO  Main:29 - Car Body Supplier 0 supplied Body35
+2022-05-03 15:35:07 INFO  Main:32 - Car Body34Engine74Accessory66 SOLD! Congratulations to the Dealer 1 GOOD JOB!
+2022-05-03 15:35:07 INFO  Main:41 - Worker 1 produced car: Body34Engine74Accessory66
+2022-05-03 15:35:07 INFO  Main:29 - Car Body Supplier 0 supplied Body36
+2022-05-03 15:35:07 INFO  Main:29 - Car Body Supplier 0 supplied Body37
+2022-05-03 15:35:07 INFO  Main:29 - Engine Supplier 0 supplied Engine76
+2022-05-03 15:35:07 INFO  Main:32 - Car Body35Engine75Accessory66 SOLD! Congratulations to the Dealer 0 GOOD JOB!
+2022-05-03 15:35:07 INFO  Main:41 - Worker 0 produced car: Body35Engine75Accessory66
+2022-05-03 15:35:07 INFO  Main:29 - Engine Supplier 0 supplied Engine77
+2022-05-03 15:35:07 INFO  Main:32 - Car Body36Engine76Accessory66 SOLD! Congratulations to the Dealer 1 GOOD JOB!
+2022-05-03 15:35:07 INFO  Main:41 - Worker 1 produced car: Body36Engine76Accessory66
+2022-05-03 15:35:07 INFO  Main:29 - Engine Supplier 0 supplied Engine78
+2022-05-03 15:35:07 INFO  Main:29 - Car Body Supplier 0 supplied Body38
+2022-05-03 15:35:07 INFO  Main:32 - Car Body37Engine77Accessory66 SOLD! Congratulations to the Dealer 0 GOOD JOB!
+2022-05-03 15:35:07 INFO  Main:41 - Worker 0 produced car: Body37Engine77Accessory66
+2022-05-03 15:35:07 INFO  Main:29 - Car Body Supplier 0 supplied Body39
+2022-05-03 15:35:07 INFO  Main:29 - Engine Supplier 0 supplied Engine79
+2022-05-03 15:35:07 INFO  Main:41 - Worker 1 produced car: Body38Engine78Accessory66
+2022-05-03 15:35:07 INFO  Main:32 - Car Body38Engine78Accessory66 SOLD! Congratulations to the Dealer 1 GOOD JOB!
+2022-05-03 15:35:07 INFO  Main:41 - Worker 1 produced car: Body40Engine80Accessory66
+2022-05-03 15:35:07 INFO  Main:41 - Worker 1 produced car: Body40Engine80Accessory66
+2022-05-03 15:35:07 INFO  Main:29 - Engine Supplier 0 supplied Engine80
+2022-05-03 15:35:07 INFO  Main:29 - Car Body Supplier 0 supplied Body40
+2022-05-03 15:35:07 INFO  Main:32 - Car Body39Engine79Accessory66 SOLD! Congratulations to the Dealer 0 GOOD JOB!
+2022-05-03 15:35:07 INFO  Main:41 - Worker 0 produced car: Body39Engine79Accessory66
+2022-05-03 15:35:07 INFO  Main:32 - Car Body40Engine80Accessory66 SOLD! Congratulations to the Dealer 0 GOOD JOB!
+2022-05-03 15:35:07 INFO  Main:29 - Car Body Supplier 0 supplied Body41
+2022-05-03 15:35:07 INFO  Main:29 - Engine Supplier 0 supplied Engine81
+2022-05-03 15:35:07 INFO  Main:41 - Worker 1 produced car: Body40Engine80Accessory66
+2022-05-03 15:35:07 INFO  Main:32 - Car Body40Engine80Accessory66 SOLD! Congratulations to the Dealer 1 GOOD JOB!
+2022-05-03 15:35:07 INFO  Main:29 - Engine Supplier 0 supplied Engine82
+2022-05-03 15:35:07 INFO  Main:29 - Car Body Supplier 0 supplied Body42
+2022-05-03 15:35:07 INFO  Main:32 - Car Body41Engine81Accessory66 SOLD! Congratulations to the Dealer 0 GOOD JOB!
+2022-05-03 15:35:07 INFO  Main:41 - Worker 0 produced car: Body41Engine81Accessory66
+2022-05-03 15:35:07 INFO  Main:29 - Car Body Supplier 0 supplied Body43
+2022-05-03 15:35:07 INFO  Main:29 - Engine Supplier 0 supplied Engine83
+2022-05-03 15:35:07 INFO  Main:41 - Worker 1 produced car: Body42Engine82Accessory66
+2022-05-03 15:35:07 INFO  Main:29 - Engine Supplier 0 supplied Engine84
+2022-05-03 15:35:07 INFO  Main:29 - Car Body Supplier 0 supplied Body44
+2022-05-03 15:35:07 INFO  Main:29 - Car Body Supplier 0 supplied Body45
+2022-05-03 15:35:07 INFO  Main:41 - Worker 0 produced car: Body43Engine83Accessory66
+2022-05-03 15:35:07 INFO  Main:29 - Engine Supplier 0 supplied Engine85
+2022-05-03 15:35:07 INFO  Main:41 - Worker 1 produced car: Body44Engine84Accessory66
+2022-05-03 15:35:07 INFO  Main:41 - Worker 0 produced car: Body45Engine85Accessory66
+2022-05-03 15:35:07 INFO  Main:41 - Worker 1 produced car: Body46Engine86Accessory66
+2022-05-03 15:35:07 INFO  Main:29 - Engine Supplier 0 supplied Engine86
+2022-05-03 15:35:07 INFO  Main:29 - Car Body Supplier 0 supplied Body46
+2022-05-03 15:35:07 INFO  Main:29 - Engine Supplier 0 supplied Engine87
+2022-05-03 15:35:07 INFO  Main:41 - Worker 1 produced car: Body46Engine86Accessory66
+2022-05-03 15:35:07 INFO  Main:41 - Worker 0 produced car: Body46Engine86Accessory66
+2022-05-03 15:35:07 INFO  Main:41 - Worker 1 produced car: Body47Engine88Accessory66
+2022-05-03 15:35:07 INFO  Main:29 - Engine Supplier 0 supplied Engine88
+2022-05-03 15:35:07 INFO  Main:29 - Car Body Supplier 0 supplied Body47
+2022-05-03 15:35:07 INFO  Main:29 - Engine Supplier 0 supplied Engine89
+2022-05-03 15:35:07 INFO  Main:41 - Worker 1 produced car: Body47Engine88Accessory66
+2022-05-03 15:35:07 INFO  Main:41 - Worker 0 produced car: Body47Engine88Accessory66
+2022-05-03 15:35:07 INFO  Main:41 - Worker 1 produced car: Body48Engine90Accessory66
+2022-05-03 15:35:07 INFO  Main:41 - Worker 1 produced car: Body48Engine90Accessory66
+2022-05-03 15:35:07 INFO  Main:29 - Engine Supplier 0 supplied Engine90
+2022-05-03 15:35:07 INFO  Main:29 - Car Body Supplier 0 supplied Body48
+2022-05-03 15:35:07 INFO  Main:29 - Engine Supplier 0 supplied Engine91
+2022-05-03 15:35:07 INFO  Main:41 - Worker 1 produced car: Body48Engine90Accessory66
+2022-05-03 15:35:07 INFO  Main:41 - Worker 0 produced car: Body48Engine90Accessory66
+2022-05-03 15:35:07 INFO  Main:29 - Car Body Supplier 0 supplied Body49
+2022-05-03 15:35:07 INFO  Main:29 - Engine Supplier 0 supplied Engine92
+2022-05-03 15:35:07 INFO  Main:41 - Worker 1 produced car: Body49Engine92Accessory66
+2022-05-03 15:35:07 INFO  Main:29 - Engine Supplier 0 supplied Engine93
+2022-05-03 15:35:07 INFO  Main:29 - Car Body Supplier 0 supplied Body50
+2022-05-03 15:35:07 INFO  Main:41 - Worker 0 produced car: Body50Engine92Accessory66
+2022-05-03 15:35:07 INFO  Main:41 - Worker 1 produced car: Body51Engine94Accessory66
+2022-05-03 15:35:07 INFO  Main:29 - Car Body Supplier 0 supplied Body51
+2022-05-03 15:35:07 INFO  Main:29 - Engine Supplier 0 supplied Engine94
+2022-05-03 15:35:07 INFO  Main:41 - Worker 0 produced car: Body52Engine94Accessory66
+2022-05-03 15:35:07 INFO  Main:29 - Car Body Supplier 0 supplied Body52
+2022-05-03 15:35:07 INFO  Main:29 - Car Body Supplier 0 supplied Body53
+2022-05-03 15:35:07 INFO  Main:29 - Car Body Supplier 0 supplied Body54
+2022-05-03 15:35:07 INFO  Main:29 - Car Body Supplier 0 supplied Body55
+2022-05-03 15:35:07 INFO  Main:29 - Engine Supplier 0 supplied Engine95
+2022-05-03 15:35:07 INFO  Main:29 - Car Body Supplier 0 supplied Body56
+2022-05-03 15:35:07 INFO  Main:41 - Worker 0 produced car: Body54Engine95Accessory66
+2022-05-03 15:35:07 INFO  Main:41 - Worker 1 produced car: Body53Engine95Accessory66
+2022-05-03 15:35:07 INFO  Main:41 - Worker 0 produced car: Body57Engine96Accessory66
+2022-05-03 15:35:07 INFO  Main:29 - Car Body Supplier 0 supplied Body57
+2022-05-03 15:35:07 INFO  Main:29 - Engine Supplier 0 supplied Engine96
+2022-05-03 15:35:07 INFO  Main:29 - Car Body Supplier 0 supplied Body58
+2022-05-03 15:35:07 INFO  Main:41 - Worker 0 produced car: Body57Engine96Accessory66
+2022-05-03 15:35:07 INFO  Main:41 - Worker 1 produced car: Body57Engine96Accessory66
+2022-05-03 15:35:07 INFO  Main:41 - Worker 0 produced car: Body59Engine97Accessory66
+2022-05-03 15:35:07 INFO  Main:29 - Car Body Supplier 0 supplied Body59
+2022-05-03 15:35:07 INFO  Main:29 - Car Body Supplier 0 supplied Body60
+2022-05-03 15:35:07 INFO  Main:29 - Car Body Supplier 0 supplied Body61
+2022-05-03 15:35:07 INFO  Main:29 - Car Body Supplier 0 supplied Body62
+2022-05-03 15:35:07 INFO  Main:29 - Car Body Supplier 0 supplied Body63
+2022-05-03 15:35:07 INFO  Main:29 - Car Body Supplier 0 supplied Body64
+2022-05-03 15:35:07 INFO  Main:29 - Engine Supplier 0 supplied Engine97
+2022-05-03 15:35:07 INFO  Main:29 - Car Body Supplier 0 supplied Body65
+2022-05-03 15:35:07 INFO  Main:41 - Worker 0 produced car: Body60Engine97Accessory66
+2022-05-03 15:35:07 INFO  Main:41 - Worker 1 produced car: Body59Engine97Accessory66
+2022-05-03 15:35:07 INFO  Main:41 - Worker 0 produced car: Body66Engine98Accessory66
+2022-05-03 15:35:07 INFO  Main:29 - Car Body Supplier 0 supplied Body66
+2022-05-03 15:35:07 INFO  Main:29 - Engine Supplier 0 supplied Engine98
+2022-05-03 15:35:07 INFO  Main:29 - Car Body Supplier 0 supplied Body67
+2022-05-03 15:35:07 INFO  Main:41 - Worker 0 produced car: Body66Engine98Accessory66
+2022-05-03 15:35:07 INFO  Main:41 - Worker 1 produced car: Body66Engine98Accessory66
+2022-05-03 15:35:07 INFO  Main:41 - Worker 0 produced car: Body68Engine99Accessory66
+2022-05-03 15:35:07 INFO  Main:29 - Car Body Supplier 0 supplied Body68
+2022-05-03 15:35:07 INFO  Main:29 - Engine Supplier 0 supplied Engine99
+2022-05-03 15:35:07 INFO  Main:29 - Car Body Supplier 0 supplied Body69
+2022-05-03 15:35:07 INFO  Main:41 - Worker 0 produced car: Body68Engine99Accessory66
+2022-05-03 15:35:07 INFO  Main:41 - Worker 1 produced car: Body68Engine99Accessory66
+2022-05-03 15:35:07 INFO  Main:41 - Worker 0 produced car: Body70Engine100Accessory66
+2022-05-03 15:35:07 INFO  Main:29 - Car Body Supplier 0 supplied Body70
+2022-05-03 15:35:07 INFO  Main:29 - Engine Supplier 0 supplied Engine100
+2022-05-03 15:35:07 INFO  Main:29 - Car Body Supplier 0 supplied Body71
+2022-05-03 15:35:07 INFO  Main:41 - Worker 0 produced car: Body70Engine100Accessory66
+2022-05-03 15:35:07 INFO  Main:41 - Worker 0 produced car: Body72Engine101Accessory66
+2022-05-03 15:35:07 INFO  Main:41 - Worker 1 produced car: Body70Engine100Accessory66
+2022-05-03 15:35:07 INFO  Main:41 - Worker 0 produced car: Body72Engine101Accessory66
+2022-05-03 15:35:07 INFO  Main:29 - Car Body Supplier 0 supplied Body72
+2022-05-03 15:35:07 INFO  Main:29 - Engine Supplier 0 supplied Engine101
+2022-05-03 15:35:07 INFO  Main:41 - Worker 0 produced car: Body73Engine101Accessory66
+2022-05-03 15:35:07 INFO  Main:29 - Engine Supplier 0 supplied Engine102
+2022-05-03 15:35:07 INFO  Main:29 - Engine Supplier 0 supplied Engine103
+2022-05-03 15:35:07 INFO  Main:41 - Worker 1 produced car: Body72Engine101Accessory66
+2022-05-03 15:35:07 INFO  Main:29 - Car Body Supplier 0 supplied Body73
+2022-05-03 15:35:07 INFO  Main:29 - Engine Supplier 0 supplied Engine104
+2022-05-03 15:35:07 INFO  Main:41 - Worker 0 produced car: Body74Engine104Accessory66
+2022-05-03 15:35:07 INFO  Main:29 - Car Body Supplier 0 supplied Body74
+2022-05-03 15:35:07 INFO  Main:29 - Engine Supplier 0 supplied Engine105
+2022-05-03 15:35:07 INFO  Main:41 - Worker 1 produced car: Body75Engine105Accessory66
+2022-05-03 15:35:07 INFO  Main:29 - Car Body Supplier 0 supplied Body75
+2022-05-03 15:35:07 INFO  Main:29 - Car Body Supplier 0 supplied Body76
+2022-05-03 15:35:07 INFO  Main:29 - Engine Supplier 0 supplied Engine106
+2022-05-03 15:35:07 INFO  Main:41 - Worker 1 produced car: Body77Engine106Accessory66
+2022-05-03 15:35:07 INFO  Main:29 - Car Body Supplier 0 supplied Body77
+2022-05-03 15:35:07 INFO  Main:41 - Worker 0 produced car: Body76Engine106Accessory66
+2022-05-03 15:35:07 INFO  Main:41 - Worker 1 produced car: Body78Engine107Accessory66
+2022-05-03 15:35:07 INFO  Main:29 - Car Body Supplier 0 supplied Body78
+2022-05-03 15:35:07 INFO  Main:29 - Engine Supplier 0 supplied Engine107
+2022-05-03 15:35:07 INFO  Main:41 - Worker 0 produced car: Body79Engine107Accessory66
+2022-05-03 15:35:07 INFO  Main:29 - Car Body Supplier 0 supplied Body79
+2022-05-03 15:35:07 INFO  Main:29 - Engine Supplier 0 supplied Engine108
+2022-05-03 15:35:07 INFO  Main:41 - Worker 1 produced car: Body80Engine108Accessory66
+2022-05-03 15:35:07 INFO  Main:29 - Car Body Supplier 0 supplied Body80
+2022-05-03 15:35:07 INFO  Main:29 - Engine Supplier 0 supplied Engine109
+2022-05-03 15:35:07 INFO  Main:41 - Worker 0 produced car: Body81Engine109Accessory66
+2022-05-03 15:35:07 INFO  Main:29 - Car Body Supplier 0 supplied Body81
+2022-05-03 15:35:07 INFO  Main:29 - Engine Supplier 0 supplied Engine110
+2022-05-03 15:35:07 INFO  Main:41 - Worker 1 produced car: Body82Engine110Accessory66
+2022-05-03 15:35:07 INFO  Main:29 - Car Body Supplier 0 supplied Body82
+2022-05-03 15:35:07 INFO  Main:29 - Engine Supplier 0 supplied Engine111
+2022-05-03 15:35:07 INFO  Main:41 - Worker 0 produced car: Body83Engine111Accessory66
+2022-05-03 15:35:07 INFO  Main:29 - Car Body Supplier 0 supplied Body83
+2022-05-03 15:35:07 INFO  Main:29 - Engine Supplier 0 supplied Engine112
+2022-05-03 15:35:07 INFO  Main:29 - Car Body Supplier 0 supplied Body84
+2022-05-03 15:35:07 INFO  Main:29 - Engine Supplier 0 supplied Engine113
+2022-05-03 15:35:07 INFO  Main:29 - Car Body Supplier 0 supplied Body85
+2022-05-03 15:35:07 INFO  Main:29 - Engine Supplier 0 supplied Engine114
+2022-05-03 15:35:07 INFO  Main:29 - Car Body Supplier 0 supplied Body86
+2022-05-03 15:35:07 INFO  Main:29 - Engine Supplier 0 supplied Engine115
+2022-05-03 15:35:07 INFO  Main:29 - Car Body Supplier 0 supplied Body87
+2022-05-03 15:35:07 INFO  Main:29 - Engine Supplier 0 supplied Engine116
+2022-05-03 15:35:07 INFO  Main:29 - Car Body Supplier 0 supplied Body88
+2022-05-03 15:35:07 INFO  Main:29 - Engine Supplier 0 supplied Engine117
+2022-05-03 15:35:07 INFO  Main:29 - Car Body Supplier 0 supplied Body89
+2022-05-03 15:35:07 INFO  Main:29 - Engine Supplier 0 supplied Engine118
+2022-05-03 15:35:07 INFO  Main:29 - Car Body Supplier 0 supplied Body90
+2022-05-03 15:35:07 INFO  Main:29 - Engine Supplier 0 supplied Engine119
+2022-05-03 15:35:07 INFO  Main:29 - Car Body Supplier 0 supplied Body91
+2022-05-03 15:35:07 INFO  Main:29 - Engine Supplier 0 supplied Engine120
+2022-05-03 15:35:07 INFO  Main:29 - Car Body Supplier 0 supplied Body92
+2022-05-03 15:35:07 INFO  Main:29 - Engine Supplier 0 supplied Engine121
+2022-05-03 15:35:07 INFO  Main:29 - Car Body Supplier 0 supplied Body93
+2022-05-03 15:35:07 INFO  Main:29 - Engine Supplier 0 supplied Engine122
+2022-05-03 15:35:07 INFO  Main:29 - Engine Supplier 0 supplied Engine123
+2022-05-03 15:35:07 INFO  Main:29 - Engine Supplier 0 supplied Engine124
+2022-05-03 15:35:07 INFO  Main:29 - Engine Supplier 0 supplied Engine125
+2022-05-03 15:35:07 INFO  Main:29 - Engine Supplier 0 supplied Engine126
+2022-05-03 15:35:07 INFO  Main:29 - Engine Supplier 0 supplied Engine127
+2022-05-03 15:35:07 INFO  Main:29 - Engine Supplier 0 supplied Engine128
+2022-05-03 15:35:07 INFO  Main:29 - Engine Supplier 0 supplied Engine129
+2022-05-03 15:35:07 INFO  Main:29 - Engine Supplier 0 supplied Engine130
+2022-05-03 15:35:07 INFO  Main:29 - Engine Supplier 0 supplied Engine131
+2022-05-03 15:35:07 INFO  Main:29 - Engine Supplier 0 supplied Engine132
+2022-05-03 15:35:07 INFO  Main:29 - Engine Supplier 0 supplied Engine133
+2022-05-03 15:35:10 INFO  Main:32 - Car Body83Engine111Accessory66 SOLD! Congratulations to the Dealer 1 GOOD JOB!
+2022-05-03 15:35:10 INFO  Main:32 - Car Body82Engine110Accessory66 SOLD! Congratulations to the Dealer 0 GOOD JOB!
+2022-05-03 15:35:10 INFO  Main:29 - Engine Supplier 0 supplied Engine134
+2022-05-03 15:35:10 INFO  Main:29 - Car Body Supplier 0 supplied Body94
+2022-05-03 15:35:10 INFO  Main:41 - Worker 0 produced car: Body93Engine133Accessory66
+2022-05-03 15:35:10 INFO  Main:41 - Worker 1 produced car: Body93Engine133Accessory66
+2022-05-03 15:35:10 INFO  Main:29 - Engine Supplier 0 supplied Engine135
+2022-05-03 15:35:10 INFO  Main:29 - Car Body Supplier 0 supplied Body95
+2022-05-03 15:35:10 INFO  Main:29 - Accessories Supplier 0 supplied Accessory67
+2022-05-03 15:35:10 INFO  Main:29 - Accessories Supplier 0 supplied Accessory68
+2022-05-03 15:35:10 INFO  Main:29 - Accessories Supplier 0 supplied Accessory69
+2022-05-03 15:35:10 INFO  Main:29 - Accessories Supplier 0 supplied Accessory70
+2022-05-03 15:35:10 INFO  Main:29 - Accessories Supplier 0 supplied Accessory71
+2022-05-03 15:35:10 INFO  Main:29 - Accessories Supplier 0 supplied Accessory72
+2022-05-03 15:35:10 INFO  Main:29 - Accessories Supplier 0 supplied Accessory73
+2022-05-03 15:35:10 INFO  Main:29 - Accessories Supplier 0 supplied Accessory74
+2022-05-03 15:35:10 INFO  Main:29 - Accessories Supplier 0 supplied Accessory75
+2022-05-03 15:35:10 INFO  Main:29 - Accessories Supplier 0 supplied Accessory76
+2022-05-03 15:35:10 INFO  Main:29 - Accessories Supplier 0 supplied Accessory77
+2022-05-03 15:35:10 INFO  Main:29 - Accessories Supplier 0 supplied Accessory78
+2022-05-03 15:35:10 INFO  Main:29 - Accessories Supplier 0 supplied Accessory79
+2022-05-03 15:35:10 INFO  Main:29 - Accessories Supplier 0 supplied Accessory80
+2022-05-03 15:35:10 INFO  Main:29 - Accessories Supplier 0 supplied Accessory81
+2022-05-03 15:35:10 INFO  Main:29 - Accessories Supplier 0 supplied Accessory82
+2022-05-03 15:35:10 INFO  Main:29 - Accessories Supplier 0 supplied Accessory83
+2022-05-03 15:35:10 INFO  Main:29 - Accessories Supplier 4 supplied Accessory84
+2022-05-03 15:35:10 INFO  Main:29 - Accessories Supplier 5 supplied Accessory87
+2022-05-03 15:35:10 INFO  Main:29 - Accessories Supplier 5 supplied Accessory89
+2022-05-03 15:35:10 INFO  Main:29 - Accessories Supplier 5 supplied Accessory90
+2022-05-03 15:35:10 INFO  Main:29 - Accessories Supplier 5 supplied Accessory91
+2022-05-03 15:35:10 INFO  Main:29 - Accessories Supplier 5 supplied Accessory92
+2022-05-03 15:35:10 INFO  Main:29 - Accessories Supplier 5 supplied Accessory93
+2022-05-03 15:35:10 INFO  Main:29 - Accessories Supplier 5 supplied Accessory94
+2022-05-03 15:35:10 INFO  Main:29 - Accessories Supplier 5 supplied Accessory95
+2022-05-03 15:35:10 INFO  Main:29 - Accessories Supplier 5 supplied Accessory96
+2022-05-03 15:35:10 INFO  Main:29 - Accessories Supplier 0 supplied Accessory86
+2022-05-03 15:35:10 INFO  Main:29 - Accessories Supplier 1 supplied Accessory85
+2022-05-03 15:35:10 INFO  Main:29 - Accessories Supplier 3 supplied Accessory99
+2022-05-03 15:35:10 INFO  Main:29 - Accessories Supplier 0 supplied Accessory98
+2022-05-03 15:35:10 INFO  Main:29 - Accessories Supplier 5 supplied Accessory97
+2022-05-03 15:35:10 INFO  Main:29 - Accessories Supplier 4 supplied Accessory88
+2022-05-03 15:35:10 INFO  Main:29 - Accessories Supplier 5 supplied Accessory103
+2022-05-03 15:35:10 INFO  Main:29 - Accessories Supplier 0 supplied Accessory102
+2022-05-03 15:35:10 INFO  Main:29 - Accessories Supplier 3 supplied Accessory101
+2022-05-03 15:35:10 INFO  Main:29 - Accessories Supplier 1 supplied Accessory100
+2022-05-03 15:35:10 INFO  Main:29 - Accessories Supplier 3 supplied Accessory107
+2022-05-03 15:35:10 INFO  Main:29 - Accessories Supplier 3 supplied Accessory109
+2022-05-03 15:35:10 INFO  Main:29 - Accessories Supplier 3 supplied Accessory110
+2022-05-03 15:35:10 INFO  Main:29 - Accessories Supplier 3 supplied Accessory111
+2022-05-03 15:35:10 INFO  Main:29 - Accessories Supplier 0 supplied Accessory106
+2022-05-03 15:35:10 INFO  Main:29 - Accessories Supplier 2 supplied Accessory113
+2022-05-03 15:35:10 INFO  Main:29 - Accessories Supplier 2 supplied Accessory115
+2022-05-03 15:35:10 INFO  Main:29 - Accessories Supplier 2 supplied Accessory116
+2022-05-03 15:35:10 INFO  Main:29 - Accessories Supplier 2 supplied Accessory117
+2022-05-03 15:35:10 INFO  Main:29 - Accessories Supplier 2 supplied Accessory118
+2022-05-03 15:35:10 INFO  Main:29 - Accessories Supplier 2 supplied Accessory119
+2022-05-03 15:35:10 INFO  Main:29 - Accessories Supplier 2 supplied Accessory120
+2022-05-03 15:35:10 INFO  Main:29 - Accessories Supplier 2 supplied Accessory121
+2022-05-03 15:35:10 INFO  Main:29 - Accessories Supplier 2 supplied Accessory122
+2022-05-03 15:35:10 INFO  Main:29 - Accessories Supplier 2 supplied Accessory123
+2022-05-03 15:35:10 INFO  Main:29 - Accessories Supplier 2 supplied Accessory124
+2022-05-03 15:35:10 INFO  Main:29 - Accessories Supplier 2 supplied Accessory125
+2022-05-03 15:35:10 INFO  Main:29 - Accessories Supplier 2 supplied Accessory126
+2022-05-03 15:35:10 INFO  Main:29 - Accessories Supplier 2 supplied Accessory127
+2022-05-03 15:35:10 INFO  Main:29 - Accessories Supplier 2 supplied Accessory128
+2022-05-03 15:35:10 INFO  Main:29 - Accessories Supplier 2 supplied Accessory129
+2022-05-03 15:35:10 INFO  Main:29 - Accessories Supplier 2 supplied Accessory130
+2022-05-03 15:35:10 INFO  Main:29 - Accessories Supplier 2 supplied Accessory131
+2022-05-03 15:35:10 INFO  Main:29 - Accessories Supplier 2 supplied Accessory132
+2022-05-03 15:35:10 INFO  Main:29 - Accessories Supplier 5 supplied Accessory105
+2022-05-03 15:35:10 INFO  Main:29 - Accessories Supplier 4 supplied Accessory104
+2022-05-03 15:35:10 INFO  Main:29 - Accessories Supplier 2 supplied Accessory133
+2022-05-03 15:35:10 INFO  Main:29 - Accessories Supplier 0 supplied Accessory114
+2022-05-03 15:35:10 INFO  Main:29 - Accessories Supplier 3 supplied Accessory112
+2022-05-03 15:35:10 INFO  Main:29 - Accessories Supplier 1 supplied Accessory108
+2022-05-03 15:35:10 INFO  Main:32 - Car Body93Engine133Accessory66 SOLD! Congratulations to the Dealer 1 GOOD JOB!
+2022-05-03 15:35:10 INFO  Main:41 - Worker 0 produced car: Body95Engine135Accessory133
+2022-05-03 15:35:10 INFO  Main:29 - Car Body Supplier 0 supplied Body96
+2022-05-03 15:35:10 INFO  Main:29 - Engine Supplier 0 supplied Engine136
+2022-05-03 15:35:10 INFO  Main:29 - Accessories Supplier 5 supplied Accessory134
+2022-05-03 15:35:10 INFO  Main:41 - Worker 1 produced car: Body96Engine136Accessory134
+2022-05-03 15:35:10 INFO  Main:32 - Car Body95Engine135Accessory133 SOLD! Congratulations to the Dealer 0 GOOD JOB!
+2022-05-03 15:35:10 INFO  Main:29 - Accessories Supplier 2 supplied Accessory135
+2022-05-03 15:35:10 INFO  Main:29 - Engine Supplier 0 supplied Engine137
+2022-05-03 15:35:10 INFO  Main:29 - Car Body Supplier 0 supplied Body97
+2022-05-03 15:35:10 INFO  Main:32 - Car Body96Engine136Accessory134 SOLD! Congratulations to the Dealer 1 GOOD JOB!
+2022-05-03 15:35:10 INFO  Main:41 - Worker 0 produced car: Body97Engine137Accessory135
+2022-05-03 15:35:10 INFO  Main:29 - Accessories Supplier 3 supplied Accessory136
+2022-05-03 15:35:10 INFO  Main:29 - Engine Supplier 0 supplied Engine138
+2022-05-03 15:35:10 INFO  Main:29 - Car Body Supplier 0 supplied Body98
+2022-05-03 15:35:10 INFO  Main:32 - Car Body97Engine137Accessory135 SOLD! Congratulations to the Dealer 0 GOOD JOB!
+2022-05-03 15:35:10 INFO  Main:29 - Accessories Supplier 4 supplied Accessory137
+2022-05-03 15:35:10 INFO  Main:29 - Engine Supplier 0 supplied Engine139
+2022-05-03 15:35:10 INFO  Main:29 - Car Body Supplier 0 supplied Body99
+2022-05-03 15:35:10 INFO  Main:41 - Worker 1 produced car: Body98Engine138Accessory136
+2022-05-03 15:35:11 INFO  Main:32 - Car Body98Engine138Accessory136 SOLD! Congratulations to the Dealer 1 GOOD JOB!
+2022-05-03 15:35:11 INFO  Main:41 - Worker 0 produced car: Body99Engine139Accessory137
+2022-05-03 15:35:11 INFO  Main:29 - Engine Supplier 0 supplied Engine140
+2022-05-03 15:35:11 INFO  Main:29 - Accessories Supplier 5 supplied Accessory138
+2022-05-03 15:35:11 INFO  Main:29 - Car Body Supplier 0 supplied Body100
+2022-05-03 15:35:11 INFO  Main:32 - Car Body99Engine139Accessory137 SOLD! Congratulations to the Dealer 0 GOOD JOB!
+2022-05-03 15:35:11 INFO  Main:29 - Accessories Supplier 1 supplied Accessory139
+2022-05-03 15:35:11 INFO  Main:29 - Engine Supplier 0 supplied Engine141
+2022-05-03 15:35:11 INFO  Main:29 - Car Body Supplier 0 supplied Body101
+2022-05-03 15:35:11 INFO  Main:41 - Worker 1 produced car: Body100Engine140Accessory138
+2022-05-03 15:35:11 INFO  Main:32 - Car Body100Engine140Accessory138 SOLD! Congratulations to the Dealer 1 GOOD JOB!
+2022-05-03 15:35:11 INFO  Main:29 - Accessories Supplier 0 supplied Accessory140
+2022-05-03 15:35:11 INFO  Main:29 - Engine Supplier 0 supplied Engine142
+2022-05-03 15:35:11 INFO  Main:29 - Car Body Supplier 0 supplied Body102
+2022-05-03 15:35:11 INFO  Main:41 - Worker 0 produced car: Body101Engine141Accessory139
+2022-05-03 15:35:11 INFO  Main:32 - Car Body101Engine141Accessory139 SOLD! Congratulations to the Dealer 0 GOOD JOB!
+2022-05-03 15:35:11 INFO  Main:29 - Accessories Supplier 2 supplied Accessory141
+2022-05-03 15:35:11 INFO  Main:29 - Engine Supplier 0 supplied Engine143
+2022-05-03 15:35:11 INFO  Main:29 - Car Body Supplier 0 supplied Body103
+2022-05-03 15:35:11 INFO  Main:41 - Worker 1 produced car: Body102Engine142Accessory140
+2022-05-03 15:35:11 INFO  Main:32 - Car Body102Engine142Accessory140 SOLD! Congratulations to the Dealer 1 GOOD JOB!
+2022-05-03 15:35:11 INFO  Main:29 - Engine Supplier 0 supplied Engine144
+2022-05-03 15:35:11 INFO  Main:41 - Worker 0 produced car: Body103Engine143Accessory141
+2022-05-03 15:35:11 INFO  Main:29 - Accessories Supplier 3 supplied Accessory142
+2022-05-03 15:35:11 INFO  Main:29 - Car Body Supplier 0 supplied Body104
+2022-05-03 15:35:11 INFO  Main:32 - Car Body103Engine143Accessory141 SOLD! Congratulations to the Dealer 0 GOOD JOB!
+2022-05-03 15:35:11 INFO  Main:29 - Car Body Supplier 0 supplied Body105
+2022-05-03 15:35:11 INFO  Main:29 - Engine Supplier 0 supplied Engine145
+2022-05-03 15:35:11 INFO  Main:29 - Accessories Supplier 4 supplied Accessory143
+2022-05-03 15:35:11 INFO  Main:41 - Worker 1 produced car: Body105Engine144Accessory142
+2022-05-03 15:35:12 INFO  Main:32 - Car Body105Engine144Accessory142 SOLD! Congratulations to the Dealer 1 GOOD JOB!
+2022-05-03 15:35:12 INFO  Main:29 - Accessories Supplier 5 supplied Accessory144
+2022-05-03 15:35:12 INFO  Main:29 - Car Body Supplier 0 supplied Body106
+2022-05-03 15:35:12 INFO  Main:29 - Engine Supplier 0 supplied Engine146
+2022-05-03 15:35:12 INFO  Main:41 - Worker 0 produced car: Body105Engine145Accessory143
+2022-05-03 15:35:12 INFO  Main:32 - Car Body105Engine145Accessory143 SOLD! Congratulations to the Dealer 0 GOOD JOB!
+2022-05-03 15:35:12 INFO  Main:29 - Accessories Supplier 1 supplied Accessory145
+2022-05-03 15:35:12 INFO  Main:29 - Engine Supplier 0 supplied Engine147
+2022-05-03 15:35:12 INFO  Main:29 - Car Body Supplier 0 supplied Body107
+2022-05-03 15:35:12 INFO  Main:41 - Worker 1 produced car: Body106Engine146Accessory144
+2022-05-03 15:35:12 INFO  Main:32 - Car Body106Engine146Accessory144 SOLD! Congratulations to the Dealer 1 GOOD JOB!
+2022-05-03 15:35:12 INFO  Main:41 - Worker 0 produced car: Body107Engine147Accessory145
+2022-05-03 15:35:12 INFO  Main:29 - Car Body Supplier 0 supplied Body108
+2022-05-03 15:35:12 INFO  Main:29 - Engine Supplier 0 supplied Engine148
+2022-05-03 15:35:12 INFO  Main:29 - Accessories Supplier 0 supplied Accessory146
+2022-05-03 15:35:12 INFO  Main:29 - Accessories Supplier 2 supplied Accessory147
+2022-05-03 15:35:12 INFO  Main:29 - Engine Supplier 0 supplied Engine149
+2022-05-03 15:35:12 INFO  Main:41 - Worker 1 produced car: Body108Engine148Accessory146
+2022-05-03 15:35:12 INFO  Main:29 - Car Body Supplier 0 supplied Body109
+2022-05-03 15:35:12 INFO  Main:32 - Car Body107Engine147Accessory145 SOLD! Congratulations to the Dealer 0 GOOD JOB!
+2022-05-03 15:35:12 INFO  Main:32 - Car Body108Engine148Accessory146 SOLD! Congratulations to the Dealer 1 GOOD JOB!
+2022-05-03 15:35:12 INFO  Main:29 - Accessories Supplier 3 supplied Accessory148
+2022-05-03 15:35:12 INFO  Main:29 - Car Body Supplier 0 supplied Body110
+2022-05-03 15:35:12 INFO  Main:29 - Engine Supplier 0 supplied Engine150
+2022-05-03 15:35:12 INFO  Main:41 - Worker 0 produced car: Body109Engine149Accessory147
+2022-05-03 15:35:12 INFO  Main:32 - Car Body109Engine149Accessory147 SOLD! Congratulations to the Dealer 0 GOOD JOB!
+2022-05-03 15:35:12 INFO  Main:29 - Car Body Supplier 0 supplied Body111
+2022-05-03 15:35:12 INFO  Main:29 - Accessories Supplier 4 supplied Accessory149
+2022-05-03 15:35:12 INFO  Main:41 - Worker 1 produced car: Body110Engine150Accessory148
+2022-05-03 15:35:12 INFO  Main:29 - Engine Supplier 0 supplied Engine151
+2022-05-03 15:35:13 INFO  Main:32 - Car Body110Engine150Accessory148 SOLD! Congratulations to the Dealer 1 GOOD JOB!
+2022-05-03 15:35:13 INFO  Main:29 - Accessories Supplier 0 supplied Accessory150
+2022-05-03 15:35:13 INFO  Main:41 - Worker 0 produced car: Body112Engine152Accessory149
+2022-05-03 15:35:13 INFO  Main:29 - Engine Supplier 0 supplied Engine152
+2022-05-03 15:35:13 INFO  Main:29 - Car Body Supplier 0 supplied Body112
+2022-05-03 15:35:13 INFO  Main:32 - Car Body112Engine152Accessory149 SOLD! Congratulations to the Dealer 0 GOOD JOB!
+2022-05-03 15:35:13 INFO  Main:29 - Car Body Supplier 0 supplied Body113
+2022-05-03 15:35:13 INFO  Main:29 - Accessories Supplier 1 supplied Accessory151
+2022-05-03 15:35:13 INFO  Main:29 - Engine Supplier 0 supplied Engine153
+2022-05-03 15:35:13 INFO  Main:41 - Worker 1 produced car: Body112Engine152Accessory150
+2022-05-03 15:35:13 INFO  Main:32 - Car Body112Engine152Accessory150 SOLD! Congratulations to the Dealer 1 GOOD JOB!
+2022-05-03 15:35:13 INFO  Main:41 - Worker 0 produced car: Body113Engine153Accessory151
+2022-05-03 15:35:13 INFO  Main:29 - Car Body Supplier 0 supplied Body114
+2022-05-03 15:35:13 INFO  Main:29 - Engine Supplier 0 supplied Engine154
+2022-05-03 15:35:13 INFO  Main:29 - Accessories Supplier 5 supplied Accessory152
+2022-05-03 15:35:13 INFO  Main:32 - Car Body113Engine153Accessory151 SOLD! Congratulations to the Dealer 0 GOOD JOB!
+2022-05-03 15:35:13 INFO  Main:29 - Car Body Supplier 0 supplied Body115
+2022-05-03 15:35:13 INFO  Main:29 - Accessories Supplier 2 supplied Accessory153
+2022-05-03 15:35:13 INFO  Main:29 - Engine Supplier 0 supplied Engine155
+2022-05-03 15:35:13 INFO  Main:41 - Worker 1 produced car: Body114Engine154Accessory152
+2022-05-03 15:35:13 INFO  Main:32 - Car Body114Engine154Accessory152 SOLD! Congratulations to the Dealer 1 GOOD JOB!
+2022-05-03 15:35:13 INFO  Main:29 - Accessories Supplier 3 supplied Accessory154
+2022-05-03 15:35:13 INFO  Main:29 - Engine Supplier 0 supplied Engine156
+2022-05-03 15:35:13 INFO  Main:29 - Car Body Supplier 0 supplied Body116
+2022-05-03 15:35:13 INFO  Main:41 - Worker 0 produced car: Body115Engine155Accessory153
+2022-05-03 15:35:13 INFO  Main:32 - Car Body115Engine155Accessory153 SOLD! Congratulations to the Dealer 0 GOOD JOB!
+2022-05-03 15:35:13 INFO  Main:29 - Accessories Supplier 4 supplied Accessory155
+2022-05-03 15:35:13 INFO  Main:29 - Engine Supplier 0 supplied Engine157
+2022-05-03 15:35:13 INFO  Main:29 - Car Body Supplier 0 supplied Body117
+2022-05-03 15:35:13 INFO  Main:41 - Worker 1 produced car: Body116Engine156Accessory154
+2022-05-03 15:35:14 INFO  Main:32 - Car Body116Engine156Accessory154 SOLD! Congratulations to the Dealer 1 GOOD JOB!
+2022-05-03 15:35:14 INFO  Main:41 - Worker 0 produced car: Body117Engine157Accessory155
+2022-05-03 15:35:14 INFO  Main:29 - Car Body Supplier 0 supplied Body118
+2022-05-03 15:35:14 INFO  Main:29 - Accessories Supplier 0 supplied Accessory156
+2022-05-03 15:35:14 INFO  Main:29 - Engine Supplier 0 supplied Engine158
+2022-05-03 15:35:14 INFO  Main:32 - Car Body117Engine157Accessory155 SOLD! Congratulations to the Dealer 0 GOOD JOB!
+2022-05-03 15:35:14 INFO  Main:29 - Accessories Supplier 1 supplied Accessory157
+2022-05-03 15:35:14 INFO  Main:29 - Engine Supplier 0 supplied Engine159
+2022-05-03 15:35:14 INFO  Main:29 - Car Body Supplier 0 supplied Body119
+2022-05-03 15:35:14 INFO  Main:41 - Worker 1 produced car: Body118Engine158Accessory156
+2022-05-03 15:35:14 INFO  Main:32 - Car Body118Engine158Accessory156 SOLD! Congratulations to the Dealer 1 GOOD JOB!
+2022-05-03 15:35:14 INFO  Main:29 - Accessories Supplier 5 supplied Accessory158
+2022-05-03 15:35:14 INFO  Main:29 - Engine Supplier 0 supplied Engine160
+2022-05-03 15:35:14 INFO  Main:29 - Car Body Supplier 0 supplied Body120
+2022-05-03 15:35:14 INFO  Main:41 - Worker 0 produced car: Body119Engine159Accessory157
+2022-05-03 15:35:14 INFO  Main:32 - Car Body119Engine159Accessory157 SOLD! Congratulations to the Dealer 0 GOOD JOB!
+2022-05-03 15:35:14 INFO  Main:29 - Accessories Supplier 2 supplied Accessory159
+2022-05-03 15:35:14 INFO  Main:29 - Engine Supplier 0 supplied Engine161
+2022-05-03 15:35:14 INFO  Main:29 - Car Body Supplier 0 supplied Body121
+2022-05-03 15:35:14 INFO  Main:41 - Worker 1 produced car: Body120Engine160Accessory158
+2022-05-03 15:35:14 INFO  Main:32 - Car Body120Engine160Accessory158 SOLD! Congratulations to the Dealer 1 GOOD JOB!
+2022-05-03 15:35:14 INFO  Main:29 - Accessories Supplier 3 supplied Accessory160
+2022-05-03 15:35:14 INFO  Main:29 - Engine Supplier 0 supplied Engine162
+2022-05-03 15:35:14 INFO  Main:29 - Car Body Supplier 0 supplied Body122
+2022-05-03 15:35:14 INFO  Main:41 - Worker 0 produced car: Body121Engine161Accessory159
+2022-05-03 15:35:14 INFO  Main:29 - Car Body Supplier 0 supplied Body123
+2022-05-03 15:35:14 INFO  Main:41 - Worker 1 produced car: Body122Engine162Accessory160
+2022-05-03 15:35:14 INFO  Main:32 - Car Body121Engine161Accessory159 SOLD! Congratulations to the Dealer 0 GOOD JOB!
+2022-05-03 15:35:14 INFO  Main:29 - Accessories Supplier 4 supplied Accessory161
+2022-05-03 15:35:14 INFO  Main:29 - Engine Supplier 0 supplied Engine163
+2022-05-03 15:35:15 INFO  Main:32 - Car Body122Engine162Accessory160 SOLD! Congratulations to the Dealer 1 GOOD JOB!
+2022-05-03 15:35:15 INFO  Main:29 - Car Body Supplier 0 supplied Body124
+2022-05-03 15:35:15 INFO  Main:41 - Worker 0 produced car: Body124Engine163Accessory161
+2022-05-03 15:35:15 INFO  Main:29 - Engine Supplier 0 supplied Engine164
+2022-05-03 15:35:15 INFO  Main:29 - Accessories Supplier 0 supplied Accessory162
+2022-05-03 15:35:15 INFO  Main:32 - Car Body124Engine163Accessory161 SOLD! Congratulations to the Dealer 0 GOOD JOB!
+2022-05-03 15:35:15 INFO  Main:29 - Accessories Supplier 1 supplied Accessory163
+2022-05-03 15:35:15 INFO  Main:29 - Engine Supplier 0 supplied Engine165
+2022-05-03 15:35:15 INFO  Main:41 - Worker 1 produced car: Body124Engine164Accessory162
+2022-05-03 15:35:15 INFO  Main:29 - Car Body Supplier 0 supplied Body125
+2022-05-03 15:35:15 INFO  Main:32 - Car Body124Engine164Accessory162 SOLD! Congratulations to the Dealer 1 GOOD JOB!
+2022-05-03 15:35:15 INFO  Main:29 - Accessories Supplier 5 supplied Accessory164
+2022-05-03 15:35:15 INFO  Main:29 - Engine Supplier 0 supplied Engine166
+2022-05-03 15:35:15 INFO  Main:29 - Car Body Supplier 0 supplied Body126
+2022-05-03 15:35:15 INFO  Main:41 - Worker 0 produced car: Body125Engine165Accessory163
+2022-05-03 15:35:15 INFO  Main:32 - Car Body125Engine165Accessory163 SOLD! Congratulations to the Dealer 0 GOOD JOB!
+2022-05-03 15:35:15 INFO  Main:29 - Engine Supplier 0 supplied Engine167
+2022-05-03 15:35:15 INFO  Main:29 - Car Body Supplier 0 supplied Body127
+2022-05-03 15:35:15 INFO  Main:41 - Worker 1 produced car: Body126Engine166Accessory164
+2022-05-03 15:35:15 INFO  Main:29 - Accessories Supplier 2 supplied Accessory165
+2022-05-03 15:35:16 INFO  Main:32 - Car Body126Engine166Accessory164 SOLD! Congratulations to the Dealer 1 GOOD JOB!
+2022-05-03 15:35:16 INFO  Main:29 - Car Body Supplier 0 supplied Body128
+2022-05-03 15:35:16 INFO  Main:29 - Accessories Supplier 3 supplied Accessory166
+2022-05-03 15:35:16 INFO  Main:29 - Engine Supplier 0 supplied Engine168
+2022-05-03 15:35:16 INFO  Main:41 - Worker 0 produced car: Body128Engine167Accessory165
+2022-05-03 15:35:16 INFO  Main:32 - Car Body128Engine167Accessory165 SOLD! Congratulations to the Dealer 0 GOOD JOB!
+2022-05-03 15:35:16 INFO  Main:29 - Accessories Supplier 4 supplied Accessory167
+2022-05-03 15:35:16 INFO  Main:29 - Engine Supplier 0 supplied Engine169
+2022-05-03 15:35:16 INFO  Main:29 - Car Body Supplier 0 supplied Body129
+2022-05-03 15:35:16 INFO  Main:41 - Worker 1 produced car: Body128Engine168Accessory166
+2022-05-03 15:35:16 INFO  Main:32 - Car Body128Engine168Accessory166 SOLD! Congratulations to the Dealer 1 GOOD JOB!
+2022-05-03 15:35:16 INFO  Main:29 - Car Body Supplier 0 supplied Body130
+2022-05-03 15:35:16 INFO  Main:29 - Accessories Supplier 0 supplied Accessory168
+2022-05-03 15:35:16 INFO  Main:29 - Engine Supplier 0 supplied Engine170
+2022-05-03 15:35:16 INFO  Main:41 - Worker 0 produced car: Body129Engine169Accessory167
+2022-05-03 15:35:16 INFO  Main:32 - Car Body129Engine169Accessory167 SOLD! Congratulations to the Dealer 0 GOOD JOB!
+2022-05-03 15:35:16 INFO  Main:29 - Accessories Supplier 1 supplied Accessory169
+2022-05-03 15:35:16 INFO  Main:29 - Engine Supplier 0 supplied Engine171
+2022-05-03 15:35:16 INFO  Main:29 - Car Body Supplier 0 supplied Body131
+2022-05-03 15:35:16 INFO  Main:41 - Worker 1 produced car: Body130Engine170Accessory168
+2022-05-03 15:35:16 INFO  Main:32 - Car Body130Engine170Accessory168 SOLD! Congratulations to the Dealer 1 GOOD JOB!
+2022-05-03 15:35:16 INFO  Main:29 - Engine Supplier 0 supplied Engine172
+2022-05-03 15:35:16 INFO  Main:29 - Car Body Supplier 0 supplied Body132
+2022-05-03 15:35:16 INFO  Main:41 - Worker 0 produced car: Body131Engine171Accessory169
+2022-05-03 15:35:16 INFO  Main:29 - Accessories Supplier 5 supplied Accessory170
+2022-05-03 15:35:16 INFO  Main:32 - Car Body131Engine171Accessory169 SOLD! Congratulations to the Dealer 0 GOOD JOB!
+2022-05-03 15:35:16 INFO  Main:29 - Accessories Supplier 2 supplied Accessory171
+2022-05-03 15:35:16 INFO  Main:29 - Engine Supplier 0 supplied Engine173
+2022-05-03 15:35:16 INFO  Main:29 - Car Body Supplier 0 supplied Body133
+2022-05-03 15:35:16 INFO  Main:41 - Worker 1 produced car: Body132Engine172Accessory170
+2022-05-03 15:35:17 INFO  Main:32 - Car Body132Engine172Accessory170 SOLD! Congratulations to the Dealer 1 GOOD JOB!
+2022-05-03 15:35:17 INFO  Main:29 - Car Body Supplier 0 supplied Body134
+2022-05-03 15:35:17 INFO  Main:41 - Worker 0 produced car: Body133Engine173Accessory171
+2022-05-03 15:35:17 INFO  Main:29 - Engine Supplier 0 supplied Engine174
+2022-05-03 15:35:17 INFO  Main:29 - Accessories Supplier 3 supplied Accessory172
+2022-05-03 15:35:17 INFO  Main:32 - Car Body133Engine173Accessory171 SOLD! Congratulations to the Dealer 0 GOOD JOB!
+2022-05-03 15:35:17 INFO  Main:29 - Accessories Supplier 4 supplied Accessory173
+2022-05-03 15:35:17 INFO  Main:29 - Engine Supplier 0 supplied Engine175
+2022-05-03 15:35:17 INFO  Main:29 - Car Body Supplier 0 supplied Body135
+2022-05-03 15:35:17 INFO  Main:41 - Worker 1 produced car: Body134Engine174Accessory172
+2022-05-03 15:35:17 INFO  Main:32 - Car Body134Engine174Accessory172 SOLD! Congratulations to the Dealer 1 GOOD JOB!
+2022-05-03 15:35:17 INFO  Main:29 - Accessories Supplier 0 supplied Accessory174
+2022-05-03 15:35:17 INFO  Main:29 - Engine Supplier 0 supplied Engine176
+2022-05-03 15:35:17 INFO  Main:29 - Car Body Supplier 0 supplied Body136
+2022-05-03 15:35:17 INFO  Main:41 - Worker 0 produced car: Body135Engine175Accessory173
+2022-05-03 15:35:17 INFO  Main:32 - Car Body135Engine175Accessory173 SOLD! Congratulations to the Dealer 0 GOOD JOB!
+2022-05-03 15:35:17 INFO  Main:29 - Accessories Supplier 1 supplied Accessory175
+2022-05-03 15:35:17 INFO  Main:29 - Engine Supplier 0 supplied Engine177
+2022-05-03 15:35:17 INFO  Main:29 - Car Body Supplier 0 supplied Body137
+2022-05-03 15:35:17 INFO  Main:41 - Worker 1 produced car: Body136Engine176Accessory174
+2022-05-03 15:35:17 INFO  Main:32 - Car Body136Engine176Accessory174 SOLD! Congratulations to the Dealer 1 GOOD JOB!
+2022-05-03 15:35:17 INFO  Main:29 - Accessories Supplier 3 supplied Accessory176
+2022-05-03 15:35:17 INFO  Main:29 - Engine Supplier 0 supplied Engine178
+2022-05-03 15:35:17 INFO  Main:29 - Car Body Supplier 0 supplied Body138
+2022-05-03 15:35:17 INFO  Main:41 - Worker 0 produced car: Body137Engine177Accessory175
+2022-05-03 15:35:17 INFO  Main:32 - Car Body137Engine177Accessory175 SOLD! Congratulations to the Dealer 0 GOOD JOB!
+2022-05-03 15:35:17 INFO  Main:29 - Accessories Supplier 2 supplied Accessory177
+2022-05-03 15:35:17 INFO  Main:29 - Engine Supplier 0 supplied Engine179
+2022-05-03 15:35:17 INFO  Main:29 - Car Body Supplier 0 supplied Body139
+2022-05-03 15:35:17 INFO  Main:41 - Worker 1 produced car: Body138Engine178Accessory176
+2022-05-03 15:35:18 INFO  Main:32 - Car Body138Engine178Accessory176 SOLD! Congratulations to the Dealer 1 GOOD JOB!
+2022-05-03 15:35:18 INFO  Main:41 - Worker 0 produced car: Body139Engine179Accessory177
+2022-05-03 15:35:18 INFO  Main:29 - Accessories Supplier 5 supplied Accessory178
+2022-05-03 15:35:18 INFO  Main:29 - Engine Supplier 0 supplied Engine180
+2022-05-03 15:35:18 INFO  Main:29 - Engine Supplier 0 supplied Engine181
+2022-05-03 15:35:18 INFO  Main:29 - Car Body Supplier 0 supplied Body140
+2022-05-03 15:35:18 INFO  Main:29 - Accessories Supplier 4 supplied Accessory179
+2022-05-03 15:35:18 INFO  Main:41 - Worker 1 produced car: Body140Engine180Accessory178
+2022-05-03 15:35:18 INFO  Main:32 - Car Body139Engine179Accessory177 SOLD! Congratulations to the Dealer 0 GOOD JOB!
+2022-05-03 15:35:18 INFO  Main:29 - Car Body Supplier 0 supplied Body141
+2022-05-03 15:35:18 INFO  Main:32 - Car Body140Engine180Accessory178 SOLD! Congratulations to the Dealer 1 GOOD JOB!
+2022-05-03 15:35:18 INFO  Main:29 - Accessories Supplier 0 supplied Accessory180
+2022-05-03 15:35:18 INFO  Main:29 - Engine Supplier 0 supplied Engine182
+2022-05-03 15:35:18 INFO  Main:29 - Car Body Supplier 0 supplied Body142
+2022-05-03 15:35:18 INFO  Main:41 - Worker 0 produced car: Body141Engine181Accessory179
+2022-05-03 15:35:18 INFO  Main:32 - Car Body141Engine181Accessory179 SOLD! Congratulations to the Dealer 0 GOOD JOB!
+2022-05-03 15:35:18 INFO  Main:29 - Accessories Supplier 1 supplied Accessory181
+2022-05-03 15:35:18 INFO  Main:29 - Engine Supplier 0 supplied Engine183
+2022-05-03 15:35:18 INFO  Main:29 - Car Body Supplier 0 supplied Body143
+2022-05-03 15:35:18 INFO  Main:41 - Worker 1 produced car: Body142Engine182Accessory180
+2022-05-03 15:35:19 INFO  Main:32 - Car Body142Engine182Accessory180 SOLD! Congratulations to the Dealer 1 GOOD JOB!
+2022-05-03 15:35:19 INFO  Main:41 - Worker 0 produced car: Body143Engine183Accessory181
+2022-05-03 15:35:19 INFO  Main:29 - Engine Supplier 0 supplied Engine184
+2022-05-03 15:35:19 INFO  Main:29 - Accessories Supplier 5 supplied Accessory182
+2022-05-03 15:35:19 INFO  Main:29 - Car Body Supplier 0 supplied Body144
+2022-05-03 15:35:19 INFO  Main:32 - Car Body143Engine183Accessory181 SOLD! Congratulations to the Dealer 0 GOOD JOB!
+2022-05-03 15:35:19 INFO  Main:29 - Car Body Supplier 0 supplied Body145
+2022-05-03 15:35:19 INFO  Main:29 - Accessories Supplier 2 supplied Accessory183
+2022-05-03 15:35:19 INFO  Main:29 - Engine Supplier 0 supplied Engine185
+2022-05-03 15:35:19 INFO  Main:41 - Worker 1 produced car: Body145Engine184Accessory182
+2022-05-03 15:35:19 INFO  Main:32 - Car Body145Engine184Accessory182 SOLD! Congratulations to the Dealer 1 GOOD JOB!
+2022-05-03 15:35:19 INFO  Main:29 - Car Body Supplier 0 supplied Body146
+2022-05-03 15:35:19 INFO  Main:29 - Accessories Supplier 3 supplied Accessory184
+2022-05-03 15:35:19 INFO  Main:29 - Engine Supplier 0 supplied Engine186
+2022-05-03 15:35:19 INFO  Main:41 - Worker 0 produced car: Body146Engine185Accessory183
+2022-05-03 15:35:19 INFO  Main:32 - Car Body146Engine185Accessory183 SOLD! Congratulations to the Dealer 0 GOOD JOB!
+2022-05-03 15:35:19 INFO  Main:29 - Accessories Supplier 4 supplied Accessory185
+2022-05-03 15:35:19 INFO  Main:29 - Engine Supplier 0 supplied Engine187
+2022-05-03 15:35:19 INFO  Main:29 - Car Body Supplier 0 supplied Body147
+2022-05-03 15:35:19 INFO  Main:41 - Worker 1 produced car: Body146Engine186Accessory184
+2022-05-03 15:35:19 INFO  Main:32 - Car Body146Engine186Accessory184 SOLD! Congratulations to the Dealer 1 GOOD JOB!
+2022-05-03 15:35:19 INFO  Main:29 - Car Body Supplier 0 supplied Body148
+2022-05-03 15:35:19 INFO  Main:41 - Worker 0 produced car: Body147Engine187Accessory185
+2022-05-03 15:35:19 INFO  Main:29 - Engine Supplier 0 supplied Engine188
+2022-05-03 15:35:19 INFO  Main:29 - Accessories Supplier 0 supplied Accessory186
+2022-05-03 15:35:19 INFO  Main:32 - Car Body147Engine187Accessory185 SOLD! Congratulations to the Dealer 0 GOOD JOB!
+2022-05-03 15:35:19 INFO  Main:41 - Worker 1 produced car: Body148Engine188Accessory186
+2022-05-03 15:35:19 INFO  Main:29 - Engine Supplier 0 supplied Engine189
+2022-05-03 15:35:19 INFO  Main:29 - Accessories Supplier 1 supplied Accessory187
+2022-05-03 15:35:19 INFO  Main:29 - Car Body Supplier 0 supplied Body149
+2022-05-03 15:35:20 INFO  Main:32 - Car Body148Engine188Accessory186 SOLD! Congratulations to the Dealer 1 GOOD JOB!
+2022-05-03 15:35:20 INFO  Main:41 - Worker 0 produced car: Body149Engine189Accessory187
+2022-05-03 15:35:20 INFO  Main:29 - Engine Supplier 0 supplied Engine190
+2022-05-03 15:35:20 INFO  Main:29 - Car Body Supplier 0 supplied Body150
+2022-05-03 15:35:20 INFO  Main:29 - Accessories Supplier 5 supplied Accessory188
+2022-05-03 15:35:20 INFO  Main:32 - Car Body149Engine189Accessory187 SOLD! Congratulations to the Dealer 0 GOOD JOB!
+2022-05-03 15:35:20 INFO  Main:29 - Accessories Supplier 2 supplied Accessory189
+2022-05-03 15:35:20 INFO  Main:29 - Engine Supplier 0 supplied Engine191
+2022-05-03 15:35:20 INFO  Main:29 - Car Body Supplier 0 supplied Body151
+2022-05-03 15:35:20 INFO  Main:41 - Worker 1 produced car: Body150Engine190Accessory188
+2022-05-03 15:35:20 INFO  Main:32 - Car Body150Engine190Accessory188 SOLD! Congratulations to the Dealer 1 GOOD JOB!
+2022-05-03 15:35:20 INFO  Main:29 - Car Body Supplier 0 supplied Body152
+2022-05-03 15:35:20 INFO  Main:29 - Accessories Supplier 3 supplied Accessory190
+2022-05-03 15:35:20 INFO  Main:29 - Engine Supplier 0 supplied Engine192
+2022-05-03 15:35:20 INFO  Main:41 - Worker 0 produced car: Body151Engine191Accessory189
+2022-05-03 15:35:20 INFO  Main:32 - Car Body151Engine191Accessory189 SOLD! Congratulations to the Dealer 0 GOOD JOB!
+2022-05-03 15:35:20 INFO  Main:29 - Accessories Supplier 4 supplied Accessory191
+2022-05-03 15:35:20 INFO  Main:29 - Car Body Supplier 0 supplied Body153
+2022-05-03 15:35:20 INFO  Main:29 - Engine Supplier 0 supplied Engine193
+2022-05-03 15:35:20 INFO  Main:41 - Worker 1 produced car: Body152Engine192Accessory190
+2022-05-03 15:35:20 INFO  Main:32 - Car Body152Engine192Accessory190 SOLD! Congratulations to the Dealer 1 GOOD JOB!
+2022-05-03 15:35:20 INFO  Main:29 - Accessories Supplier 0 supplied Accessory192
+2022-05-03 15:35:20 INFO  Main:29 - Engine Supplier 0 supplied Engine194
+2022-05-03 15:35:20 INFO  Main:29 - Car Body Supplier 0 supplied Body154
+2022-05-03 15:35:20 INFO  Main:41 - Worker 0 produced car: Body153Engine193Accessory191
+2022-05-03 15:35:20 INFO  Main:32 - Car Body153Engine193Accessory191 SOLD! Congratulations to the Dealer 0 GOOD JOB!
+2022-05-03 15:35:20 INFO  Main:29 - Accessories Supplier 1 supplied Accessory193
+2022-05-03 15:35:20 INFO  Main:29 - Engine Supplier 0 supplied Engine195
+2022-05-03 15:35:20 INFO  Main:29 - Car Body Supplier 0 supplied Body155
+2022-05-03 15:35:20 INFO  Main:41 - Worker 1 produced car: Body154Engine194Accessory192
+2022-05-03 15:35:21 INFO  Main:32 - Car Body154Engine194Accessory192 SOLD! Congratulations to the Dealer 1 GOOD JOB!
+2022-05-03 15:35:21 INFO  Main:29 - Accessories Supplier 5 supplied Accessory194
+2022-05-03 15:35:21 INFO  Main:29 - Engine Supplier 0 supplied Engine196
+2022-05-03 15:35:21 INFO  Main:29 - Car Body Supplier 0 supplied Body156
+2022-05-03 15:35:21 INFO  Main:41 - Worker 0 produced car: Body155Engine195Accessory193
+2022-05-03 15:35:21 INFO  Main:32 - Car Body155Engine195Accessory193 SOLD! Congratulations to the Dealer 0 GOOD JOB!
+2022-05-03 15:35:21 INFO  Main:29 - Accessories Supplier 2 supplied Accessory195
+2022-05-03 15:35:21 INFO  Main:29 - Engine Supplier 0 supplied Engine197
+2022-05-03 15:35:21 INFO  Main:29 - Car Body Supplier 0 supplied Body157
+2022-05-03 15:35:21 INFO  Main:41 - Worker 1 produced car: Body156Engine196Accessory194
+2022-05-03 15:35:21 INFO  Main:32 - Car Body156Engine196Accessory194 SOLD! Congratulations to the Dealer 1 GOOD JOB!
+2022-05-03 15:35:21 INFO  Main:29 - Accessories Supplier 3 supplied Accessory196
+2022-05-03 15:35:21 INFO  Main:29 - Engine Supplier 0 supplied Engine198
+2022-05-03 15:35:21 INFO  Main:29 - Car Body Supplier 0 supplied Body158
+2022-05-03 15:35:21 INFO  Main:41 - Worker 0 produced car: Body157Engine197Accessory195
+2022-05-03 15:35:21 INFO  Main:32 - Car Body157Engine197Accessory195 SOLD! Congratulations to the Dealer 0 GOOD JOB!
+2022-05-03 15:35:21 INFO  Main:29 - Car Body Supplier 0 supplied Body159
+2022-05-03 15:35:21 INFO  Main:29 - Accessories Supplier 4 supplied Accessory197
+2022-05-03 15:35:21 INFO  Main:29 - Engine Supplier 0 supplied Engine199
+2022-05-03 15:35:21 INFO  Main:41 - Worker 1 produced car: Body158Engine198Accessory196
+2022-05-03 15:35:22 INFO  Main:41 - Worker 0 produced car: Body159Engine199Accessory197
+2022-05-03 15:35:22 INFO  Main:32 - Car Body158Engine198Accessory196 SOLD! Congratulations to the Dealer 1 GOOD JOB!
+2022-05-03 15:35:22 INFO  Main:29 - Car Body Supplier 0 supplied Body160
+2022-05-03 15:35:22 INFO  Main:29 - Engine Supplier 0 supplied Engine200
+2022-05-03 15:35:22 INFO  Main:29 - Accessories Supplier 0 supplied Accessory198
+2022-05-03 15:35:22 INFO  Main:32 - Car Body159Engine199Accessory197 SOLD! Congratulations to the Dealer 0 GOOD JOB!
+2022-05-03 15:35:22 INFO  Main:29 - Engine Supplier 0 supplied Engine201
+2022-05-03 15:35:22 INFO  Main:29 - Accessories Supplier 1 supplied Accessory199
+2022-05-03 15:35:22 INFO  Main:29 - Car Body Supplier 0 supplied Body161
+2022-05-03 15:35:22 INFO  Main:41 - Worker 1 produced car: Body160Engine200Accessory198
+2022-05-03 15:35:22 INFO  Main:32 - Car Body160Engine200Accessory198 SOLD! Congratulations to the Dealer 1 GOOD JOB!
+2022-05-03 15:35:22 INFO  Main:29 - Engine Supplier 0 supplied Engine202
+2022-05-03 15:35:22 INFO  Main:29 - Accessories Supplier 5 supplied Accessory200
+2022-05-03 15:35:22 INFO  Main:41 - Worker 0 produced car: Body161Engine201Accessory199
+2022-05-03 15:35:22 INFO  Main:29 - Car Body Supplier 0 supplied Body162
+2022-05-03 15:35:22 INFO  Main:32 - Car Body161Engine201Accessory199 SOLD! Congratulations to the Dealer 0 GOOD JOB!
+2022-05-03 15:35:22 INFO  Main:29 - Accessories Supplier 2 supplied Accessory201
+2022-05-03 15:35:22 INFO  Main:29 - Engine Supplier 0 supplied Engine203
+2022-05-03 15:35:22 INFO  Main:29 - Car Body Supplier 0 supplied Body163
+2022-05-03 15:35:22 INFO  Main:41 - Worker 1 produced car: Body162Engine202Accessory200
+2022-05-03 15:35:22 INFO  Main:32 - Car Body162Engine202Accessory200 SOLD! Congratulations to the Dealer 1 GOOD JOB!
+2022-05-03 15:35:22 INFO  Main:29 - Accessories Supplier 0 supplied Accessory202
+2022-05-03 15:35:22 INFO  Main:29 - Car Body Supplier 0 supplied Body164
+2022-05-03 15:35:22 INFO  Main:29 - Engine Supplier 0 supplied Engine204
+2022-05-03 15:35:22 INFO  Main:41 - Worker 0 produced car: Body163Engine203Accessory201
+2022-05-03 15:35:22 INFO  Main:32 - Car Body163Engine203Accessory201 SOLD! Congratulations to the Dealer 0 GOOD JOB!
+2022-05-03 15:35:22 INFO  Main:41 - Worker 1 produced car: Body164Engine204Accessory202
+2022-05-03 15:35:22 INFO  Main:29 - Accessories Supplier 4 supplied Accessory203
+2022-05-03 15:35:22 INFO  Main:29 - Engine Supplier 0 supplied Engine205
+2022-05-03 15:35:22 INFO  Main:29 - Car Body Supplier 0 supplied Body165
+2022-05-03 15:35:23 INFO  Main:32 - Car Body164Engine204Accessory202 SOLD! Congratulations to the Dealer 1 GOOD JOB!
+2022-05-03 15:35:23 INFO  Main:29 - Accessories Supplier 3 supplied Accessory204
+2022-05-03 15:35:23 INFO  Main:29 - Engine Supplier 0 supplied Engine206
+2022-05-03 15:35:23 INFO  Main:29 - Car Body Supplier 0 supplied Body166
+2022-05-03 15:35:23 INFO  Main:41 - Worker 0 produced car: Body165Engine205Accessory203
+2022-05-03 15:35:23 INFO  Main:32 - Car Body165Engine205Accessory203 SOLD! Congratulations to the Dealer 0 GOOD JOB!
+2022-05-03 15:35:23 INFO  Main:29 - Accessories Supplier 1 supplied Accessory205
+2022-05-03 15:35:23 INFO  Main:29 - Engine Supplier 0 supplied Engine207
+2022-05-03 15:35:23 INFO  Main:41 - Worker 1 produced car: Body167Engine206Accessory204
+2022-05-03 15:35:23 INFO  Main:29 - Car Body Supplier 0 supplied Body167
+2022-05-03 15:35:23 INFO  Main:32 - Car Body167Engine206Accessory204 SOLD! Congratulations to the Dealer 1 GOOD JOB!
+2022-05-03 15:35:23 INFO  Main:41 - Worker 0 produced car: Body167Engine207Accessory205
+2022-05-03 15:35:23 INFO  Main:29 - Car Body Supplier 0 supplied Body168
+2022-05-03 15:35:23 INFO  Main:29 - Engine Supplier 0 supplied Engine208
+2022-05-03 15:35:23 INFO  Main:29 - Accessories Supplier 5 supplied Accessory206
+2022-05-03 15:35:23 INFO  Main:32 - Car Body167Engine207Accessory205 SOLD! Congratulations to the Dealer 0 GOOD JOB!
+2022-05-03 15:35:23 INFO  Main:29 - Accessories Supplier 2 supplied Accessory207
+2022-05-03 15:35:23 INFO  Main:29 - Engine Supplier 0 supplied Engine209
+2022-05-03 15:35:23 INFO  Main:29 - Car Body Supplier 0 supplied Body169
+2022-05-03 15:35:23 INFO  Main:41 - Worker 1 produced car: Body168Engine208Accessory206
+2022-05-03 15:35:24 INFO  Main:32 - Car Body168Engine208Accessory206 SOLD! Congratulations to the Dealer 1 GOOD JOB!
+2022-05-03 15:35:24 INFO  Main:41 - Worker 0 produced car: Body169Engine209Accessory207
+2022-05-03 15:35:24 INFO  Main:29 - Car Body Supplier 0 supplied Body170
+2022-05-03 15:35:24 INFO  Main:29 - Engine Supplier 0 supplied Engine210
+2022-05-03 15:35:24 INFO  Main:29 - Accessories Supplier 0 supplied Accessory208
+2022-05-03 15:35:24 INFO  Main:41 - Worker 1 produced car: Body170Engine210Accessory208
+2022-05-03 15:35:24 INFO  Main:32 - Car Body169Engine209Accessory207 SOLD! Congratulations to the Dealer 0 GOOD JOB!
+2022-05-03 15:35:24 INFO  Main:29 - Accessories Supplier 4 supplied Accessory209
+2022-05-03 15:35:24 INFO  Main:29 - Engine Supplier 0 supplied Engine211
+2022-05-03 15:35:24 INFO  Main:29 - Car Body Supplier 0 supplied Body171
+2022-05-03 15:35:24 INFO  Main:32 - Car Body170Engine210Accessory208 SOLD! Congratulations to the Dealer 1 GOOD JOB!
+2022-05-03 15:35:24 INFO  Main:29 - Accessories Supplier 3 supplied Accessory210
+2022-05-03 15:35:24 INFO  Main:29 - Engine Supplier 0 supplied Engine212
+2022-05-03 15:35:24 INFO  Main:29 - Car Body Supplier 0 supplied Body172
+2022-05-03 15:35:24 INFO  Main:41 - Worker 0 produced car: Body171Engine211Accessory209
+2022-05-03 15:35:24 INFO  Main:32 - Car Body171Engine211Accessory209 SOLD! Congratulations to the Dealer 0 GOOD JOB!
+2022-05-03 15:35:24 INFO  Main:29 - Accessories Supplier 1 supplied Accessory211
+2022-05-03 15:35:24 INFO  Main:29 - Engine Supplier 0 supplied Engine213
+2022-05-03 15:35:24 INFO  Main:29 - Car Body Supplier 0 supplied Body173
+2022-05-03 15:35:24 INFO  Main:41 - Worker 1 produced car: Body172Engine212Accessory210
+2022-05-03 15:35:24 INFO  Main:32 - Car Body172Engine212Accessory210 SOLD! Congratulations to the Dealer 1 GOOD JOB!
+2022-05-03 15:35:24 INFO  Main:41 - Worker 0 produced car: Body173Engine213Accessory211
+2022-05-03 15:35:24 INFO  Main:41 - Worker 1 produced car: Body174Engine214Accessory212
+2022-05-03 15:35:24 INFO  Main:32 - Car Body173Engine213Accessory211 SOLD! Congratulations to the Dealer 0 GOOD JOB!
+2022-05-03 15:35:24 INFO  Main:29 - Accessories Supplier 0 supplied Accessory212
+2022-05-03 15:35:24 INFO  Main:29 - Engine Supplier 0 supplied Engine214
+2022-05-03 15:35:24 INFO  Main:29 - Car Body Supplier 0 supplied Body174
+2022-05-03 15:35:24 INFO  Main:29 - Engine Supplier 0 supplied Engine215
+2022-05-03 15:35:24 INFO  Main:29 - Accessories Supplier 2 supplied Accessory213
+2022-05-03 15:35:24 INFO  Main:29 - Car Body Supplier 0 supplied Body175
+2022-05-03 15:35:25 INFO  Main:32 - Car Body174Engine214Accessory212 SOLD! Congratulations to the Dealer 1 GOOD JOB!
+2022-05-03 15:35:25 INFO  Main:29 - Accessories Supplier 5 supplied Accessory214
+2022-05-03 15:35:25 INFO  Main:29 - Engine Supplier 0 supplied Engine216
+2022-05-03 15:35:25 INFO  Main:29 - Engine Supplier 0 supplied Engine217
+2022-05-03 15:35:25 INFO  Main:29 - Car Body Supplier 0 supplied Body176
+2022-05-03 15:35:25 INFO  Main:29 - Car Body Supplier 0 supplied Body177
+2022-05-03 15:35:25 INFO  Main:41 - Worker 0 produced car: Body175Engine215Accessory213
+2022-05-03 15:35:25 INFO  Main:29 - Accessories Supplier 4 supplied Accessory215
+2022-05-03 15:35:25 INFO  Main:41 - Worker 1 produced car: Body176Engine216Accessory214
+2022-05-03 15:35:25 INFO  Main:32 - Car Body175Engine215Accessory213 SOLD! Congratulations to the Dealer 0 GOOD JOB!
+2022-05-03 15:35:25 INFO  Main:32 - Car Body176Engine216Accessory214 SOLD! Congratulations to the Dealer 1 GOOD JOB!
+2022-05-03 15:35:25 INFO  Main:41 - Worker 0 produced car: Body177Engine217Accessory215
+2022-05-03 15:35:25 INFO  Main:29 - Engine Supplier 0 supplied Engine218
+2022-05-03 15:35:25 INFO  Main:29 - Car Body Supplier 0 supplied Body178
+2022-05-03 15:35:25 INFO  Main:29 - Accessories Supplier 0 supplied Accessory216
+2022-05-03 15:35:25 INFO  Main:41 - Worker 1 produced car: Body179Engine218Accessory216
+2022-05-03 15:35:25 INFO  Main:29 - Car Body Supplier 0 supplied Body179
+2022-05-03 15:35:25 INFO  Main:32 - Car Body177Engine217Accessory215 SOLD! Congratulations to the Dealer 0 GOOD JOB!
+2022-05-03 15:35:25 INFO  Main:29 - Accessories Supplier 1 supplied Accessory217
+2022-05-03 15:35:25 INFO  Main:29 - Engine Supplier 0 supplied Engine219
+2022-05-03 15:35:26 INFO  Main:32 - Car Body179Engine218Accessory216 SOLD! Congratulations to the Dealer 1 GOOD JOB!
+2022-05-03 15:35:26 INFO  Main:29 - Accessories Supplier 5 supplied Accessory218
+2022-05-03 15:35:26 INFO  Main:29 - Engine Supplier 0 supplied Engine220
+2022-05-03 15:35:26 INFO  Main:29 - Car Body Supplier 0 supplied Body180
+2022-05-03 15:35:26 INFO  Main:41 - Worker 0 produced car: Body179Engine219Accessory217
+2022-05-03 15:35:26 INFO  Main:32 - Car Body179Engine219Accessory217 SOLD! Congratulations to the Dealer 0 GOOD JOB!
+2022-05-03 15:35:26 INFO  Main:29 - Accessories Supplier 2 supplied Accessory219
+2022-05-03 15:35:26 INFO  Main:29 - Engine Supplier 0 supplied Engine221
+2022-05-03 15:35:26 INFO  Main:29 - Car Body Supplier 0 supplied Body181
+2022-05-03 15:35:26 INFO  Main:41 - Worker 1 produced car: Body180Engine220Accessory218
+2022-05-03 15:35:26 INFO  Main:32 - Car Body180Engine220Accessory218 SOLD! Congratulations to the Dealer 1 GOOD JOB!
+2022-05-03 15:35:26 INFO  Main:29 - Accessories Supplier 0 supplied Accessory220
+2022-05-03 15:35:26 INFO  Main:29 - Engine Supplier 0 supplied Engine222
+2022-05-03 15:35:26 INFO  Main:29 - Car Body Supplier 0 supplied Body182
+2022-05-03 15:35:26 INFO  Main:41 - Worker 0 produced car: Body181Engine221Accessory219
+2022-05-03 15:35:26 INFO  Main:32 - Car Body181Engine221Accessory219 SOLD! Congratulations to the Dealer 0 GOOD JOB!
+2022-05-03 15:35:26 INFO  Main:29 - Accessories Supplier 4 supplied Accessory221
+2022-05-03 15:35:26 INFO  Main:29 - Engine Supplier 0 supplied Engine223
+2022-05-03 15:35:26 INFO  Main:29 - Car Body Supplier 0 supplied Body183
+2022-05-03 15:35:26 INFO  Main:41 - Worker 1 produced car: Body182Engine222Accessory220
+2022-05-03 15:35:26 INFO  Main:32 - Car Body182Engine222Accessory220 SOLD! Congratulations to the Dealer 1 GOOD JOB!
+2022-05-03 15:35:26 INFO  Main:29 - Car Body Supplier 0 supplied Body184
+2022-05-03 15:35:26 INFO  Main:29 - Engine Supplier 0 supplied Engine224
+2022-05-03 15:35:26 INFO  Main:41 - Worker 0 produced car: Body183Engine223Accessory221
+2022-05-03 15:35:26 INFO  Main:29 - Accessories Supplier 3 supplied Accessory222
+2022-05-03 15:35:26 INFO  Main:32 - Car Body183Engine223Accessory221 SOLD! Congratulations to the Dealer 0 GOOD JOB!
+2022-05-03 15:35:26 INFO  Main:41 - Worker 1 produced car: Body184Engine224Accessory222
+2022-05-03 15:35:26 INFO  Main:29 - Accessories Supplier 1 supplied Accessory223
+2022-05-03 15:35:26 INFO  Main:29 - Car Body Supplier 0 supplied Body185
+2022-05-03 15:35:26 INFO  Main:29 - Engine Supplier 0 supplied Engine225
+2022-05-03 15:35:27 INFO  Main:32 - Car Body184Engine224Accessory222 SOLD! Congratulations to the Dealer 1 GOOD JOB!
+2022-05-03 15:35:27 INFO  Main:41 - Worker 0 produced car: Body185Engine225Accessory223
+2022-05-03 15:35:27 INFO  Main:29 - Car Body Supplier 0 supplied Body186
+2022-05-03 15:35:27 INFO  Main:29 - Engine Supplier 0 supplied Engine226
+2022-05-03 15:35:27 INFO  Main:29 - Accessories Supplier 5 supplied Accessory224

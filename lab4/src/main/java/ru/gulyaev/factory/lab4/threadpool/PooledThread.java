@@ -1,9 +1,10 @@
-package ru.gulyaev.factory.lab4.thredpool;
+package ru.gulyaev.factory.lab4.threadpool;
 
-import lombok.extern.slf4j.Slf4j;
+
 import ru.gulyaev.factory.lab4.task.Task;
 
-@Slf4j
+import static ru.gulyaev.factory.lab4.Main.log;
+
 public class PooledThread extends Thread{
     private boolean shutdownFlag = false;
 

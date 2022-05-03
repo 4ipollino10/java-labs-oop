@@ -1,6 +1,5 @@
-package ru.gulyaev.factory.lab4.thredpool;
+package ru.gulyaev.factory.lab4.threadpool;
 
-import lombok.extern.slf4j.Slf4j;
 import ru.gulyaev.factory.lab4.task.Task;
 
 import java.util.ArrayDeque;
@@ -8,7 +7,8 @@ import java.util.LinkedHashSet;
 import java.util.Queue;
 import java.util.Set;
 
-@Slf4j
+import static ru.gulyaev.factory.lab4.Main.log;
+
 public class ThreadPool {
     private static final String STARTED = "Started ";
     private static final String THREADS_IN = " threads in ";

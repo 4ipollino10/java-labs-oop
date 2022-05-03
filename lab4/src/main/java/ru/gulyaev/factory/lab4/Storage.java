@@ -1,13 +1,14 @@
 package ru.gulyaev.factory.lab4;
-import lombok.extern.slf4j.Slf4j;
 import ru.gulyaev.factory.lab4.gear.Gear;
 import ru.gulyaev.factory.lab4.gear.Product;
 import ru.gulyaev.factory.lab4.task.SupplyTask;
-import ru.gulyaev.factory.lab4.thredpool.ThreadPool;
+import ru.gulyaev.factory.lab4.threadpool.ThreadPool;
 
 import java.util.ArrayDeque;
 
-@Slf4j
+import static ru.gulyaev.factory.lab4.Main.log;
+
+
 public class Storage<T extends Product & Gear> {
     public static final String STORAGE_WAS_INTERRUPTED = "Storage was interrupted!";
     private final ArrayDeque<T> items;
@@ -28,7 +29,7 @@ public class Storage<T extends Product & Gear> {
             e.printStackTrace();
         }
         for (int i = 0; i < capacity; i++) {
-            threadPool.addTask(new SupplyTask(this, (Class<T>) t.getClass()));
+            threadPool.addTask(new SupplyTask<T>(this, (Class<T>) t.getClass()));
         }
     }
 
@@ -49,7 +50,7 @@ public class Storage<T extends Product & Gear> {
             }
         }
         T item = items.removeLast();
-        threadPool.addTask(new SupplyTask(this, (Class<T>)t.getClass()));
+        threadPool.addTask(new SupplyTask<>(this, (Class<T>)t.getClass()));
         notify();
         return item;
     }

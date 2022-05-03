@@ -1,15 +1,16 @@
 package ru.gulyaev.factory.lab4.task;
 
-import lombok.extern.slf4j.Slf4j;
 import ru.gulyaev.factory.lab4.CarsStorage;
 import ru.gulyaev.factory.lab4.Storage;
 import ru.gulyaev.factory.lab4.gear.Accessory;
 import ru.gulyaev.factory.lab4.gear.Body;
 import ru.gulyaev.factory.lab4.gear.Car;
 import ru.gulyaev.factory.lab4.gear.Engine;
-import ru.gulyaev.factory.lab4.thredpool.Constants;
+import ru.gulyaev.factory.lab4.threadpool.Constants;
 
-@Slf4j
+import static ru.gulyaev.factory.lab4.Main.log;
+
+
 public class ProduceCarTask implements Task {
     private static final String PRODUCED_CAR = " produced car: ";
 
@@ -37,7 +38,7 @@ public class ProduceCarTask implements Task {
             Accessory accessories = _accessoriesStorage.get();
             Car newCar = new Car(carBody, engine, accessories);
             _carStorage.put(newCar);
-            log.info(threadName + PRODUCED_CAR + newCar.getFullVin() + newCar.getProductID());
+            log.info(threadName + PRODUCED_CAR + newCar.getFullVin());
         } catch (InterruptedException e) {
             log.info(threadName + Constants.INTERRUPTED);
         } catch (Exception e) {
