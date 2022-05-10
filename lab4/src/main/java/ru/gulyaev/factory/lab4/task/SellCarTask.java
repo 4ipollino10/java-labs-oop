@@ -1,14 +1,14 @@
 package ru.gulyaev.factory.lab4.task;
 
-import ru.gulyaev.factory.lab4.CarsStorage;
-import ru.gulyaev.factory.lab4.FactoryController;
+import org.apache.log4j.Logger;
+import ru.gulyaev.factory.lab4.utils.CarsStorage;
+import ru.gulyaev.factory.lab4.factory.FactoryController;
 import ru.gulyaev.factory.lab4.gear.Car;
 import ru.gulyaev.factory.lab4.threadpool.Constants;
 
-import static ru.gulyaev.factory.lab4.Main.log;
 
 public class SellCarTask implements Task {
-
+    public static final Logger log = Logger.getLogger(SellCarTask.class);
     private static final String CAR = "Car ";
     private static final String CONGRATULATIONS = " SOLD! Congratulations to the ";
     private static final String GOOD_JOB = " GOOD JOB!";

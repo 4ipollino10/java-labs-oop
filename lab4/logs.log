@@ -1234,3 +1234,288 @@
 2022-05-03 15:35:27 INFO  Main:29 - Car Body Supplier 0 supplied Body186
 2022-05-03 15:35:27 INFO  Main:29 - Engine Supplier 0 supplied Engine226
 2022-05-03 15:35:27 INFO  Main:29 - Accessories Supplier 5 supplied Accessory224
+2022-05-10 14:31:58 INFO  Main:17 - Let's sell some cars!
+2022-05-10 14:31:58 INFO  ThreadPool:37 - Started 6 threads in Accessories Suppliers
+2022-05-10 14:31:58 INFO  ThreadPool:37 - Started 1 threads in Engine Suppliers
+2022-05-10 14:31:58 INFO  ThreadPool:37 - Started 1 threads in Car Body Suppliers
+2022-05-10 14:31:58 INFO  ThreadPool:37 - Started 2 threads in Workers
+2022-05-10 14:31:58 INFO  ThreadPool:37 - Started 2 threads in Dealers
+2022-05-10 14:32:01 INFO  SupplyTask:31 - Accessories Supplier 5 supplied Accessory2
+2022-05-10 14:32:01 INFO  SupplyTask:31 - Accessories Supplier 0 supplied Accessory2
+2022-05-10 14:32:01 INFO  SupplyTask:31 - Car Body Supplier 0 supplied Body2
+2022-05-10 14:32:01 INFO  SupplyTask:31 - Engine Supplier 0 supplied Engine2
+2022-05-10 14:32:01 INFO  SupplyTask:31 - Accessories Supplier 2 supplied Accessory4
+2022-05-10 14:32:01 INFO  SupplyTask:31 - Accessories Supplier 4 supplied Accessory6
+2022-05-10 14:32:01 INFO  SupplyTask:31 - Accessories Supplier 1 supplied Accessory5
+2022-05-10 14:32:01 INFO  SupplyTask:31 - Accessories Supplier 3 supplied Accessory4
+2022-05-10 14:32:01 INFO  ProduceCarTask:41 - Worker 0 produced car: Body2Engine2Accessory2
+2022-05-10 14:32:04 INFO  SupplyTask:31 - Car Body Supplier 0 supplied Body3
+2022-05-10 14:32:04 INFO  SupplyTask:31 - Accessories Supplier 2 supplied Accessory10
+2022-05-10 14:32:04 INFO  SupplyTask:31 - Accessories Supplier 1 supplied Accessory9
+2022-05-10 14:32:04 INFO  SupplyTask:31 - Accessories Supplier 4 supplied Accessory8
+2022-05-10 14:32:04 INFO  SupplyTask:31 - Accessories Supplier 5 supplied Accessory7
+2022-05-10 14:32:04 INFO  SupplyTask:31 - Accessories Supplier 0 supplied Accessory7
+2022-05-10 14:32:04 INFO  ProduceCarTask:41 - Worker 1 produced car: Body3Engine3Accessory10
+2022-05-10 14:32:04 INFO  SupplyTask:31 - Accessories Supplier 3 supplied Accessory11
+2022-05-10 14:32:04 INFO  SupplyTask:31 - Engine Supplier 0 supplied Engine3
+2022-05-10 14:32:07 INFO  SupplyTask:31 - Car Body Supplier 0 supplied Body4
+2022-05-10 14:32:07 INFO  SupplyTask:31 - Accessories Supplier 2 supplied Accessory12
+2022-05-10 14:32:07 INFO  SupplyTask:31 - Accessories Supplier 1 supplied Accessory13
+2022-05-10 14:32:07 INFO  SupplyTask:31 - Accessories Supplier 4 supplied Accessory14
+2022-05-10 14:32:07 INFO  SupplyTask:31 - Accessories Supplier 3 supplied Accessory15
+2022-05-10 14:32:07 INFO  SupplyTask:31 - Accessories Supplier 0 supplied Accessory16
+2022-05-10 14:32:07 INFO  SupplyTask:31 - Accessories Supplier 5 supplied Accessory17
+2022-05-10 14:32:07 INFO  SupplyTask:31 - Engine Supplier 0 supplied Engine4
+2022-05-10 14:32:07 INFO  ProduceCarTask:41 - Worker 0 produced car: Body4Engine4Accessory17
+2022-05-10 14:32:10 INFO  SupplyTask:31 - Car Body Supplier 0 supplied Body5
+2022-05-10 14:32:10 INFO  SupplyTask:31 - Accessories Supplier 2 supplied Accessory18
+2022-05-10 14:32:10 INFO  SupplyTask:31 - Accessories Supplier 1 supplied Accessory19
+2022-05-10 14:32:10 INFO  SupplyTask:31 - Accessories Supplier 4 supplied Accessory20
+2022-05-10 14:32:10 INFO  SupplyTask:31 - Accessories Supplier 3 supplied Accessory21
+2022-05-10 14:32:10 INFO  SupplyTask:31 - Accessories Supplier 5 supplied Accessory22
+2022-05-10 14:32:10 INFO  SupplyTask:31 - Accessories Supplier 0 supplied Accessory22
+2022-05-10 14:32:10 INFO  SupplyTask:31 - Engine Supplier 0 supplied Engine5
+2022-05-10 14:32:10 INFO  ProduceCarTask:41 - Worker 1 produced car: Body5Engine5Accessory22
+2022-05-10 14:32:13 INFO  SupplyTask:31 - Accessories Supplier 1 supplied Accessory23
+2022-05-10 14:32:13 INFO  SupplyTask:31 - Engine Supplier 0 supplied Engine6
+2022-05-10 14:32:13 INFO  SupplyTask:31 - Accessories Supplier 5 supplied Accessory24
+2022-05-10 14:32:13 INFO  SupplyTask:31 - Accessories Supplier 3 supplied Accessory26
+2022-05-10 14:32:13 INFO  SupplyTask:31 - Car Body Supplier 0 supplied Body6
+2022-05-10 14:32:13 INFO  ProduceCarTask:41 - Worker 0 produced car: Body6Engine6Accessory28
+2022-05-10 14:32:13 INFO  SupplyTask:31 - Accessories Supplier 2 supplied Accessory28
+2022-05-10 14:32:13 INFO  SupplyTask:31 - Accessories Supplier 4 supplied Accessory27
+2022-05-10 14:32:13 INFO  SupplyTask:31 - Accessories Supplier 0 supplied Accessory25
+2022-05-10 14:32:16 INFO  SupplyTask:31 - Engine Supplier 0 supplied Engine7
+2022-05-10 14:32:16 INFO  SupplyTask:31 - Accessories Supplier 3 supplied Accessory29
+2022-05-10 14:32:16 INFO  ProduceCarTask:41 - Worker 1 produced car: Body7Engine7Accessory29
+2022-05-10 14:32:16 INFO  SupplyTask:31 - Car Body Supplier 0 supplied Body7
+2022-05-10 14:32:16 INFO  SupplyTask:31 - Accessories Supplier 1 supplied Accessory30
+2022-05-10 14:32:16 INFO  SupplyTask:31 - Accessories Supplier 5 supplied Accessory34
+2022-05-10 14:32:16 INFO  SupplyTask:31 - Accessories Supplier 2 supplied Accessory33
+2022-05-10 14:32:16 INFO  SupplyTask:31 - Accessories Supplier 4 supplied Accessory32
+2022-05-10 14:32:16 INFO  SupplyTask:31 - Accessories Supplier 0 supplied Accessory31
+2022-05-10 14:32:19 INFO  SupplyTask:31 - Accessories Supplier 3 supplied Accessory35
+2022-05-10 14:32:19 INFO  SupplyTask:31 - Engine Supplier 0 supplied Engine8
+2022-05-10 14:32:19 INFO  ProduceCarTask:41 - Worker 0 produced car: Body8Engine8Accessory35
+2022-05-10 14:32:19 INFO  SupplyTask:31 - Car Body Supplier 0 supplied Body8
+2022-05-10 14:32:19 INFO  SupplyTask:31 - Accessories Supplier 5 supplied Accessory36
+2022-05-10 14:32:19 INFO  SupplyTask:31 - Accessories Supplier 2 supplied Accessory37
+2022-05-10 14:32:19 INFO  SupplyTask:31 - Accessories Supplier 1 supplied Accessory38
+2022-05-10 14:32:19 INFO  SupplyTask:31 - Accessories Supplier 0 supplied Accessory39
+2022-05-10 14:32:19 INFO  SupplyTask:31 - Accessories Supplier 4 supplied Accessory40
+2022-05-10 14:32:22 INFO  SupplyTask:31 - Accessories Supplier 3 supplied Accessory41
+2022-05-10 14:32:22 INFO  SupplyTask:31 - Engine Supplier 0 supplied Engine9
+2022-05-10 14:32:22 INFO  ProduceCarTask:41 - Worker 1 produced car: Body9Engine9Accessory41
+2022-05-10 14:32:22 INFO  SupplyTask:31 - Car Body Supplier 0 supplied Body9
+2022-05-10 14:32:22 INFO  SupplyTask:31 - Accessories Supplier 5 supplied Accessory44
+2022-05-10 14:32:22 INFO  SupplyTask:31 - Accessories Supplier 1 supplied Accessory43
+2022-05-10 14:32:22 INFO  SupplyTask:31 - Accessories Supplier 2 supplied Accessory42
+2022-05-10 14:32:22 INFO  SupplyTask:31 - Accessories Supplier 0 supplied Accessory45
+2022-05-10 14:32:22 INFO  SupplyTask:31 - Accessories Supplier 4 supplied Accessory46
+2022-05-10 14:32:25 INFO  SupplyTask:31 - Accessories Supplier 3 supplied Accessory47
+2022-05-10 14:32:25 INFO  SupplyTask:31 - Engine Supplier 0 supplied Engine10
+2022-05-10 14:32:25 INFO  SupplyTask:31 - Accessories Supplier 2 supplied Accessory49
+2022-05-10 14:32:25 INFO  SupplyTask:31 - Accessories Supplier 1 supplied Accessory49
+2022-05-10 14:32:25 INFO  SupplyTask:31 - Car Body Supplier 0 supplied Body10
+2022-05-10 14:32:25 INFO  SupplyTask:31 - Accessories Supplier 5 supplied Accessory50
+2022-05-10 14:32:25 INFO  ProduceCarTask:41 - Worker 0 produced car: Body10Engine10Accessory50
+2022-05-10 14:32:25 INFO  SupplyTask:31 - Accessories Supplier 0 supplied Accessory51
+2022-05-10 14:32:25 INFO  SupplyTask:31 - Accessories Supplier 4 supplied Accessory52
+2022-05-10 14:32:28 INFO  SupplyTask:31 - Engine Supplier 0 supplied Engine11
+2022-05-10 14:32:28 INFO  SupplyTask:31 - Accessories Supplier 3 supplied Accessory53
+2022-05-10 14:32:28 INFO  SupplyTask:31 - Accessories Supplier 1 supplied Accessory54
+2022-05-10 14:32:28 INFO  SupplyTask:31 - Accessories Supplier 2 supplied Accessory54
+2022-05-10 14:32:28 INFO  SupplyTask:31 - Car Body Supplier 0 supplied Body11
+2022-05-10 14:32:28 INFO  ProduceCarTask:41 - Worker 1 produced car: Body11Engine11Accessory54
+2022-05-10 14:32:28 INFO  SupplyTask:31 - Accessories Supplier 5 supplied Accessory55
+2022-05-10 14:32:28 INFO  SupplyTask:31 - Accessories Supplier 0 supplied Accessory56
+2022-05-10 14:32:28 INFO  SupplyTask:31 - Accessories Supplier 4 supplied Accessory57
+2022-05-10 14:32:31 INFO  SupplyTask:31 - Engine Supplier 0 supplied Engine12
+2022-05-10 14:32:31 INFO  SupplyTask:31 - Accessories Supplier 1 supplied Accessory58
+2022-05-10 14:32:31 INFO  ProduceCarTask:41 - Worker 0 produced car: Body12Engine12Accessory58
+2022-05-10 14:32:31 INFO  SupplyTask:31 - Car Body Supplier 0 supplied Body12
+2022-05-10 14:32:31 INFO  SupplyTask:31 - Accessories Supplier 5 supplied Accessory59
+2022-05-10 14:32:31 INFO  SupplyTask:31 - Accessories Supplier 2 supplied Accessory60
+2022-05-10 14:32:31 INFO  SupplyTask:31 - Accessories Supplier 3 supplied Accessory61
+2022-05-10 14:32:31 INFO  SupplyTask:31 - Accessories Supplier 0 supplied Accessory62
+2022-05-10 14:32:31 INFO  SupplyTask:31 - Accessories Supplier 4 supplied Accessory63
+2022-05-10 14:32:34 INFO  SupplyTask:31 - Engine Supplier 0 supplied Engine13
+2022-05-10 14:32:34 INFO  SupplyTask:31 - Accessories Supplier 3 supplied Accessory64
+2022-05-10 14:32:34 INFO  SupplyTask:31 - Accessories Supplier 1 supplied Accessory66
+2022-05-10 14:32:34 INFO  ProduceCarTask:41 - Worker 1 produced car: Body13Engine13Accessory65
+2022-05-10 14:32:34 INFO  SupplyTask:31 - Accessories Supplier 5 supplied Accessory65
+2022-05-10 14:32:34 INFO  SupplyTask:31 - Accessories Supplier 2 supplied Accessory64
+2022-05-10 14:32:34 INFO  SupplyTask:31 - Car Body Supplier 0 supplied Body13
+2022-05-10 14:32:34 INFO  SupplyTask:31 - Accessories Supplier 0 supplied Accessory67
+2022-05-10 14:32:34 INFO  SupplyTask:31 - Accessories Supplier 4 supplied Accessory68
+2022-05-10 14:32:37 INFO  SupplyTask:31 - Engine Supplier 0 supplied Engine14
+2022-05-10 14:32:37 INFO  SupplyTask:31 - Accessories Supplier 3 supplied Accessory69
+2022-05-10 14:32:37 INFO  SupplyTask:31 - Car Body Supplier 0 supplied Body14
+2022-05-10 14:32:37 INFO  ProduceCarTask:41 - Worker 0 produced car: Body14Engine14Accessory71
+2022-05-10 14:32:37 INFO  SupplyTask:31 - Accessories Supplier 5 supplied Accessory71
+2022-05-10 14:32:37 INFO  SupplyTask:31 - Accessories Supplier 1 supplied Accessory70
+2022-05-10 14:32:37 INFO  SupplyTask:31 - Accessories Supplier 2 supplied Accessory72
+2022-05-10 14:32:37 INFO  SupplyTask:31 - Accessories Supplier 0 supplied Accessory73
+2022-05-10 14:32:37 INFO  SupplyTask:31 - Accessories Supplier 4 supplied Accessory74
+2022-05-10 14:32:40 INFO  SupplyTask:31 - Engine Supplier 0 supplied Engine15
+2022-05-10 14:32:40 INFO  ProduceCarTask:41 - Worker 1 produced car: Body15Engine15Accessory75
+2022-05-10 14:32:40 INFO  SupplyTask:31 - Accessories Supplier 3 supplied Accessory75
+2022-05-10 14:32:40 INFO  SupplyTask:31 - Accessories Supplier 5 supplied Accessory76
+2022-05-10 14:32:40 INFO  SupplyTask:31 - Car Body Supplier 0 supplied Body15
+2022-05-10 14:32:40 INFO  SupplyTask:31 - Accessories Supplier 0 supplied Accessory77
+2022-05-10 14:32:40 INFO  SupplyTask:31 - Accessories Supplier 2 supplied Accessory77
+2022-05-10 14:32:40 INFO  SupplyTask:31 - Accessories Supplier 1 supplied Accessory77
+2022-05-10 14:32:43 INFO  SupplyTask:31 - Engine Supplier 0 supplied Engine16
+2022-05-10 14:32:43 INFO  SupplyTask:31 - Accessories Supplier 4 supplied Accessory78
+2022-05-10 14:32:43 INFO  ProduceCarTask:41 - Worker 0 produced car: Body16Engine16Accessory78
+2022-05-10 14:32:43 INFO  SupplyTask:31 - Car Body Supplier 0 supplied Body16
+2022-05-10 14:32:46 INFO  SupplyTask:31 - Car Body Supplier 0 supplied Body17
+2022-05-10 14:32:46 INFO  SupplyTask:31 - Accessories Supplier 3 supplied Accessory79
+2022-05-10 14:32:46 INFO  SupplyTask:31 - Engine Supplier 0 supplied Engine17
+2022-05-10 14:32:46 INFO  ProduceCarTask:41 - Worker 1 produced car: Body17Engine17Accessory78
+2022-05-10 14:32:49 INFO  SupplyTask:31 - Engine Supplier 0 supplied Engine18
+2022-05-10 14:32:49 INFO  ProduceCarTask:41 - Worker 0 produced car: Body18Engine18Accessory79
+2022-05-10 14:32:49 INFO  SupplyTask:31 - Car Body Supplier 0 supplied Body18
+2022-05-10 14:32:49 INFO  SupplyTask:31 - Accessories Supplier 0 supplied Accessory80
+2022-05-10 14:32:52 INFO  SupplyTask:31 - Engine Supplier 0 supplied Engine19
+2022-05-10 14:32:52 INFO  SupplyTask:31 - Accessories Supplier 1 supplied Accessory81
+2022-05-10 14:32:52 INFO  ProduceCarTask:41 - Worker 1 produced car: Body19Engine19Accessory81
+2022-05-10 14:32:52 INFO  SupplyTask:31 - Car Body Supplier 0 supplied Body19
+2022-05-10 14:32:55 INFO  SupplyTask:31 - Engine Supplier 0 supplied Engine20
+2022-05-10 14:32:55 INFO  SupplyTask:31 - Accessories Supplier 5 supplied Accessory82
+2022-05-10 14:32:55 INFO  SupplyTask:31 - Car Body Supplier 0 supplied Body20
+2022-05-10 14:32:55 INFO  ProduceCarTask:41 - Worker 0 produced car: Body20Engine20Accessory82
+2022-05-10 14:32:58 INFO  SupplyTask:31 - Engine Supplier 0 supplied Engine21
+2022-05-10 14:32:58 INFO  SupplyTask:31 - Accessories Supplier 3 supplied Accessory83
+2022-05-10 14:32:58 INFO  ProduceCarTask:41 - Worker 1 produced car: Body21Engine21Accessory83
+2022-05-10 14:32:58 INFO  SupplyTask:31 - Car Body Supplier 0 supplied Body21
+2022-05-10 14:33:01 INFO  SupplyTask:31 - Engine Supplier 0 supplied Engine22
+2022-05-10 14:33:01 INFO  SupplyTask:31 - Accessories Supplier 0 supplied Accessory84
+2022-05-10 14:33:01 INFO  SupplyTask:31 - Car Body Supplier 0 supplied Body22
+2022-05-10 14:33:01 INFO  ProduceCarTask:41 - Worker 0 produced car: Body22Engine22Accessory84
+2022-05-10 14:33:04 INFO  SupplyTask:31 - Engine Supplier 0 supplied Engine23
+2022-05-10 14:33:04 INFO  SupplyTask:31 - Accessories Supplier 1 supplied Accessory85
+2022-05-10 14:33:04 INFO  ProduceCarTask:41 - Worker 1 produced car: Body23Engine23Accessory85
+2022-05-10 14:33:04 INFO  SupplyTask:31 - Car Body Supplier 0 supplied Body23
+2022-05-10 14:33:07 INFO  SupplyTask:31 - Engine Supplier 0 supplied Engine24
+2022-05-10 14:33:07 INFO  SupplyTask:31 - Accessories Supplier 4 supplied Accessory86
+2022-05-10 14:33:07 INFO  SupplyTask:31 - Car Body Supplier 0 supplied Body24
+2022-05-10 14:33:07 INFO  ProduceCarTask:41 - Worker 0 produced car: Body24Engine24Accessory86
+2022-05-10 14:33:10 INFO  SupplyTask:31 - Engine Supplier 0 supplied Engine25
+2022-05-10 14:33:10 INFO  SupplyTask:31 - Car Body Supplier 0 supplied Body25
+2022-05-10 14:33:10 INFO  ProduceCarTask:41 - Worker 1 produced car: Body25Engine25Accessory86
+2022-05-10 14:33:10 INFO  SupplyTask:31 - Accessories Supplier 3 supplied Accessory87
+2022-05-10 14:33:13 INFO  SupplyTask:31 - Engine Supplier 0 supplied Engine26
+2022-05-10 14:33:13 INFO  SupplyTask:31 - Car Body Supplier 0 supplied Body26
+2022-05-10 14:33:13 INFO  ProduceCarTask:41 - Worker 0 produced car: Body26Engine26Accessory87
+2022-05-10 14:33:13 INFO  SupplyTask:31 - Accessories Supplier 5 supplied Accessory88
+2022-05-10 14:33:16 INFO  SupplyTask:31 - Car Body Supplier 0 supplied Body27
+2022-05-10 14:33:16 INFO  ProduceCarTask:41 - Worker 1 produced car: Body27Engine27Accessory89
+2022-05-10 14:33:16 INFO  SupplyTask:31 - Engine Supplier 0 supplied Engine27
+2022-05-10 14:33:16 INFO  SupplyTask:31 - Accessories Supplier 2 supplied Accessory89
+2022-05-10 14:33:19 INFO  SupplyTask:31 - Accessories Supplier 4 supplied Accessory90
+2022-05-10 14:33:19 INFO  SupplyTask:31 - Car Body Supplier 0 supplied Body28
+2022-05-10 14:33:19 INFO  ProduceCarTask:41 - Worker 0 produced car: Body28Engine28Accessory90
+2022-05-10 14:33:19 INFO  SupplyTask:31 - Engine Supplier 0 supplied Engine28
+2022-05-10 14:33:22 INFO  SupplyTask:31 - Accessories Supplier 3 supplied Accessory91
+2022-05-10 14:33:22 INFO  SupplyTask:31 - Car Body Supplier 0 supplied Body29
+2022-05-10 14:33:22 INFO  ProduceCarTask:41 - Worker 1 produced car: Body29Engine29Accessory91
+2022-05-10 14:33:22 INFO  SupplyTask:31 - Engine Supplier 0 supplied Engine29
+2022-05-10 14:33:25 INFO  SupplyTask:31 - Car Body Supplier 0 supplied Body30
+2022-05-10 14:33:25 INFO  SupplyTask:31 - Accessories Supplier 5 supplied Accessory92
+2022-05-10 14:33:25 INFO  SupplyTask:31 - Engine Supplier 0 supplied Engine30
+2022-05-10 14:33:25 INFO  ProduceCarTask:41 - Worker 0 produced car: Body30Engine30Accessory92
+2022-05-10 14:33:28 INFO  SupplyTask:31 - Car Body Supplier 0 supplied Body31
+2022-05-10 14:33:28 INFO  SupplyTask:31 - Engine Supplier 0 supplied Engine31
+2022-05-10 14:33:28 INFO  ProduceCarTask:41 - Worker 1 produced car: Body31Engine31Accessory93
+2022-05-10 14:33:28 INFO  SupplyTask:31 - Accessories Supplier 2 supplied Accessory93
+2022-05-10 14:33:31 INFO  SupplyTask:31 - Car Body Supplier 0 supplied Body32
+2022-05-10 14:33:31 INFO  SupplyTask:31 - Accessories Supplier 0 supplied Accessory94
+2022-05-10 14:33:31 INFO  SupplyTask:31 - Engine Supplier 0 supplied Engine32
+2022-05-10 14:33:31 INFO  ProduceCarTask:41 - Worker 0 produced car: Body32Engine32Accessory94
+2022-05-10 14:37:12 INFO  Main:19 - Let's sell some cars!
+2022-05-10 14:37:12 INFO  ThreadPool:37 - Started 6 threads in Accessories Suppliers
+2022-05-10 14:37:12 INFO  ThreadPool:37 - Started 1 threads in Engine Suppliers
+2022-05-10 14:37:12 INFO  ThreadPool:37 - Started 1 threads in Car Body Suppliers
+2022-05-10 14:37:12 INFO  ThreadPool:37 - Started 2 threads in Workers
+2022-05-10 14:37:12 INFO  ThreadPool:37 - Started 2 threads in Dealers
+2022-05-10 14:37:15 INFO  SupplyTask:31 - Car Body Supplier 0 supplied Body2
+2022-05-10 14:37:15 INFO  SupplyTask:31 - Engine Supplier 0 supplied Engine2
+2022-05-10 14:37:15 INFO  SupplyTask:31 - Accessories Supplier 5 supplied Accessory2
+2022-05-10 14:37:15 INFO  SupplyTask:31 - Accessories Supplier 3 supplied Accessory3
+2022-05-10 14:37:15 INFO  SupplyTask:31 - Accessories Supplier 0 supplied Accessory2
+2022-05-10 14:37:15 INFO  SupplyTask:31 - Accessories Supplier 4 supplied Accessory2
+2022-05-10 14:37:15 INFO  SupplyTask:31 - Accessories Supplier 1 supplied Accessory5
+2022-05-10 14:37:15 INFO  SupplyTask:31 - Accessories Supplier 2 supplied Accessory4
+2022-05-10 14:37:15 INFO  ProduceCarTask:41 - Worker 0 produced car: Body2Engine2Accessory5
+2022-05-10 14:37:17 INFO  ProduceCarTask:43 - Worker 0interrupted
+2022-05-10 14:37:17 INFO  ThreadPool:51 - Worker 0 Joined!
+2022-05-10 14:37:17 INFO  Storage:47 - Storage was interrupted!
+2022-05-10 14:37:17 INFO  ProduceCarTask:43 - Worker 1interrupted
+2022-05-10 14:37:17 INFO  ThreadPool:51 - Worker 1 Joined!
+2022-05-10 14:37:17 INFO  SupplyTask:33 - Accessories Supplier 0interrupted
+2022-05-10 14:37:17 INFO  ThreadPool:51 - Accessories Supplier 0 Joined!
+2022-05-10 14:37:17 INFO  SupplyTask:33 - Accessories Supplier 1interrupted
+2022-05-10 14:37:17 INFO  ThreadPool:51 - Accessories Supplier 1 Joined!
+2022-05-10 14:37:17 INFO  SupplyTask:33 - Accessories Supplier 2interrupted
+2022-05-10 14:37:17 INFO  ThreadPool:51 - Accessories Supplier 2 Joined!
+2022-05-10 14:37:17 INFO  SupplyTask:33 - Accessories Supplier 3interrupted
+2022-05-10 14:37:17 INFO  ThreadPool:51 - Accessories Supplier 3 Joined!
+2022-05-10 14:37:17 INFO  SupplyTask:33 - Accessories Supplier 4interrupted
+2022-05-10 14:37:17 INFO  ThreadPool:51 - Accessories Supplier 4 Joined!
+2022-05-10 14:37:17 INFO  SupplyTask:33 - Accessories Supplier 5interrupted
+2022-05-10 14:37:17 INFO  ThreadPool:51 - Accessories Supplier 5 Joined!
+2022-05-10 14:37:17 INFO  SupplyTask:33 - Engine Supplier 0interrupted
+2022-05-10 14:37:17 INFO  ThreadPool:51 - Engine Supplier 0 Joined!
+2022-05-10 14:37:17 INFO  SupplyTask:33 - Car Body Supplier 0interrupted
+2022-05-10 14:37:17 INFO  ThreadPool:51 - Car Body Supplier 0 Joined!
+2022-05-10 14:37:17 INFO  ThreadPool:71 - Dealersinterrupted
+2022-05-10 14:37:17 INFO  PooledThread:42 - Dealer 0interrupted
+2022-05-10 14:37:17 INFO  ThreadPool:51 - Dealer 0 Joined!
+2022-05-10 14:37:17 INFO  ThreadPool:71 - Dealersinterrupted
+2022-05-10 14:37:17 INFO  PooledThread:42 - Dealer 1interrupted
+2022-05-10 14:37:17 INFO  ThreadPool:51 - Dealer 1 Joined!
+2022-05-10 14:38:49 INFO  Main:19 - Let's sell some cars!
+2022-05-10 14:38:49 INFO  ThreadPool:37 - Started 6 threads in Accessories Suppliers
+2022-05-10 14:38:49 INFO  ThreadPool:37 - Started 1 threads in Engine Suppliers
+2022-05-10 14:38:49 INFO  ThreadPool:37 - Started 1 threads in Car Body Suppliers
+2022-05-10 14:38:49 INFO  ThreadPool:37 - Started 2 threads in Workers
+2022-05-10 14:38:49 INFO  ThreadPool:37 - Started 2 threads in Dealers
+2022-05-10 14:38:50 INFO  ProduceCarTask:43 - Worker 0interrupted
+2022-05-10 14:38:50 INFO  ThreadPool:51 - Worker 0 Joined!
+2022-05-10 14:38:50 INFO  ProduceCarTask:43 - Worker 1interrupted
+2022-05-10 14:38:50 INFO  ThreadPool:51 - Worker 1 Joined!
+2022-05-10 14:38:50 INFO  SupplyTask:33 - Accessories Supplier 0interrupted
+2022-05-10 14:38:50 INFO  ThreadPool:51 - Accessories Supplier 0 Joined!
+2022-05-10 14:38:50 INFO  SupplyTask:33 - Accessories Supplier 1interrupted
+2022-05-10 14:38:50 INFO  ThreadPool:51 - Accessories Supplier 1 Joined!
+2022-05-10 14:38:50 INFO  SupplyTask:33 - Accessories Supplier 2interrupted
+2022-05-10 14:38:50 INFO  ThreadPool:51 - Accessories Supplier 2 Joined!
+2022-05-10 14:38:50 INFO  SupplyTask:33 - Accessories Supplier 3interrupted
+2022-05-10 14:38:50 INFO  ThreadPool:51 - Accessories Supplier 3 Joined!
+2022-05-10 14:38:50 INFO  SupplyTask:33 - Accessories Supplier 4interrupted
+2022-05-10 14:38:50 INFO  ThreadPool:51 - Accessories Supplier 4 Joined!
+2022-05-10 14:38:50 INFO  SupplyTask:33 - Accessories Supplier 5interrupted
+2022-05-10 14:38:50 INFO  ThreadPool:51 - Accessories Supplier 5 Joined!
+2022-05-10 14:38:50 INFO  SupplyTask:33 - Engine Supplier 0interrupted
+2022-05-10 14:38:50 INFO  ThreadPool:51 - Engine Supplier 0 Joined!
+2022-05-10 14:38:50 INFO  SupplyTask:33 - Car Body Supplier 0interrupted
+2022-05-10 14:38:50 INFO  ThreadPool:51 - Car Body Supplier 0 Joined!
+2022-05-10 14:38:50 INFO  ThreadPool:71 - Dealersinterrupted
+2022-05-10 14:38:50 INFO  PooledThread:42 - Dealer 0interrupted
+2022-05-10 14:38:50 INFO  ThreadPool:51 - Dealer 0 Joined!
+2022-05-10 14:38:50 INFO  ThreadPool:71 - Dealersinterrupted
+2022-05-10 14:38:50 INFO  PooledThread:42 - Dealer 1interrupted
+2022-05-10 14:38:50 INFO  ThreadPool:51 - Dealer 1 Joined!
+2022-05-10 14:38:50 INFO  ThreadPool:51 - Worker 0 Joined!
+2022-05-10 14:38:50 INFO  ThreadPool:51 - Worker 1 Joined!
+2022-05-10 14:38:50 INFO  ThreadPool:51 - Accessories Supplier 0 Joined!
+2022-05-10 14:38:50 INFO  ThreadPool:51 - Accessories Supplier 1 Joined!
+2022-05-10 14:38:50 INFO  ThreadPool:51 - Accessories Supplier 2 Joined!
+2022-05-10 14:38:50 INFO  ThreadPool:51 - Accessories Supplier 3 Joined!
+2022-05-10 14:38:50 INFO  ThreadPool:51 - Accessories Supplier 4 Joined!
+2022-05-10 14:38:50 INFO  ThreadPool:51 - Accessories Supplier 5 Joined!
+2022-05-10 14:38:50 INFO  ThreadPool:51 - Engine Supplier 0 Joined!
+2022-05-10 14:38:50 INFO  ThreadPool:51 - Car Body Supplier 0 Joined!
+2022-05-10 14:38:50 INFO  ThreadPool:51 - Dealer 0 Joined!
+2022-05-10 14:38:50 INFO  ThreadPool:51 - Dealer 1 Joined!

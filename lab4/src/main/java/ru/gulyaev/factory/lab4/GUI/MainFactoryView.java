@@ -8,7 +8,7 @@ import javafx.scene.control.Button;
 import javafx.scene.image.Image;
 import javafx.scene.layout.*;
 import javafx.stage.Stage;
-import ru.gulyaev.factory.lab4.FactoryController;
+import ru.gulyaev.factory.lab4.factory.FactoryController;
 
 import java.util.Timer;
 import java.util.TimerTask;

@@ -1,10 +1,12 @@
-package ru.gulyaev.factory.lab4;
+package ru.gulyaev.factory.lab4.factory;
 
 import ru.gulyaev.factory.lab4.gear.Accessory;
 import ru.gulyaev.factory.lab4.gear.Body;
 import ru.gulyaev.factory.lab4.gear.Engine;
 import ru.gulyaev.factory.lab4.task.SellCarTask;
 import ru.gulyaev.factory.lab4.threadpool.ThreadPool;
+import ru.gulyaev.factory.lab4.utils.CarsStorage;
+import ru.gulyaev.factory.lab4.utils.Storage;
 
 import java.io.IOException;
 import java.util.Properties;
@@ -98,15 +100,6 @@ public class FactoryController {
         _carBodySupplierThreadPool = new ThreadPool(1, CAR_BODY_SUPPLIERS, CAR_BODY_SUPPLIER, START_DELAY);
         _workerThreadPool = new ThreadPool(_workerCount, WORKERS, WORKER, START_DELAY);
         _dealerThreadPool = new ThreadPool(_dealerCount, DEALERS, DEALER, START_DELAY);
-    }
-
-
-    public void stopFactory() {
-        _workerThreadPool.shutdown();
-        _accessoriesSupplierThreadPool.shutdown();
-        _engineSupplierThreadPool.shutdown();
-        _carBodySupplierThreadPool.shutdown();
-        _dealerThreadPool.shutdown();
     }
 
     public void sellCar() {

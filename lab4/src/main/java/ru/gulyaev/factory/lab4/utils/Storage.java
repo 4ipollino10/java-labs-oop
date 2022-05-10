@@ -1,4 +1,5 @@
-package ru.gulyaev.factory.lab4;
+package ru.gulyaev.factory.lab4.utils;
+import org.apache.log4j.Logger;
 import ru.gulyaev.factory.lab4.gear.Gear;
 import ru.gulyaev.factory.lab4.gear.Product;
 import ru.gulyaev.factory.lab4.task.SupplyTask;
@@ -6,10 +7,10 @@ import ru.gulyaev.factory.lab4.threadpool.ThreadPool;
 
 import java.util.ArrayDeque;
 
-import static ru.gulyaev.factory.lab4.Main.log;
 
 
 public class Storage<T extends Product & Gear> {
+    public static final Logger log = Logger.getLogger(Storage.class);
     public static final String STORAGE_WAS_INTERRUPTED = "Storage was interrupted!";
     private final ArrayDeque<T> items;
     private final int storageCapacity;
@@ -36,8 +37,6 @@ public class Storage<T extends Product & Gear> {
     public double getOccupancy() {
         return items.size() / (double)storageCapacity;
     }
-
-    public int getStorageCapacity() { return  storageCapacity; }
 
     public synchronized T get() throws InterruptedException {
         while (items.size() < 1) {

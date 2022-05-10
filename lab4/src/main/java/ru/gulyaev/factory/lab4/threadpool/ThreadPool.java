@@ -1,5 +1,6 @@
 package ru.gulyaev.factory.lab4.threadpool;
 
+import org.apache.log4j.Logger;
 import ru.gulyaev.factory.lab4.task.Task;
 
 import java.util.ArrayDeque;
@@ -7,9 +8,10 @@ import java.util.LinkedHashSet;
 import java.util.Queue;
 import java.util.Set;
 
-import static ru.gulyaev.factory.lab4.Main.log;
 
 public class ThreadPool {
+    public static final Logger log = Logger.getLogger(ThreadPool.class);
+
     private static final String STARTED = "Started ";
     private static final String THREADS_IN = " threads in ";
     private static final String SPACE = " ";

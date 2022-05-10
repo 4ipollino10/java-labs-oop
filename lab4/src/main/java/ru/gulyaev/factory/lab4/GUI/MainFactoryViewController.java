@@ -1,6 +1,6 @@
 package ru.gulyaev.factory.lab4.GUI;
 
-import ru.gulyaev.factory.lab4.FactoryController;
+import ru.gulyaev.factory.lab4.factory.FactoryController;
 
 public class MainFactoryViewController {
     private final FactoryController _factoryController;

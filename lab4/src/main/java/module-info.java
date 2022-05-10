@@ -5,4 +5,6 @@ module ru.gulyaev.factory.lab {
     exports ru.gulyaev.factory.lab4;
     exports ru.gulyaev.factory.lab4.task;
     exports ru.gulyaev.factory.lab4.gear;
+    exports ru.gulyaev.factory.lab4.factory;
+    exports ru.gulyaev.factory.lab4.utils;
 }

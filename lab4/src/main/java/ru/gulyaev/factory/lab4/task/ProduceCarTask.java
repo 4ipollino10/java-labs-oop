@@ -1,19 +1,19 @@
 package ru.gulyaev.factory.lab4.task;
 
-import ru.gulyaev.factory.lab4.CarsStorage;
-import ru.gulyaev.factory.lab4.Storage;
+import org.apache.log4j.Logger;
+import ru.gulyaev.factory.lab4.utils.CarsStorage;
+import ru.gulyaev.factory.lab4.utils.Storage;
 import ru.gulyaev.factory.lab4.gear.Accessory;
 import ru.gulyaev.factory.lab4.gear.Body;
 import ru.gulyaev.factory.lab4.gear.Car;
 import ru.gulyaev.factory.lab4.gear.Engine;
 import ru.gulyaev.factory.lab4.threadpool.Constants;
 
-import static ru.gulyaev.factory.lab4.Main.log;
 
 
 public class ProduceCarTask implements Task {
     private static final String PRODUCED_CAR = " produced car: ";
-
+    public static final Logger log = Logger.getLogger(ProduceCarTask.class);
 
     private final Storage<Accessory> _accessoriesStorage;
     private final Storage<Body> _carBodyStorage;

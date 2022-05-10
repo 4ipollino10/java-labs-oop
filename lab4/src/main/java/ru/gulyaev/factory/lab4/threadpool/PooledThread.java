@@ -1,11 +1,13 @@
 package ru.gulyaev.factory.lab4.threadpool;
 
 
+import org.apache.log4j.Logger;
+
 import ru.gulyaev.factory.lab4.task.Task;
 
-import static ru.gulyaev.factory.lab4.Main.log;
 
 public class PooledThread extends Thread{
+    public static final Logger log = Logger.getLogger(PooledThread.class);
     private boolean shutdownFlag = false;
 
     private final ThreadPool threadPool;

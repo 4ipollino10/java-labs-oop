@@ -1,13 +1,15 @@
 package ru.gulyaev.factory.lab4.task;
 
-import ru.gulyaev.factory.lab4.Storage;
+import org.apache.log4j.Logger;
+import ru.gulyaev.factory.lab4.utils.Storage;
 import ru.gulyaev.factory.lab4.gear.Gear;
 import ru.gulyaev.factory.lab4.gear.Product;
 import ru.gulyaev.factory.lab4.threadpool.Constants;
 
-import static ru.gulyaev.factory.lab4.Main.log;
 
 public class SupplyTask<T extends Product & Gear> implements Task {
+    public static final Logger log = Logger.getLogger(SupplyTask.class);
+
     private static final String SUPPLIED = " supplied ";
 
     private final Storage<T> _storage;
