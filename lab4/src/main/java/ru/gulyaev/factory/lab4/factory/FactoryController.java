@@ -85,6 +85,9 @@ public class FactoryController {
 
         createThreadPools();
         createStorages();
+        for(int i = 0; i < _dealerCount; ++i){
+            _dealerThreadPool.addTask(new SellCarTask(FactoryController.this, this._carStorage, this._dealerThreadPool));
+        }
     }
 
     private void createStorages() {
@@ -137,7 +140,7 @@ public class FactoryController {
     }
 
     public void addSellTask() {
-        _dealerThreadPool.addTask(new SellCarTask(this, _carStorage));
+        _dealerThreadPool.addTask(new SellCarTask(this, _carStorage, _dealerThreadPool));
     }
 
 

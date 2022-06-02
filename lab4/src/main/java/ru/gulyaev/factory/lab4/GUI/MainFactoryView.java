@@ -94,7 +94,6 @@ public class MainFactoryView {
         createScrollSubScenes();
         createDefaultSubScenes();
         createBackground();
-        addSellCarButton();
     }
 
     private void createScrollSubScenes(){
@@ -164,21 +163,6 @@ public class MainFactoryView {
             }
         };
         upd.schedule(task, 0, PERIOD);
-    }
-
-    private void addSellCarButton() {
-        Button b = new Button(PLUS);
-        b.setLayoutX(BUTTON_X);
-        b.setLayoutY(BUTTON_Y);
-
-        b.setOnAction(new EventHandler<ActionEvent>() {
-            @Override
-            public void handle(ActionEvent actionEvent) {
-                _mainFactoryViewController.addSellCarTask();
-            }
-        });
-
-        _anchorPane.getChildren().add(b);
     }
 
     private void createBackground() {
